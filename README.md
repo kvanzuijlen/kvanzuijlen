@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [Changed base image from alpine to distroless](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Additional labels](https://github.com/oauth2-proxy/oauth2-proxy/pull/2293) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Actually rolled back labeler](https://github.com/oauth2-proxy/oauth2-proxy/pull/2291) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Rolled back labeler to v4](https://github.com/oauth2-proxy/oauth2-proxy/pull/2290) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Update interfaces.go](https://github.com/kvanzuijlen/oauth2-proxy/pull/2) on [kvanzuijlen/oauth2-proxy](https://github.com/kvanzuijlen/oauth2-proxy)
-- [Update labeler.yaml](https://github.com/oauth2-proxy/oauth2-proxy/pull/2289) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.33.2`](https://github.com/renovatebot/renovate/releases/tag/37.33.2) - Universal dependency update tool that fits into your workflows.
-- [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) [`3.0.0`](https://github.com/bschaatsbergen/terraform-gce-atlantis/releases/tag/3.0.0) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b0`](https://github.com/home-assistant/core/releases/tag/2023.11.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-52.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.0.1) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.33.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.33.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.34.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.34.3) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.34.3`](https://github.com/renovatebot/renovate/releases/tag/37.34.3) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.48.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.48.0) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.76.1`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.76.1) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b1`](https://github.com/home-assistant/core/releases/tag/2023.11.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

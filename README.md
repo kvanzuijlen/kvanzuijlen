@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.35.0`](https://github.com/renovatebot/renovate/releases/tag/37.35.0) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.34.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.34.3) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.48.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.48.0) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.76.1`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.76.1) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b1`](https://github.com/home-assistant/core/releases/tag/2023.11.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.35.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.35.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.35.2`](https://github.com/renovatebot/renovate/releases/tag/37.35.2) - Universal dependency update tool that fits into your workflows.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b2`](https://github.com/home-assistant/core/releases/tag/2023.11.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.0.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

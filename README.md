@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [Updated oauth2-proxy tags to 7.5.1](https://github.com/oauth2-proxy/oauth2-proxy/pull/2303) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [Updated commented out version of oauth2-proxy](https://github.com/opencost/opencost-helm-chart/pull/139) on [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart)
 - [Changed base image from alpine to distroless](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Additional labels](https://github.com/oauth2-proxy/oauth2-proxy/pull/2293) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Actually rolled back labeler](https://github.com/oauth2-proxy/oauth2-proxy/pull/2291) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [Rolled back labeler to v4](https://github.com/oauth2-proxy/oauth2-proxy/pull/2290) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [Update interfaces.go](https://github.com/kvanzuijlen/oauth2-proxy/pull/2) on [kvanzuijlen/oauth2-proxy](https://github.com/kvanzuijlen/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.35.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.35.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.35.2`](https://github.com/renovatebot/renovate/releases/tag/37.35.2) - Universal dependency update tool that fits into your workflows.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b2`](https://github.com/home-assistant/core/releases/tag/2023.11.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.0.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.1) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.3.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.3.0) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b3`](https://github.com/home-assistant/core/releases/tag/2023.11.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.36.2`](https://github.com/renovatebot/renovate/releases/tag/37.36.2) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.36.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.36.1) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.32.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.2) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

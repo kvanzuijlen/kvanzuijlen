@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.3.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.3.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b3`](https://github.com/home-assistant/core/releases/tag/2023.11.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.36.2`](https://github.com/renovatebot/renovate/releases/tag/37.36.2) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.36.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.36.1) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.32.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.2) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b5`](https://github.com/home-assistant/core/releases/tag/2023.11.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.50.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.50.0) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.37.2`](https://github.com/renovatebot/renovate/releases/tag/37.37.2) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.0.2`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.36.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.36.2) - 
 
 ### ⭐ Recent Stars
 

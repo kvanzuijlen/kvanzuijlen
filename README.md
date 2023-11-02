@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) - OpenCost Helm chart 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0b5`](https://github.com/home-assistant/core/releases/tag/2023.11.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.50.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.50.0) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.37.2`](https://github.com/renovatebot/renovate/releases/tag/37.37.2) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.0.2`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.36.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.36.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.42.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.42.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.7.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.42.0`](https://github.com/renovatebot/renovate/releases/tag/37.42.0) - Universal dependency update tool that fits into your workflows.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.0`](https://github.com/home-assistant/core/releases/tag/2023.11.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.26.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.26.0-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars
 
@@ -44,8 +44,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@andykandev**](https://github.com/andykandev)
 - [**@matazr**](https://github.com/matazr)
 - [**@castrapel**](https://github.com/castrapel)
 - [**@josv1981**](https://github.com/josv1981)
 - [**@daanheikens**](https://github.com/daanheikens)
-- [**@Tbaturayucer**](https://github.com/Tbaturayucer)

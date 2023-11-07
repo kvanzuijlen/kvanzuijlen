@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [Fix cache volumeMount](https://github.com/renovatebot/helm-charts/pull/673) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
 - [Updated oauth2-proxy tags to 7.5.1](https://github.com/oauth2-proxy/oauth2-proxy/pull/2303) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Updated commented out version of oauth2-proxy](https://github.com/opencost/opencost-helm-chart/pull/139) on [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart)
 - [Changed base image from alpine to distroless](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Additional labels](https://github.com/oauth2-proxy/oauth2-proxy/pull/2293) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [Actually rolled back labeler](https://github.com/oauth2-proxy/oauth2-proxy/pull/2291) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.46.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.46.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.46.0`](https://github.com/renovatebot/renovate/releases/tag/37.46.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.49.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.49.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.49.1`](https://github.com/renovatebot/renovate/releases/tag/37.49.1) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.0) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.0) - Prometheus community Helm charts
 - [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.1`](https://github.com/home-assistant/core/releases/tag/2023.11.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.38.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.38.0) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.36.3`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.3) - 
 
 ### ⭐ Recent Stars
 

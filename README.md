@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) - OpenCost Helm chart 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 
 ### 🌱 Recent projects
 
@@ -22,7 +22,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [Fix cache volumeMount](https://github.com/renovatebot/helm-charts/pull/673) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
+- [fix:  cache volumeMount](https://github.com/renovatebot/helm-charts/pull/673) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
 - [Updated oauth2-proxy tags to 7.5.1](https://github.com/oauth2-proxy/oauth2-proxy/pull/2303) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Updated commented out version of oauth2-proxy](https://github.com/opencost/opencost-helm-chart/pull/139) on [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart)
 - [Changed base image from alpine to distroless](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.49.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.49.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.49.1`](https://github.com/renovatebot/renovate/releases/tag/37.49.1) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.4.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.50.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.50.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.50.2`](https://github.com/renovatebot/renovate/releases/tag/37.50.2) - Universal dependency update tool that fits into your workflows.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.18.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.0) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.0) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.1`](https://github.com/home-assistant/core/releases/tag/2023.11.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

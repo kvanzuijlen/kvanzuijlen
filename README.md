@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.4.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.1) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.50.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.50.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.50.2`](https://github.com/renovatebot/renovate/releases/tag/37.50.2) - Universal dependency update tool that fits into your workflows.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.18.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.0) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.51.3`](https://github.com/renovatebot/renovate/releases/tag/37.51.3) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.51.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.51.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-k6-operator-2.0.0`](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-2.0.0) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.0) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

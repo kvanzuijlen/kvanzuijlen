@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.51.3`](https://github.com/renovatebot/renovate/releases/tag/37.51.3) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.51.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.51.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.53.0`](https://github.com/renovatebot/renovate/releases/tag/37.53.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.52.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.52.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.15.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.1) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-k6-operator-2.0.0`](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-2.0.0) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.0) - ArgoProj Helm Charts
 

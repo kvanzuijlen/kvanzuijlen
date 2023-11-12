@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.56.0`](https://github.com/renovatebot/renovate/releases/tag/37.56.0) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.54.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.54.3) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.15.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.2) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.56.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.56.3) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.56.3`](https://github.com/renovatebot/renovate/releases/tag/37.56.3) - Universal dependency update tool that fits into your workflows.
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.26.2-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.26.2-helm) - OpenCost Helm chart 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.1) - ArgoProj Helm Charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.2`](https://github.com/home-assistant/core/releases/tag/2023.11.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-memcached-exporter-0.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.2.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.15.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.2) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-53.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-53.0.0) - Prometheus community Helm charts
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.56.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.56.3) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.56.3`](https://github.com/renovatebot/renovate/releases/tag/37.56.3) - Universal dependency update tool that fits into your workflows.
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.26.2-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.26.2-helm) - OpenCost Helm chart 

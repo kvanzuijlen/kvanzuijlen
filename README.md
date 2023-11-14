@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-53.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-53.0.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.56.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.56.3) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.56.3`](https://github.com/renovatebot/renovate/releases/tag/37.56.3) - Universal dependency update tool that fits into your workflows.
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.26.2-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.26.2-helm) - OpenCost Helm chart 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.1) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.57.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.57.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.57.2`](https://github.com/renovatebot/renovate/releases/tag/37.57.2) - Universal dependency update tool that fits into your workflows.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.19.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-54.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.1) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-k6-operator-3.0.0`](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.0.0) - 
 
 ### ⭐ Recent Stars
 

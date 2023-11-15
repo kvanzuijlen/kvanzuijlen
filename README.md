@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.57.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.57.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.57.2`](https://github.com/renovatebot/renovate/releases/tag/37.57.2) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.59.4`](https://github.com/renovatebot/renovate/releases/tag/37.59.4) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`rollout-operator-0.10.0`](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.10.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.59.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.59.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.4.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.1) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.19.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-54.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.1) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-k6-operator-3.0.0`](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.0.0) - 
 
 ### ⭐ Recent Stars
 

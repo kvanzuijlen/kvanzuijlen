@@ -6,35 +6,35 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/renovate-reproduction](https://github.com/kvanzuijlen/renovate-reproduction) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) - OpenCost Helm chart 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/renovate-reproduction](https://github.com/kvanzuijlen/renovate-reproduction) - 
 - [kvanzuijlen/google-cloud-service-account-key-usage-reporter](https://github.com/kvanzuijlen/google-cloud-service-account-key-usage-reporter) - Small script that reports on service account key usage in all projects where policy analyzer api has been enabled.
 - [kvanzuijlen/password_rotator](https://github.com/kvanzuijlen/password_rotator) - Project to help with rotating all passwords in a password vault export.
 - [kvanzuijlen/py-gitctx](https://github.com/kvanzuijlen/py-gitctx) - 
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
-- [kvanzuijlen/ziggo_network_device_names](https://github.com/kvanzuijlen/ziggo_network_device_names) - 
 
 ### 🚧 My recent Pull Requests
 
+- [[grafana] fix: Change sidecar.alerts.initDatasources to sidecar.alerts.initAlerts](https://github.com/grafana/helm-charts/pull/2789) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
+- [[grafana] fix: typo](https://github.com/grafana/helm-charts/pull/2788) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [fix:  cache volumeMount](https://github.com/renovatebot/helm-charts/pull/673) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
 - [Updated oauth2-proxy tags to 7.5.1](https://github.com/oauth2-proxy/oauth2-proxy/pull/2303) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Updated commented out version of oauth2-proxy](https://github.com/opencost/opencost-helm-chart/pull/139) on [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart)
-- [Changed base image from alpine to distroless](https://github.com/oauth2-proxy/oauth2-proxy/pull/2295) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [Additional labels](https://github.com/oauth2-proxy/oauth2-proxy/pull/2293) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.59.4`](https://github.com/renovatebot/renovate/releases/tag/37.59.4) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`rollout-operator-0.10.0`](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.10.0) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.59.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.59.2) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.4.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.1) - Prometheus community Helm charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.19.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.59.8`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.59.8) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.60.1`](https://github.com/renovatebot/renovate/releases/tag/37.60.1) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.4.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.2) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.2) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.24.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

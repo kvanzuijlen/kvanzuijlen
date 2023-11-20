@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.61.1`](https://github.com/renovatebot/renovate/releases/tag/37.61.1) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.3) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.61.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.61.3) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.61.3`](https://github.com/renovatebot/renovate/releases/tag/37.61.3) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.19.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.6.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.6.1) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`pyroscope-1.2.0`](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.2.0) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.3) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

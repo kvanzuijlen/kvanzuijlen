@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [docs: Added Robovac X8 Hybrid](https://github.com/denysdovhan/vacuum-card/pull/642) on [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card)
 - [[grafana] fix: Change sidecar.alerts.initDatasources to sidecar.alerts.initAlerts](https://github.com/grafana/helm-charts/pull/2789) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [[grafana] fix: typo](https://github.com/grafana/helm-charts/pull/2788) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [fix:  cache volumeMount](https://github.com/renovatebot/helm-charts/pull/673) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
 - [Updated oauth2-proxy tags to 7.5.1](https://github.com/oauth2-proxy/oauth2-proxy/pull/2303) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [Updated commented out version of oauth2-proxy](https://github.com/opencost/opencost-helm-chart/pull/139) on [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.59`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.59) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-adapter-4.8.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.8.2) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.63.0`](https://github.com/renovatebot/renovate/releases/tag/37.63.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.64.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.64.3) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.0-weekly.265`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.265) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.64.3`](https://github.com/renovatebot/renovate/releases/tag/37.64.3) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.0) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.4`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.4) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.61.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.61.4) - 
 
 ### ⭐ Recent Stars
 

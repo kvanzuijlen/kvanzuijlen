@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
 - [kvanzuijlen/renovate-reproduction](https://github.com/kvanzuijlen/renovate-reproduction) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) - OpenCost Helm chart 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix: typos for Readarr and Whisparr](https://github.com/Servarr/Wiki/pull/277) on [Servarr/Wiki](https://github.com/Servarr/Wiki)
 - [docs: Added Robovac X8 Hybrid](https://github.com/denysdovhan/vacuum-card/pull/642) on [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card)
 - [[grafana] fix: Change sidecar.alerts.initDatasources to sidecar.alerts.initAlerts](https://github.com/grafana/helm-charts/pull/2789) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [[grafana] fix: typo](https://github.com/grafana/helm-charts/pull/2788) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [fix:  cache volumeMount](https://github.com/renovatebot/helm-charts/pull/673) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
-- [Updated oauth2-proxy tags to 7.5.1](https://github.com/oauth2-proxy/oauth2-proxy/pull/2303) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.64.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.64.3) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.0-weekly.265`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.265) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.64.3`](https://github.com/renovatebot/renovate/releases/tag/37.64.3) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.4`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.4) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.65.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.65.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.38.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.38.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.65.1`](https://github.com/renovatebot/renovate/releases/tag/37.65.1) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-54.2.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.2.1) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.11.3`](https://github.com/home-assistant/core/releases/tag/2023.11.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.71.1`](https://github.com/renovatebot/renovate/releases/tag/37.71.1) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.6.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.6.0) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.5) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.68.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.68.4) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-adapter-4.9.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.74.2`](https://github.com/renovatebot/renovate/releases/tag/37.74.2) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.74.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.74.0) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.20.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.26.3-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.26.3-helm) - OpenCost Helm chart 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.64`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.64) - 
 
 ### ⭐ Recent Stars
 

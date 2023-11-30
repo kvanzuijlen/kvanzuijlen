@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat: Added image builder action](https://github.com/kvanzuijlen/homelab/pull/7) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
 - [Update and rename renovate.json to .github/renovate.json5](https://github.com/kvanzuijlen/homelab/pull/3) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
 - [docs: Improved docs readability for age](https://github.com/jkroepke/helm-secrets/pull/422) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets)
 - [enhancement(cloudflare-tunnel): Add support for originRequest config](https://github.com/cloudflare/helm-charts/pull/61) on [cloudflare/helm-charts](https://github.com/cloudflare/helm-charts)
 - [fix: typos for Readarr and Whisparr](https://github.com/Servarr/Wiki/pull/277) on [Servarr/Wiki](https://github.com/Servarr/Wiki)
-- [docs: Added Robovac X8 Hybrid](https://github.com/denysdovhan/vacuum-card/pull/642) on [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.74.2`](https://github.com/renovatebot/renovate/releases/tag/37.74.2) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.74.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.74.0) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.20.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.26.3-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.26.3-helm) - OpenCost Helm chart 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.64`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.64) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0b0`](https://github.com/home-assistant/core/releases/tag/2023.12.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.76.1`](https://github.com/renovatebot/renovate/releases/tag/37.76.1) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.5) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-k6-operator-3.2.0`](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.2.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.74.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.74.3) - 
 
 ### ⭐ Recent Stars
 

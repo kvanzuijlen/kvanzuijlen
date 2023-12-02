@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.77.1`](https://github.com/renovatebot/renovate/releases/tag/37.77.1) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.81.0`](https://github.com/renovatebot/renovate/releases/tag/37.81.0) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-crds-8.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-8.0.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.77.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.77.1) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0b1`](https://github.com/home-assistant/core/releases/tag/2023.12.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-0.29.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.29.0) - 
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.27.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.27.0-helm) - OpenCost Helm chart 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.5) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

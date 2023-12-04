@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.81.3`](https://github.com/renovatebot/renovate/releases/tag/37.81.3) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.81.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.81.4) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.0.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.81.4`](https://github.com/renovatebot/renovate/releases/tag/37.81.4) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.6) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.81.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.81.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-crds-8.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-8.0.1) - Prometheus community Helm charts
 - [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0b1`](https://github.com/home-assistant/core/releases/tag/2023.12.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars

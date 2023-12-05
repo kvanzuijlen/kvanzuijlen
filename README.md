@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.81.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.81.4) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.0.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.81.4`](https://github.com/renovatebot/renovate/releases/tag/37.81.4) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.51.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.51.6) - ArgoProj Helm Charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0b1`](https://github.com/home-assistant/core/releases/tag/2023.12.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) [`3.0.3`](https://github.com/bschaatsbergen/terraform-gce-atlantis/releases/tag/3.0.3) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.83.2`](https://github.com/renovatebot/renovate/releases/tag/37.83.2) - Universal dependency update tool that fits into your workflows.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.20.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0b2`](https://github.com/home-assistant/core/releases/tag/2023.12.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.83.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.83.0) - 
 
 ### ⭐ Recent Stars
 

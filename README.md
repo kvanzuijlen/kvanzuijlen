@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) [`3.0.3`](https://github.com/bschaatsbergen/terraform-gce-atlantis/releases/tag/3.0.3) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.83.2`](https://github.com/renovatebot/renovate/releases/tag/37.83.2) - Universal dependency update tool that fits into your workflows.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.20.1`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.1) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0b2`](https://github.com/home-assistant/core/releases/tag/2023.12.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.83.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.83.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.87.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.87.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.6.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.6.1) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0b4`](https://github.com/home-assistant/core/releases/tag/2023.12.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.87.0`](https://github.com/renovatebot/renovate/releases/tag/37.87.0) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.6) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

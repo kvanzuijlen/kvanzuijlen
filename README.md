@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: Create sha256sum for tar instead of binary](https://github.com/oauth2-proxy/oauth2-proxy/pull/2343) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [feat: Added image builder action](https://github.com/kvanzuijlen/homelab/pull/7) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
 - [Update and rename renovate.json to .github/renovate.json5](https://github.com/kvanzuijlen/homelab/pull/3) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
 - [docs: Improved docs readability for age](https://github.com/jkroepke/helm-secrets/pull/422) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets)
 - [enhancement(cloudflare-tunnel): Add support for originRequest config](https://github.com/cloudflare/helm-charts/pull/61) on [cloudflare/helm-charts](https://github.com/cloudflare/helm-charts)
-- [fix: typos for Readarr and Whisparr](https://github.com/Servarr/Wiki/pull/277) on [Servarr/Wiki](https://github.com/Servarr/Wiki)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.89.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.89.0`](https://github.com/renovatebot/renovate/releases/tag/37.89.0) - Universal dependency update tool that fits into your workflows.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.0`](https://github.com/home-assistant/core/releases/tag/2023.12.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.6.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.6.1) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.6) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.89.4`](https://github.com/renovatebot/renovate/releases/tag/37.89.4) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.32.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.6) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.89.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.3) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-opencost-exporter-0.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-opencost-exporter-0.1.0) - Prometheus community Helm charts
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.21.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 ### ⭐ Recent Stars
 
@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@kristina-head**](https://github.com/kristina-head)
 - [**@andykandev**](https://github.com/andykandev)
 - [**@matazr**](https://github.com/matazr)
 - [**@castrapel**](https://github.com/castrapel)
 - [**@josv1981**](https://github.com/josv1981)
-- [**@daanheikens**](https://github.com/daanheikens)

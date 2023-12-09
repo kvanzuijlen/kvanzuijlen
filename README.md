@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.89.4`](https://github.com/renovatebot/renovate/releases/tag/37.89.4) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.32.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.6) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.89.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.3) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-opencost-exporter-0.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-opencost-exporter-0.1.0) - Prometheus community Helm charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.21.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.89.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.5) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.8`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.8) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.1`](https://github.com/home-assistant/core/releases/tag/2023.12.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.89.5`](https://github.com/renovatebot/renovate/releases/tag/37.89.5) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.75`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.75) - 
 
 ### ⭐ Recent Stars
 

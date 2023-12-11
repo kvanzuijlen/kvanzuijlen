@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
+- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) - 
 - [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab) - 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [Servarr/Wiki](https://github.com/Servarr/Wiki) - 
-- [kvanzuijlen/renovate-reproduction](https://github.com/kvanzuijlen/renovate-reproduction) - 
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [fix: _to_float catch TypeError](https://github.com/kvanzuijlen/justnimbus/pull/5) on [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus)
-- [Fixed image-builder build-push all step](https://github.com/kvanzuijlen/homelab/pull/17) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
-- [Fixed image-builder](https://github.com/kvanzuijlen/homelab/pull/16) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
-- [Fix image-builder condition](https://github.com/kvanzuijlen/homelab/pull/15) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
-- [Fix image-builder branch](https://github.com/kvanzuijlen/homelab/pull/14) on [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab)
+- [chore: bumped actions/labeler to v5](https://github.com/bschaatsbergen/cidr/pull/87) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
+- [chore: updated actions/labeler to v5](https://github.com/bschaatsbergen/dnsee/pull/29) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
+- [chore: added PR template](https://github.com/bschaatsbergen/cidr/pull/86) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
+- [fix: Fixed help text for explain command](https://github.com/bschaatsbergen/cidr/pull/85) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
+- [feat: add headers to DisplayRecords output](https://github.com/bschaatsbergen/dnsee/pull/28) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.89.7`](https://github.com/renovatebot/renovate/releases/tag/37.89.7) - Universal dependency update tool that fits into your workflows.
+- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) [`v2.8.0`](https://github.com/denysdovhan/vacuum-card/releases/tag/v2.8.0) - Vacuum cleaner card for Home Assistant Lovelace UI
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.89.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.6) - 
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) [`v1.3.0`](https://github.com/bschaatsbergen/cidr/releases/tag/v1.3.0) - CLI to perform various actions on CIDR ranges
 - [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) [`0.7.3`](https://github.com/kvanzuijlen/justnimbus/releases/tag/0.7.3) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.89.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.5) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.39.8`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.39.8) - ArgoProj Helm Charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.1`](https://github.com/home-assistant/core/releases/tag/2023.12.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.89.5`](https://github.com/renovatebot/renovate/releases/tag/37.89.5) - Universal dependency update tool that fits into your workflows.
 
 ### ⭐ Recent Stars
 

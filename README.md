@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.89.7`](https://github.com/renovatebot/renovate/releases/tag/37.89.7) - Universal dependency update tool that fits into your workflows.
-- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) [`v2.8.0`](https://github.com/denysdovhan/vacuum-card/releases/tag/v2.8.0) - Vacuum cleaner card for Home Assistant Lovelace UI
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.89.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.89.6) - 
-- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) [`v1.3.0`](https://github.com/bschaatsbergen/cidr/releases/tag/v1.3.0) - CLI to perform various actions on CIDR ranges
-- [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) [`0.7.3`](https://github.com/kvanzuijlen/justnimbus/releases/tag/0.7.3) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.77`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.77) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.91.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.91.0) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.23.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.91.0`](https://github.com/renovatebot/renovate/releases/tag/37.91.0) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

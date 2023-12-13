@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.77`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.77) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.91.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.91.0) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) [`oauth2-proxy-6.23.0`](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.0) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.91.0`](https://github.com/renovatebot/renovate/releases/tag/37.91.0) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.91.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.91.4) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.78`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.78) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-json-exporter-0.9.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.9.0) - Prometheus community Helm charts
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.27.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.27.0) - Terraform Pull Request Automation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.91.4`](https://github.com/renovatebot/renovate/releases/tag/37.91.4) - Universal dependency update tool that fits into your workflows.
 
 ### ⭐ Recent Stars
 

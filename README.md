@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: Updated jenkins/inbound-agent to 3192](https://github.com/jenkinsci/helm-charts/pull/968) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: bumped actions/labeler to v5](https://github.com/bschaatsbergen/cidr/pull/87) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
 - [chore: updated actions/labeler to v5](https://github.com/bschaatsbergen/dnsee/pull/29) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
 - [chore: added PR template](https://github.com/bschaatsbergen/cidr/pull/86) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
 - [fix: Fixed help text for explain command](https://github.com/bschaatsbergen/cidr/pull/85) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
-- [feat: add headers to DisplayRecords output](https://github.com/bschaatsbergen/dnsee/pull/28) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.91.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.91.4) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.78`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.78) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-json-exporter-0.9.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.9.0) - Prometheus community Helm charts
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.27.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.27.0) - Terraform Pull Request Automation
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.91.4`](https://github.com/renovatebot/renovate/releases/tag/37.91.4) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.92.4`](https://github.com/renovatebot/renovate/releases/tag/37.92.4) - Universal dependency update tool that fits into your workflows.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.2`](https://github.com/home-assistant/core/releases/tag/2023.12.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.92.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.92.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.41.2`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.4.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 
@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@MarkDPierce**](https://github.com/MarkDPierce)
 - [**@kristina-head**](https://github.com/kristina-head)
 - [**@andykandev**](https://github.com/andykandev)
 - [**@matazr**](https://github.com/matazr)
 - [**@castrapel**](https://github.com/castrapel)
-- [**@josv1981**](https://github.com/josv1981)

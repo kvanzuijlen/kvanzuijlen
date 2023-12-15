@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.92.4`](https://github.com/renovatebot/renovate/releases/tag/37.92.4) - Universal dependency update tool that fits into your workflows.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.2`](https://github.com/home-assistant/core/releases/tag/2023.12.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.92.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.92.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.41.2`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.2) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.4.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.80`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.80) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.98.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.98.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.98.1`](https://github.com/renovatebot/renovate/releases/tag/37.98.1) - Universal dependency update tool that fits into your workflows.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.3`](https://github.com/home-assistant/core/releases/tag/2023.12.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.4.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.4.1) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

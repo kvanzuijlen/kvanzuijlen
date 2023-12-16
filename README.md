@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.80`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.80) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.98.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.98.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.98.1`](https://github.com/renovatebot/renovate/releases/tag/37.98.1) - Universal dependency update tool that fits into your workflows.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2023.12.3`](https://github.com/home-assistant/core/releases/tag/2023.12.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.4.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.4.1) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.7.2`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.100.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.100.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.5.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.5.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.100.0`](https://github.com/renovatebot/renovate/releases/tag/37.100.0) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.1) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

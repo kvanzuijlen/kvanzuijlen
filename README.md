@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.7.2`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.100.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.100.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.5.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.5.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.100.0`](https://github.com/renovatebot/renovate/releases/tag/37.100.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.101.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.101.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-cloudwatch-exporter-0.25.3`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.3) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.7.3`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.3) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.101.0`](https://github.com/renovatebot/renovate/releases/tag/37.101.0) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.1) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars

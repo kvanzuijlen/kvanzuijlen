@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
-- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
-- [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) - 
+- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
+- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: Updated helm-unittest to 0.3.6 &#43; made tests compatible](https://github.com/jenkinsci/helm-charts/pull/974) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: Bump kindest/node to recent versions](https://github.com/jenkinsci/helm-charts/pull/971) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: Updated jenkins/inbound-agent to 3192](https://github.com/jenkinsci/helm-charts/pull/968) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: bumped actions/labeler to v5](https://github.com/bschaatsbergen/cidr/pull/87) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
 - [chore: updated actions/labeler to v5](https://github.com/bschaatsbergen/dnsee/pull/29) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
-- [chore: added PR template](https://github.com/bschaatsbergen/cidr/pull/86) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.7.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.1) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.102.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.102.1) - 
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.28.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.28.0-helm) - OpenCost Helm chart 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.7.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.105.0`](https://github.com/renovatebot/renovate/releases/tag/37.105.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.104.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.104.1) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-4.11.0`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-4.11.0) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.102.1`](https://github.com/renovatebot/renovate/releases/tag/37.102.1) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-cloudwatch-exporter-0.25.3`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.3) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

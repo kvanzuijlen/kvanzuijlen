@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.105.1`](https://github.com/renovatebot/renovate/releases/tag/37.105.1) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.107.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.107.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.107.0`](https://github.com/renovatebot/renovate/releases/tag/37.107.0) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.7.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.3) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pushgateway-2.5.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.5.0) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-4.11.1`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-4.11.1) - Jenkins helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.105.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.105.0) - 
 
 ### ⭐ Recent Stars
 

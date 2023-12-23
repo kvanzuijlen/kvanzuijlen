@@ -6,19 +6,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
-- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab) - 
 - [kvanzuijlen/renovate-reproduction](https://github.com/kvanzuijlen/renovate-reproduction) - 
 - [kvanzuijlen/google-cloud-service-account-key-usage-reporter](https://github.com/kvanzuijlen/google-cloud-service-account-key-usage-reporter) - Small script that reports on service account key usage in all projects where policy analyzer api has been enabled.
 - [kvanzuijlen/password_rotator](https://github.com/kvanzuijlen/password_rotator) - Project to help with rotating all passwords in a password vault export.
-- [kvanzuijlen/py-gitctx](https://github.com/kvanzuijlen/py-gitctx) - 
 
 ### 🚧 My recent Pull Requests
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.34.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.0) - ArgoProj Helm Charts
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.107.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.107.0) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.107.0`](https://github.com/renovatebot/renovate/releases/tag/37.107.0) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.7.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.3) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pushgateway-2.5.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.5.0) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-4.11.1`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-4.11.1) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

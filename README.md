@@ -22,11 +22,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/7) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
+- [chore(deps): update kiwigrid/k8s-sidecar docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/6) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [chore: Updated helm-unittest to 0.3.6 &#43; made tests compatible](https://github.com/jenkinsci/helm-charts/pull/974) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: Bump kindest/node to recent versions](https://github.com/jenkinsci/helm-charts/pull/971) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: Updated jenkins/inbound-agent to 3192](https://github.com/jenkinsci/helm-charts/pull/968) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore: bumped actions/labeler to v5](https://github.com/bschaatsbergen/cidr/pull/87) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
-- [chore: updated actions/labeler to v5](https://github.com/bschaatsbergen/dnsee/pull/29) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
 
 ### 🚀 Latest releases I've contributed to
 

@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.34.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.0) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.3) - ArgoProj Helm Charts
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.107.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.107.0) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.107.0`](https://github.com/renovatebot/renovate/releases/tag/37.107.0) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.7.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.3) - 

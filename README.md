@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.0-weekly.270`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.107.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.107.1) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.107.1`](https://github.com/renovatebot/renovate/releases/tag/37.107.1) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-elasticsearch-exporter-5.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.4.0) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.3) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.107.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.107.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.7.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.3) - 
 
 ### ⭐ Recent Stars
 

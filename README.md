@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/7) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [chore(deps): update kiwigrid/k8s-sidecar docker tag to v1.25.3 - autoclosed](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/6) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [chore: Updated helm-unittest to 0.3.6 &#43; made tests compatible](https://github.com/jenkinsci/helm-charts/pull/974) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore: Bump kindest/node to recent versions](https://github.com/jenkinsci/helm-charts/pull/971) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore: Updated jenkins/inbound-agent to 3192](https://github.com/jenkinsci/helm-charts/pull/968) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/12) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
+- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/11) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
+- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/10) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
+- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/9) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
+- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/8) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 
 ### 🚀 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b0`](https://github.com/home-assistant/core/releases/tag/2024.1.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.109.0`](https://github.com/renovatebot/renovate/releases/tag/37.109.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.108.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.108.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-kafka-exporter-2.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.8.0) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.0-weekly.270`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.107.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.107.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.107.1`](https://github.com/renovatebot/renovate/releases/tag/37.107.1) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-elasticsearch-exporter-5.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.4.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.3) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

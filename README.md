@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [docs: Proofreading &#43; general improvements](https://github.com/renovatebot/renovate/pull/26442) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/12) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/11) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/10) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/9) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/8) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b0`](https://github.com/home-assistant/core/releases/tag/2024.1.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.109.0`](https://github.com/renovatebot/renovate/releases/tag/37.109.0) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.108.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.108.1) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-kafka-exporter-2.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.8.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.0-weekly.270`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.110.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.110.0) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b1`](https://github.com/home-assistant/core/releases/tag/2024.1.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.110.0`](https://github.com/renovatebot/renovate/releases/tag/37.110.0) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.81`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.81) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.25.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.25.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

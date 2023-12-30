@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.110.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.110.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b1`](https://github.com/home-assistant/core/releases/tag/2024.1.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.110.0`](https://github.com/renovatebot/renovate/releases/tag/37.110.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.112.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.112.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.112.0`](https://github.com/renovatebot/renovate/releases/tag/37.112.0) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-redis-exporter-6.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.1.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b2`](https://github.com/home-assistant/core/releases/tag/2024.1.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.81`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.81) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.25.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.25.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

@@ -9,8 +9,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
 - [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
-- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.112.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.112.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.112.0`](https://github.com/renovatebot/renovate/releases/tag/37.112.0) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-redis-exporter-6.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.1.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.115.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.115.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.115.0`](https://github.com/renovatebot/renovate/releases/tag/37.115.0) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.52.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.52.0) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.15.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.3) - Prometheus community Helm charts
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b2`](https://github.com/home-assistant/core/releases/tag/2024.1.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.81`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.81) - 
 
 ### ⭐ Recent Stars
 

@@ -22,11 +22,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/14) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
+- [obsolete](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/13) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [docs: Proofreading &#43; general improvements](https://github.com/renovatebot/renovate/pull/26442) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
-- [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/12) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
+- [obsolete](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/12) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/11) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/10) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/9) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 
 ### 🚀 Latest releases I've contributed to
 
@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@cassimahmedattia**](https://github.com/cassimahmedattia)
 - [**@MarkDPierce**](https://github.com/MarkDPierce)
 - [**@kristina-head**](https://github.com/kristina-head)
 - [**@andykandev**](https://github.com/andykandev)
 - [**@matazr**](https://github.com/matazr)
-- [**@castrapel**](https://github.com/castrapel)

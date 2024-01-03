@@ -9,8 +9,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
-- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) - Vacuum cleaner card for Home Assistant Lovelace UI
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b3`](https://github.com/home-assistant/core/releases/tag/2024.1.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.115.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.115.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.115.0`](https://github.com/renovatebot/renovate/releases/tag/37.115.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.117.0`](https://github.com/renovatebot/renovate/releases/tag/37.117.0) - Universal dependency update tool that fits into your workflows.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b5`](https://github.com/home-assistant/core/releases/tag/2024.1.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.116.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.116.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`pyroscope-1.3.2`](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.3.2) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.52.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.52.0) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.15.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.3) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

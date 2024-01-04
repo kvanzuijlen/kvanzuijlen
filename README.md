@@ -6,8 +6,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
+- [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat: Added Renovate to auto update helm-values and github-actions](https://github.com/jenkinsci/helm-charts/pull/979) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [docs: Fixed docs for controller.initScripts](https://github.com/jenkinsci/helm-charts/pull/977) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/14) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [obsolete](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/13) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 - [docs: Proofreading &#43; general improvements](https://github.com/renovatebot/renovate/pull/26442) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
-- [obsolete](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/12) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [deprecated](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/11) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.117.0`](https://github.com/renovatebot/renovate/releases/tag/37.117.0) - Universal dependency update tool that fits into your workflows.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0b5`](https://github.com/home-assistant/core/releases/tag/2024.1.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.116.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.116.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`pyroscope-1.3.2`](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.3.2) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.52.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.52.0) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.118.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.118.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.118.1`](https://github.com/renovatebot/renovate/releases/tag/37.118.1) - Universal dependency update tool that fits into your workflows.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0`](https://github.com/home-assistant/core/releases/tag/2024.1.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.7.5`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.5) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`alertmanager-snmp-notifier-0.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.3.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

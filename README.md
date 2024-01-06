@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat: Added renovate configuration](https://github.com/oauth2-proxy/oauth2-proxy/pull/2377) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [enhancement(terraform): Configurable path prefix to lookup code](https://github.com/GoogleCloudPlatform/migrate-from-service-account-keys/pull/30) on [GoogleCloudPlatform/migrate-from-service-account-keys](https://github.com/GoogleCloudPlatform/migrate-from-service-account-keys)
 - [feat: Added Renovate to auto update helm-values and github-actions](https://github.com/jenkinsci/helm-charts/pull/979) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [docs: Fixed docs for controller.initScripts](https://github.com/jenkinsci/helm-charts/pull/977) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore(deps): update nginx docker tag to v1.25.3](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/14) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [obsolete](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart/pull/13) on [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart)
-- [docs: Proofreading &#43; general improvements](https://github.com/renovatebot/renovate/pull/26442) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.82`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.82) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.122.0`](https://github.com/renovatebot/renovate/releases/tag/37.122.0) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.5.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.5.2) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.121.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.121.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.0`](https://github.com/home-assistant/core/releases/tag/2024.1.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.8.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.8.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.125.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.125.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.125.2`](https://github.com/renovatebot/renovate/releases/tag/37.125.2) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.9.2`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.2) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.1`](https://github.com/home-assistant/core/releases/tag/2024.1.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

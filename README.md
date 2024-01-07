@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.2`](https://github.com/home-assistant/core/releases/tag/2024.1.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.126.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.126.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.126.1`](https://github.com/renovatebot/renovate/releases/tag/37.126.1) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.4`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.4) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.8.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.8.1) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.125.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.125.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.125.2`](https://github.com/renovatebot/renovate/releases/tag/37.125.2) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.9.2`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.2) - ArgoProj Helm Charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.1`](https://github.com/home-assistant/core/releases/tag/2024.1.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

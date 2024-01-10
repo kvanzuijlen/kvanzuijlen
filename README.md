@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`rollout-operator-0.11.0`](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.11.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.8.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.8.3) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-json-exporter-0.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.11.0) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-events-2.4.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.2) - ArgoProj Helm Charts
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.127.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.127.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.8.0) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.127.0`](https://github.com/renovatebot/renovate/releases/tag/37.127.0) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.34.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.1) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

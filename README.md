@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [docs(style-guide): Added avoid contractions](https://github.com/renovatebot/renovate/pull/26591) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [chore: Added golint](https://github.com/kvanzuijlen/version/pull/1) on [kvanzuijlen/version](https://github.com/kvanzuijlen/version)
 - [ci: updated k8s versions](https://github.com/renovatebot/helm-charts/pull/835) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
 - [refactor: Pass packageFile to bumpPackageVersion](https://github.com/renovatebot/renovate/pull/26538) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [feat: Added renovate configuration](https://github.com/oauth2-proxy/oauth2-proxy/pull/2377) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [enhancement(terraform): Configurable path prefix to lookup code](https://github.com/GoogleCloudPlatform/migrate-from-service-account-keys/pull/30) on [GoogleCloudPlatform/migrate-from-service-account-keys](https://github.com/GoogleCloudPlatform/migrate-from-service-account-keys)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.128.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.128.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.128.3`](https://github.com/renovatebot/renovate/releases/tag/37.128.3) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.84`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.84) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-systemd-exporter-0.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-events-2.4.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.2) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.128.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.128.6) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.16.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.16.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.128.6`](https://github.com/renovatebot/renovate/releases/tag/37.128.6) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.78.1`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.1) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.5) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

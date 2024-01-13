@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.128.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.128.6) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.16.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.16.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.128.6`](https://github.com/renovatebot/renovate/releases/tag/37.128.6) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.78.1`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.1) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.5) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.130.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.130.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.8.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.2.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.0) - 
+- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) [`v0.3.0`](https://github.com/bschaatsbergen/dnsee/releases/tag/v0.3.0) - See DNS configurations quickly
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.3`](https://github.com/home-assistant/core/releases/tag/2024.1.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

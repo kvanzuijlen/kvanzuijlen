@@ -6,9 +6,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 - [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.130.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.130.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.131.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.131.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.131.0`](https://github.com/renovatebot/renovate/releases/tag/37.131.0) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.6) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.8.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.2.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.0) - 
-- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) [`v0.3.0`](https://github.com/bschaatsbergen/dnsee/releases/tag/v0.3.0) - See DNS configurations quickly
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.3`](https://github.com/home-assistant/core/releases/tag/2024.1.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

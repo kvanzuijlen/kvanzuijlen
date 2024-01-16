@@ -22,7 +22,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [docs(style-guide): Added avoid contractions](https://github.com/renovatebot/renovate/pull/26591) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
+- [docs(style-guide): Added avoid contractions/possessives](https://github.com/renovatebot/renovate/pull/26591) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [chore: Added golint](https://github.com/kvanzuijlen/version/pull/1) on [kvanzuijlen/version](https://github.com/kvanzuijlen/version)
 - [ci: updated k8s versions](https://github.com/renovatebot/helm-charts/pull/835) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
 - [refactor: Pass packageFile to bumpPackageVersion](https://github.com/renovatebot/renovate/pull/26538) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.131.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.131.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.131.0`](https://github.com/renovatebot/renovate/releases/tag/37.131.0) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.6) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-55.8.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.2.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.134.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.134.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.134.0`](https://github.com/renovatebot/renovate/releases/tag/37.134.0) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`rollout-operator-0.13.0`](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.13.0) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.52.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.52.2) - ArgoProj Helm Charts
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.28.3-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.28.3-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars
 

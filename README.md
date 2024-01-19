@@ -6,9 +6,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
-- [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.8.4`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.8.4) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.137.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.137.2) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-systemd-exporter-0.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.1) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.137.2`](https://github.com/renovatebot/renovate/releases/tag/37.137.2) - Universal dependency update tool that fits into your workflows.
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.29.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.29.0-helm) - OpenCost Helm chart 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.140.4`](https://github.com/renovatebot/renovate/releases/tag/37.140.4) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.140.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.140.2) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.8.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.0) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.0) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.9.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.9.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 
@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
 - [**@MarkDPierce**](https://github.com/MarkDPierce)
 - [**@kristina-head**](https://github.com/kristina-head)
 - [**@andykandev**](https://github.com/andykandev)
-- [**@matazr**](https://github.com/matazr)

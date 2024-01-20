@@ -6,35 +6,35 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 - [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab) - 
 - [kvanzuijlen/renovate-reproduction](https://github.com/kvanzuijlen/renovate-reproduction) - 
-- [kvanzuijlen/google-cloud-service-account-key-usage-reporter](https://github.com/kvanzuijlen/google-cloud-service-account-key-usage-reporter) - Small script that reports on service account key usage in all projects where policy analyzer api has been enabled.
 
 ### 🚧 My recent Pull Requests
 
-- [fix: Fixed Docker image labels](https://github.com/jenkinsci/docker-agent/pull/583) on [jenkinsci/docker-agent](https://github.com/jenkinsci/docker-agent)
-- [fix(python): Fixed KeyError](https://github.com/GoogleCloudPlatform/migrate-from-service-account-keys/pull/35) on [GoogleCloudPlatform/migrate-from-service-account-keys](https://github.com/GoogleCloudPlatform/migrate-from-service-account-keys)
-- [docs(style-guide): Added avoid contractions/possessives](https://github.com/renovatebot/renovate/pull/26591) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
-- [chore: Added golint](https://github.com/kvanzuijlen/version/pull/1) on [kvanzuijlen/version](https://github.com/kvanzuijlen/version)
-- [ci: updated k8s versions](https://github.com/renovatebot/helm-charts/pull/835) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
+- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/9) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/8) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/6) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/5) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [Renovate autoupdate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/2) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.140.4`](https://github.com/renovatebot/renovate/releases/tag/37.140.4) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.140.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.140.2) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.8.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.0) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.0) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.9.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.9.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.140.10`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.140.10) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.2) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.4`](https://github.com/home-assistant/core/releases/tag/2024.1.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.140.10`](https://github.com/renovatebot/renovate/releases/tag/37.140.10) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-0.31.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.31.1) - 
 
 ### ⭐ Recent Stars
 

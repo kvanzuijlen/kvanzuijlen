@@ -9,8 +9,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
+- [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.140.15`](https://github.com/renovatebot/renovate/releases/tag/37.140.15) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pushgateway-2.6.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.6.0) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.5`](https://github.com/home-assistant/core/releases/tag/2024.1.5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.140.14`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.140.14) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.3) - ArgoProj Helm Charts
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.27.1`](https://github.com/runatlantis/atlantis/releases/tag/v0.27.1) - Terraform Pull Request Automation
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) [`v1.4.0`](https://github.com/bschaatsbergen/cidr/releases/tag/v1.4.0) - CLI to perform various actions on CIDR ranges
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.141.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.141.0) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.4`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.4) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.141.0`](https://github.com/renovatebot/renovate/releases/tag/37.141.0) - Universal dependency update tool that fits into your workflows.
 
 ### ⭐ Recent Stars
 

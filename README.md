@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
-- [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 
 ### 🌱 Recent projects
 
@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.7`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.7) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.146.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.146.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.146.0`](https://github.com/renovatebot/renovate/releases/tag/37.146.0) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.41.8`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.8) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.148.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.148.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.91`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.91) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.149.1`](https://github.com/renovatebot/renovate/releases/tag/37.149.1) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.8`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.8) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.0.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.3) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars

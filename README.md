@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore(deps): Updated to ginkgo v2](https://github.com/oauth2-proxy/oauth2-proxy/pull/2459) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [chore(deps): Updated jwt and go-jose](https://github.com/oauth2-proxy/mockoidc/pull/50) on [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc)
 - [Update release action to go 1.21](https://github.com/oauth2-proxy/oauth2-proxy/pull/2437) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [Update labeler to v5](https://github.com/oauth2-proxy/oauth2-proxy/pull/2434) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/9) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/8) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/6) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.148.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.148.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.91`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.91) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.149.1`](https://github.com/renovatebot/renovate/releases/tag/37.149.1) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.8`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.8) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.0.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.3) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.8`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.8) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.151.0`](https://github.com/renovatebot/renovate/releases/tag/37.151.0) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.150.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.150.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.78.2`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.26.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.26.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

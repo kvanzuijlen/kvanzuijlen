@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.8`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.8) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.151.0`](https://github.com/renovatebot/renovate/releases/tag/37.151.0) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.150.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.150.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.78.2`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.2) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.26.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.26.0) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-admission-webhook-0.10.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.10.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.152.1`](https://github.com/renovatebot/renovate/releases/tag/37.152.1) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.92`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.92) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.152.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.152.0) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-apps-1.5.0`](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.5.0) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [feat: migrate to node v20](https://github.com/renovatebot/github-action/pull/799) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
+- [chore: Added renovate configuration](https://github.com/oauth2-proxy/oauth2-proxy/pull/2472) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [chore: update tsconfig/node16 to tsconfig/node20](https://github.com/renovatebot/github-action/pull/803) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
+- [feat!: migrate to node v20](https://github.com/renovatebot/github-action/pull/799) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
 - [chore(deps): Updated to ginkgo v2](https://github.com/oauth2-proxy/oauth2-proxy/pull/2459) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [chore(deps): Updated jwt and go-jose](https://github.com/oauth2-proxy/mockoidc/pull/50) on [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc)
-- [Update release action to go 1.21](https://github.com/oauth2-proxy/oauth2-proxy/pull/2437) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [Update labeler to v5](https://github.com/oauth2-proxy/oauth2-proxy/pull/2434) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.9`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.9) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.152.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.152.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.153.0`](https://github.com/renovatebot/renovate/releases/tag/37.153.0) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.2.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.94`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.94) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.2.5`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.5) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.153.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.153.2) - 
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.0.2`](https://github.com/renovatebot/github-action/releases/tag/v40.0.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-statsd-exporter-0.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.12.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.153.2`](https://github.com/renovatebot/renovate/releases/tag/37.153.2) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 

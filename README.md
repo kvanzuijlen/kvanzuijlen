@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.2.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.2.1) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.2.5`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.5) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.153.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.153.2) - 
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.0.2`](https://github.com/renovatebot/github-action/releases/tag/v40.0.2) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-statsd-exporter-0.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.12.0) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.153.2`](https://github.com/renovatebot/renovate/releases/tag/37.153.2) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars

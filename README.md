@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.162.2`](https://github.com/renovatebot/renovate/releases/tag/37.162.2) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.9.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.9.1) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.1.6`](https://github.com/home-assistant/core/releases/tag/2024.1.6) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.162.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.162.1) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.12`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.12) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.4.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.163.2`](https://github.com/renovatebot/renovate/releases/tag/37.163.2) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b0`](https://github.com/home-assistant/core/releases/tag/2024.2.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.163.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.163.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.9.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.9.2) - 
 
 ### ⭐ Recent Stars
 

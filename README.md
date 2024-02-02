@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: Remove docker.io prefix for inbound-agent](https://github.com/jenkinsci/helm-charts/pull/999) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [Super linter bump](https://github.com/jenkinsci/helm-charts/pull/997) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [chore(deps): Bumped super-linter to v6](https://github.com/kvanzuijlen/jenkins-helm-charts/pull/3) on [kvanzuijlen/jenkins-helm-charts](https://github.com/kvanzuijlen/jenkins-helm-charts)
+- [chore: Prefixed artifacthub.io/images with docker.io](https://github.com/jenkinsci/helm-charts/pull/995) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: Removed v16 upgrade notes from README.md](https://github.com/renovatebot/helm-charts/pull/907) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
-- [chore: Added renovate configuration](https://github.com/oauth2-proxy/oauth2-proxy/pull/2472) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [chore: update tsconfig/node16 to tsconfig/node20](https://github.com/renovatebot/github-action/pull/803) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
-- [feat!: migrate to node v20](https://github.com/renovatebot/github-action/pull/799) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
-- [chore(deps): Updated to ginkgo v2](https://github.com/oauth2-proxy/oauth2-proxy/pull/2459) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.4.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.163.2`](https://github.com/renovatebot/renovate/releases/tag/37.163.2) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b0`](https://github.com/home-assistant/core/releases/tag/2024.2.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.163.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.163.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.9.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.9.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.165.6`](https://github.com/renovatebot/renovate/releases/tag/37.165.6) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.165.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.165.1) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b2`](https://github.com/home-assistant/core/releases/tag/2024.2.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prom-label-proxy-0.7.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.1) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.0.10`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.0.10) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

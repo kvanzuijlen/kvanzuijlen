@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.165.6`](https://github.com/renovatebot/renovate/releases/tag/37.165.6) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.165.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.165.1) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b2`](https://github.com/home-assistant/core/releases/tag/2024.2.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prom-label-proxy-0.7.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.1) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.0.10`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.0.10) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.13`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.13) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.0.11`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.0.11) - Jenkins helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.168.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.168.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.6.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.168.2`](https://github.com/renovatebot/renovate/releases/tag/37.168.2) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 

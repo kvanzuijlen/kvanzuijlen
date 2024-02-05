@@ -6,35 +6,35 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [version-cli/version](https://github.com/version-cli/version) - 
+- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### 🌱 Recent projects
 
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
-- [kvanzuijlen/version](https://github.com/kvanzuijlen/version) - 
 - [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 - [kvanzuijlen/homelab](https://github.com/kvanzuijlen/homelab) - 
 - [kvanzuijlen/renovate-reproduction](https://github.com/kvanzuijlen/renovate-reproduction) - 
+- [kvanzuijlen/google-cloud-service-account-key-usage-reporter](https://github.com/kvanzuijlen/google-cloud-service-account-key-usage-reporter) - Small script that reports on service account key usage in all projects where policy analyzer api has been enabled.
 
 ### 🚧 My recent Pull Requests
 
+- [chore: Migrate org](https://github.com/version-cli/version/pull/12) on [version-cli/version](https://github.com/version-cli/version)
+- [ci: Added CI pipeline](https://github.com/version-cli/version/pull/2) on [version-cli/version](https://github.com/version-cli/version)
+- [chore: Changed GoReleaser --rm-dist to --clean](https://github.com/bschaatsbergen/cidr/pull/92) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
+- [chore: Changed GoReleaser --rm-dist to --clean](https://github.com/bschaatsbergen/dnsee/pull/36) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
 - [chore: Remove docker.io prefix for inbound-agent](https://github.com/jenkinsci/helm-charts/pull/999) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [Super linter bump](https://github.com/jenkinsci/helm-charts/pull/997) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore(deps): Bumped super-linter to v6](https://github.com/kvanzuijlen/jenkins-helm-charts/pull/3) on [kvanzuijlen/jenkins-helm-charts](https://github.com/kvanzuijlen/jenkins-helm-charts)
-- [chore: Prefixed artifacthub.io/images with docker.io](https://github.com/jenkinsci/helm-charts/pull/995) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore: Removed v16 upgrade notes from README.md](https://github.com/renovatebot/helm-charts/pull/907) on [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.170.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.170.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.170.0`](https://github.com/renovatebot/renovate/releases/tag/37.170.0) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b4`](https://github.com/home-assistant/core/releases/tag/2024.2.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-statsd-exporter-0.13.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.13.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.10`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.10) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b6`](https://github.com/home-assistant/core/releases/tag/2024.2.0b6) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.172.2`](https://github.com/renovatebot/renovate/releases/tag/37.172.2) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.6.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2) - Prometheus community Helm charts
+- [version-cli/version](https://github.com/version-cli/version) [`v0.1.0`](https://github.com/version-cli/version/releases/tag/v0.1.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.171.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.171.2) - 
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b6`](https://github.com/home-assistant/core/releases/tag/2024.2.0b6) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.172.2`](https://github.com/renovatebot/renovate/releases/tag/37.172.2) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.6.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2) - Prometheus community Helm charts
-- [version-cli/version](https://github.com/version-cli/version) [`v0.1.0`](https://github.com/version-cli/version/releases/tag/v0.1.0) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.171.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.171.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.173.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.173.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.173.2`](https://github.com/renovatebot/renovate/releases/tag/37.173.2) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b8`](https://github.com/home-assistant/core/releases/tag/2024.2.0b8) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.8.3`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.3) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.14) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

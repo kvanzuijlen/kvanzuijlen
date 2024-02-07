@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 
 ### 🌱 Recent projects
 
@@ -22,22 +22,23 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: Some minor refactoring &#43; miscellaneous fixes](https://github.com/version-cli/version/pull/13) on [version-cli/version](https://github.com/version-cli/version)
+- [docs: Add another advanced configuration example](https://github.com/renovatebot/github-action/pull/814) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
+- [chore: Disabled GitLeaks linter](https://github.com/jenkinsci/helm-charts/pull/1003) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: Migrate org](https://github.com/version-cli/version/pull/12) on [version-cli/version](https://github.com/version-cli/version)
 - [ci: Added CI pipeline](https://github.com/version-cli/version/pull/2) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: Changed GoReleaser --rm-dist to --clean](https://github.com/bschaatsbergen/cidr/pull/92) on [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr)
-- [chore: Changed GoReleaser --rm-dist to --clean](https://github.com/bschaatsbergen/dnsee/pull/36) on [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee)
-- [chore: Remove docker.io prefix for inbound-agent](https://github.com/jenkinsci/helm-charts/pull/999) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.173.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.173.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.173.2`](https://github.com/renovatebot/renovate/releases/tag/37.173.2) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0b8`](https://github.com/home-assistant/core/releases/tag/2024.2.0b8) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.8.3`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.3) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.53.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.53.14) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.10.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.174.6`](https://github.com/renovatebot/renovate/releases/tag/37.174.6) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.174.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.174.3) - 
+- [version-cli/version](https://github.com/version-cli/version) [`v0.1.1`](https://github.com/version-cli/version/releases/tag/v0.1.1) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.54.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.54.0) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [bschaatsbergen/create](https://github.com/bschaatsbergen/create) - A modern UNIX file generation tool
 - [RolphR/gcp-networking](https://github.com/RolphR/gcp-networking) - 
 - [Ankermgmt/ankermake-m5-protocol](https://github.com/Ankermgmt/ankermake-m5-protocol) - Ankermake M5 protocol specifications and libraries *NOT AFFILIATED WITH ANKER*

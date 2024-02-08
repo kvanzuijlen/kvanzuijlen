@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
-- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) - CLI to perform various actions on CIDR ranges
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [enhancement: Allow overriding the Billing Project for google_cloud_asset_resources_search_all](https://github.com/GoogleCloudPlatform/magic-modules/pull/9935) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules)
 - [chore: Some minor refactoring &#43; miscellaneous fixes](https://github.com/version-cli/version/pull/13) on [version-cli/version](https://github.com/version-cli/version)
 - [docs: Add another advanced configuration example](https://github.com/renovatebot/github-action/pull/814) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
 - [chore: Disabled GitLeaks linter](https://github.com/jenkinsci/helm-charts/pull/1003) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: Migrate org](https://github.com/version-cli/version/pull/12) on [version-cli/version](https://github.com/version-cli/version)
-- [ci: Added CI pipeline](https://github.com/version-cli/version/pull/2) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.10.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.174.6`](https://github.com/renovatebot/renovate/releases/tag/37.174.6) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.174.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.174.3) - 
-- [version-cli/version](https://github.com/version-cli/version) [`v0.1.1`](https://github.com/version-cli/version/releases/tag/v0.1.1) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-5.54.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.54.0) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.175.1`](https://github.com/renovatebot/renovate/releases/tag/37.175.1) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.0) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0`](https://github.com/home-assistant/core/releases/tag/2024.2.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.175.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.175.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.29.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.29.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

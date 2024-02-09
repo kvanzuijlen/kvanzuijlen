@@ -6,10 +6,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [version-cli/version](https://github.com/version-cli/version) - 
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
-- [version-cli/version](https://github.com/version-cli/version) - 
 - [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) - See DNS configurations quickly
 
 ### 🌱 Recent projects
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.175.1`](https://github.com/renovatebot/renovate/releases/tag/37.175.1) - Universal dependency automation tool.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.0) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.177.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.177.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.180.0`](https://github.com/renovatebot/renovate/releases/tag/37.180.0) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.3) - ArgoProj Helm Charts
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.0.3`](https://github.com/renovatebot/github-action/releases/tag/v40.0.3) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.0`](https://github.com/home-assistant/core/releases/tag/2024.2.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.175.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.175.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.29.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.29.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

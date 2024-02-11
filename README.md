@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.181.8`](https://github.com/renovatebot/renovate/releases/tag/37.181.8) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.182.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.182.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.182.0`](https://github.com/renovatebot/renovate/releases/tag/37.182.0) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.30.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.30.0) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.10.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.1) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.181.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.181.6) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.5) - ArgoProj Helm Charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.1`](https://github.com/home-assistant/core/releases/tag/2024.2.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

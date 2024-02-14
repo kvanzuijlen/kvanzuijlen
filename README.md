@@ -6,9 +6,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat(manager/gomod): Added support for the gomod toolchain directive](https://github.com/renovatebot/renovate/pull/27279) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
+- [Update dependency go to v1.22.0](https://github.com/kvanzuijlen/renovate-reproduction-gomod-toolchain/pull/1) on [kvanzuijlen/renovate-reproduction-gomod-toolchain](https://github.com/kvanzuijlen/renovate-reproduction-gomod-toolchain)
+- [chore: Changed group to groupName](https://github.com/version-cli/version/pull/22) on [version-cli/version](https://github.com/version-cli/version)
+- [chore: Replaced all uses of latest with versions](https://github.com/version-cli/version/pull/20) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: Fixed deprecation in go-releaser](https://github.com/version-cli/version/pull/19) on [version-cli/version](https://github.com/version-cli/version)
-- [ci: Added some checks to workflows](https://github.com/version-cli/version/pull/18) on [version-cli/version](https://github.com/version-cli/version)
-- [enhancement: Allow overriding the Billing Project for google_cloud_asset_resources_search_all](https://github.com/GoogleCloudPlatform/magic-modules/pull/9935) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules)
-- [chore: Some minor refactoring &#43; miscellaneous fixes](https://github.com/version-cli/version/pull/13) on [version-cli/version](https://github.com/version-cli/version)
-- [docs: Add another advanced configuration example](https://github.com/renovatebot/github-action/pull/814) on [renovatebot/github-action](https://github.com/renovatebot/github-action)
 
 ### 🚀 Latest releases I've contributed to
 
-- [version-cli/version](https://github.com/version-cli/version) [`v0.1.2`](https://github.com/version-cli/version/releases/tag/v0.1.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.186.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.186.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.186.0`](https://github.com/renovatebot/renovate/releases/tag/37.186.0) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.104`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.104) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.7`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.7) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.187.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.187.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.187.1`](https://github.com/renovatebot/renovate/releases/tag/37.187.1) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.12`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.12) - ArgoProj Helm Charts
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.6.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.6.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.105`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.105) - 
 
 ### ⭐ Recent Stars
 

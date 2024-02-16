@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [version-cli/version](https://github.com/version-cli/version) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) - 
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.191.1`](https://github.com/renovatebot/renovate/releases/tag/37.191.1) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-snmp-exporter-1.8.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.2) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.192.2`](https://github.com/renovatebot/renovate/releases/tag/37.192.2) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-0.32.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.32.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.192.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.192.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.12.0) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.14) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.10.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.191.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.191.0) - 
 
 ### ⭐ Recent Stars
 

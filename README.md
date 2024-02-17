@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.192.2`](https://github.com/renovatebot/renovate/releases/tag/37.192.2) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-0.32.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.32.0) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.192.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.192.1) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.12.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.0.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.0.14) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.194.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.194.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.194.0`](https://github.com/renovatebot/renovate/releases/tag/37.194.0) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.10.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.3) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pushgateway-2.7.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.7.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.2`](https://github.com/home-assistant/core/releases/tag/2024.2.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

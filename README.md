@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
-- [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [ci: Build musllinux wheels](https://github.com/scikit-learn/scikit-learn/pull/28490) on [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [chore: Fix changelog entries](https://github.com/jenkinsci/helm-charts/pull/1022) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [GH-18036: [Packaging][Python] Add support for musllinux_1_2](https://github.com/apache/arrow/pull/40177) on [apache/arrow](https://github.com/apache/arrow)
+- [CI Build musllinux wheels](https://github.com/scikit-learn/scikit-learn/pull/28490) on [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [chore(Renovate): Wait for a release to reach a minimum age](https://github.com/jenkinsci/helm-charts/pull/1014) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [Update dependency go to v1.22.0](https://github.com/kvanzuijlen/renovate-reproduction-gomod-toolchain/pull/2) on [kvanzuijlen/renovate-reproduction-gomod-toolchain](https://github.com/kvanzuijlen/renovate-reproduction-gomod-toolchain)
-- [docs: Fix broken links in README.md](https://github.com/oauth2-proxy/oauth2-proxy/pull/2500) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [feat(manager/gomod): Added support for the gomod toolchain directive](https://github.com/renovatebot/renovate/pull/27279) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.8.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.8.2) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.203.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.203.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.203.1`](https://github.com/renovatebot/renovate/releases/tag/37.203.1) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.106`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.106) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.2.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.2.3) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.0.15`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.0.15) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.204.1`](https://github.com/renovatebot/renovate/releases/tag/37.204.1) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.203.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.203.5) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.11.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.3.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.1) - 
 
 ### ⭐ Recent Stars
 

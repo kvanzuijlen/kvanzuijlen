@@ -9,8 +9,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.0.15`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.0.15) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.204.1`](https://github.com/renovatebot/renovate/releases/tag/37.204.1) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.203.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.203.5) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.11.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.3.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-smartctl-exporter-0.7.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.7.1) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.3.2`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.210.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.210.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.210.0`](https://github.com/renovatebot/renovate/releases/tag/37.210.0) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.3`](https://github.com/home-assistant/core/releases/tag/2024.2.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-smartctl-exporter-0.7.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.7.1) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.3.2`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.210.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.210.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.210.0`](https://github.com/renovatebot/renovate/releases/tag/37.210.0) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.3`](https://github.com/home-assistant/core/releases/tag/2024.2.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.212.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.212.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.212.0`](https://github.com/renovatebot/renovate/releases/tag/37.212.0) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.3.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.3.1) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-snmp-exporter-2.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-2.1.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`pyroscope-1.4.1`](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1) - 
 
 ### ⭐ Recent Stars
 

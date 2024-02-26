@@ -8,9 +8,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 
 ### 🌱 Recent projects
 
@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.214.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.214.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.214.0`](https://github.com/renovatebot/renovate/releases/tag/37.214.0) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-apps-1.6.2`](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.6.2) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-kafka-exporter-2.9.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.9.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.213.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.213.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.213.0`](https://github.com/renovatebot/renovate/releases/tag/37.213.0) - Universal dependency automation tool.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.3.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.3.1) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`pyroscope-1.4.1`](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1) - 
 
 ### ⭐ Recent Stars

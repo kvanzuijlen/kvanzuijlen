@@ -7,10 +7,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 ### 🛠️ Recent contributions
 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
+- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
-- [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
+- [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [chore: Fix changelog entries](https://github.com/jenkinsci/helm-charts/pull/1022) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [GH-18036: [Packaging][Python] Add support for musllinux_1_2](https://github.com/apache/arrow/pull/40177) on [apache/arrow](https://github.com/apache/arrow)
-- [CI Build musllinux wheels](https://github.com/scikit-learn/scikit-learn/pull/28490) on [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-- [chore(Renovate): Wait for a release to reach a minimum age](https://github.com/jenkinsci/helm-charts/pull/1014) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [Update dependency go to v1.22.0](https://github.com/kvanzuijlen/renovate-reproduction-gomod-toolchain/pull/2) on [kvanzuijlen/renovate-reproduction-gomod-toolchain](https://github.com/kvanzuijlen/renovate-reproduction-gomod-toolchain)
+- [chore: Fixed Renovate changelog entry](https://github.com/jenkinsci/helm-charts/pull/1029) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [chore(deps): update docker.io/kiwigrid/k8s-sidecar docker tag to v1.25.6](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/5) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/4) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/3) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/2) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.214.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.214.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.214.0`](https://github.com/renovatebot/renovate/releases/tag/37.214.0) - Universal dependency automation tool.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-apps-1.6.2`](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.6.2) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-kafka-exporter-2.9.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.9.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`pyroscope-1.4.1`](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.12.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.214.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.214.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.214.1`](https://github.com/renovatebot/renovate/releases/tag/37.214.1) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.4`](https://github.com/home-assistant/core/releases/tag/2024.2.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.78.3`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.3) - 
 
 ### ⭐ Recent Stars
 

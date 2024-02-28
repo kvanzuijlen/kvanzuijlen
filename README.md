@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
-- [oauth2-proxy/mockoidc](https://github.com/oauth2-proxy/mockoidc) - A Mock OIDC Server for Unit &amp; Integration Tests
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [[prometheus] bump Prometheus to v2.50.1](https://github.com/prometheus-community/helm-charts/pull/4307) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
+- [[grafana] bump kiwigrid/k8s-sidecar version to 1.25.6](https://github.com/grafana/helm-charts/pull/2993) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [chore: Fixed Renovate changelog entry](https://github.com/jenkinsci/helm-charts/pull/1029) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore(deps): update docker.io/kiwigrid/k8s-sidecar docker tag to v1.25.6](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/5) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 - [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/4) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/3) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/2) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.12.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.214.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.214.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.214.1`](https://github.com/renovatebot/renovate/releases/tag/37.214.1) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.4`](https://github.com/home-assistant/core/releases/tag/2024.2.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.78.3`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.3) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.217.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.217.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.218.0`](https://github.com/renovatebot/renovate/releases/tag/37.218.0) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.5`](https://github.com/home-assistant/core/releases/tag/2024.2.5) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.15.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-0.34.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.34.0) - 
 
 ### ⭐ Recent Stars
 

@@ -23,18 +23,18 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 ### 🚧 My recent Pull Requests
 
 - [[prometheus] bump Prometheus to v2.50.1](https://github.com/prometheus-community/helm-charts/pull/4307) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-- [[grafana] bump kiwigrid/k8s-sidecar version to 1.25.6](https://github.com/grafana/helm-charts/pull/2993) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
+- [[grafana] bump kiwigrid/k8s-sidecar version to 1.26.0](https://github.com/grafana/helm-charts/pull/2993) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [chore: Fixed Renovate changelog entry](https://github.com/jenkinsci/helm-charts/pull/1029) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore(deps): update docker.io/kiwigrid/k8s-sidecar docker tag to v1.25.6](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/5) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 - [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/4) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.217.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.217.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.218.0`](https://github.com/renovatebot/renovate/releases/tag/37.218.0) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.2.5`](https://github.com/home-assistant/core/releases/tag/2024.2.5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.15.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-0.34.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.34.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.219.6`](https://github.com/renovatebot/renovate/releases/tag/37.219.6) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.15.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.0b0`](https://github.com/home-assistant/core/releases/tag/2024.3.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.108`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.108) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.219.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.219.5) - 
 
 ### ⭐ Recent Stars
 
@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@bschaatsbergen**](https://github.com/bschaatsbergen)
 - [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
 - [**@MarkDPierce**](https://github.com/MarkDPierce)
 - [**@kristina-head**](https://github.com/kristina-head)
-- [**@andykandev**](https://github.com/andykandev)

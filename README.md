@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.219.6`](https://github.com/renovatebot/renovate/releases/tag/37.219.6) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.15.0) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.0b0`](https://github.com/home-assistant/core/releases/tag/2024.3.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.108`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.108) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.219.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.219.5) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.12`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.12) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.221.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.221.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.18.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.18.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-operator-0.3.17`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.221.0`](https://github.com/renovatebot/renovate/releases/tag/37.221.0) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 

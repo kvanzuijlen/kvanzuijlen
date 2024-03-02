@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix(theme-default): include path in sidebar heading links](https://github.com/vuepress/ecosystem/pull/82) on [vuepress/ecosystem](https://github.com/vuepress/ecosystem)
+- [fix: Changed runAsUser uid](https://github.com/runatlantis/helm-charts/pull/359) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts)
+- [chore: Specify uid for consistent uids over images](https://github.com/runatlantis/atlantis/pull/4304) on [runatlantis/atlantis](https://github.com/runatlantis/atlantis)
+- [docs: Fix docs website build](https://github.com/runatlantis/atlantis/pull/4303) on [runatlantis/atlantis](https://github.com/runatlantis/atlantis)
 - [[prometheus] bump Prometheus to v2.50.1](https://github.com/prometheus-community/helm-charts/pull/4307) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts)
-- [[grafana] bump kiwigrid/k8s-sidecar version to 1.26.0](https://github.com/grafana/helm-charts/pull/2993) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
-- [chore: Fixed Renovate changelog entry](https://github.com/jenkinsci/helm-charts/pull/1029) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore(deps): update docker.io/kiwigrid/k8s-sidecar docker tag to v1.25.6](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/5) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [closed](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/4) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.12`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.12) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.221.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.221.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.18.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.18.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-operator-0.3.17`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.221.0`](https://github.com/renovatebot/renovate/releases/tag/37.221.0) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.222.3`](https://github.com/renovatebot/renovate/releases/tag/37.222.3) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.222.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.222.2) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.5.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.5.1) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.16.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.0b3`](https://github.com/home-assistant/core/releases/tag/2024.3.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

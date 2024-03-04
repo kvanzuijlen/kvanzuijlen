@@ -8,8 +8,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
-- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
+- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 
 ### 🌱 Recent projects
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.224.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.224.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.224.2`](https://github.com/renovatebot/renovate/releases/tag/37.224.2) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.0b4`](https://github.com/home-assistant/core/releases/tag/2024.3.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [version-cli/version](https://github.com/version-cli/version) [`v0.1.3`](https://github.com/version-cli/version/releases/tag/v0.1.3) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.6.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.6.0) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.225.0`](https://github.com/renovatebot/renovate/releases/tag/37.225.0) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.40.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.40.14) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.224.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.224.4) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.20.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.20.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.0b5`](https://github.com/home-assistant/core/releases/tag/2024.3.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

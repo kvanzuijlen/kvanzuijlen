@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
+- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [version-cli/version](https://github.com/version-cli/version) - 
+- [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
 - [tfversion/docs](https://github.com/tfversion/docs) - Main website and documentation for tfversion
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts
+- [version-cli/version](https://github.com/version-cli/version) - 
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [chore: Updated go-jwt to v5](https://github.com/oauth2-proxy/oauth2-proxy/pull/2540) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [chore: Replace `font: false` with privacy plugin](https://github.com/tfversion/docs/pull/2) on [tfversion/docs](https://github.com/tfversion/docs)
-- [chore: Changed favicon path](https://github.com/tfversion/docs/pull/1) on [tfversion/docs](https://github.com/tfversion/docs)
-- [fix: Fixed release pipeline](https://github.com/version-cli/version/pull/35) on [version-cli/version](https://github.com/version-cli/version)
-- [fix: Fix release pipeline](https://github.com/version-cli/version/pull/34) on [version-cli/version](https://github.com/version-cli/version)
+- [fix(renovate): Fix Renovate configuration for Jenkins LTS](https://github.com/jenkinsci/helm-charts/pull/1039) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [chore(deps): update azure/setup-helm action to v4](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/9) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [chore(deps): update super-linter/super-linter action to v6.3.0](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/8) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [chore(deps): update jenkins/jenkins](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/7) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
+- [chore(deps): update renovatebot/github-action action to v40.1.3](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/6) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.229.2`](https://github.com/renovatebot/renovate/releases/tag/37.229.2) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-0.36.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.36.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.31.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.31.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.229.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.229.0) - 
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.30.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.30.0-helm) - OpenCost Helm chart 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.21.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.1) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.109`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.109) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.227.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.227.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.0b6`](https://github.com/home-assistant/core/releases/tag/2024.3.0b6) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

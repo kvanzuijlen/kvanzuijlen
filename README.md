@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: Fix Renovate comment for helm-docs](https://github.com/jenkinsci/helm-charts/pull/1046) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix(renovate): Fix Renovate configuration for Jenkins LTS](https://github.com/jenkinsci/helm-charts/pull/1039) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore(deps): update azure/setup-helm action to v4](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/9) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 - [chore(deps): update super-linter/super-linter action to v6.3.0](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/8) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 - [chore(deps): update jenkins/jenkins](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/7) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [chore(deps): update renovatebot/github-action action to v40.1.3](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/6) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.230.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.230.0) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.0.18`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.0.18) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.230.0`](https://github.com/renovatebot/renovate/releases/tag/37.230.0) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`alertmanager-1.10.0`](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.10.0) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.0`](https://github.com/home-assistant/core/releases/tag/2024.3.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.2`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.231.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.231.2) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.0`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.0) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.231.2`](https://github.com/renovatebot/renovate/releases/tag/37.231.2) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.21.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.3) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

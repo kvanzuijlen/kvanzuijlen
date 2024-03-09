@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.2`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.231.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.231.2) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.0`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.0) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.231.2`](https://github.com/renovatebot/renovate/releases/tag/37.231.2) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-56.21.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.3) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.233.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.233.1) - 
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.27.2`](https://github.com/runatlantis/atlantis/releases/tag/v0.27.2) - Terraform Pull Request Automation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.17.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.17.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.233.1`](https://github.com/renovatebot/renovate/releases/tag/37.233.1) - Universal dependency automation tool.
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.31.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.31.0-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars
 

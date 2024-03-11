@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-57.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.233.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.233.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.235.1`](https://github.com/renovatebot/renovate/releases/tag/37.235.1) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.235.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.235.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-57.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.1) - Prometheus community Helm charts
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.27.2`](https://github.com/runatlantis/atlantis/releases/tag/v0.27.2) - Terraform Pull Request Automation
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.233.1`](https://github.com/renovatebot/renovate/releases/tag/37.233.1) - Universal dependency automation tool.
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.31.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.31.0-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars

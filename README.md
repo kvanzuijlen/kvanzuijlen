@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
-- [tfversion/docs](https://github.com/tfversion/docs) - Main website and documentation for tfversion
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: fixed renovate config](https://github.com/runatlantis/helm-charts/pull/367) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts)
+- [chore: Introduced Renovate (WIP)](https://github.com/grafana/helm-charts/pull/3015) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
+- [fix: fix values.schema.json for extraArgs](https://github.com/runatlantis/helm-charts/pull/366) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts)
+- [[grafana] bump kiwigrid/k8s-sidecar to 1.26.1](https://github.com/grafana/helm-charts/pull/3011) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
 - [chore: Fix Renovate comment for helm-docs](https://github.com/jenkinsci/helm-charts/pull/1046) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [fix(renovate): Fix Renovate configuration for Jenkins LTS](https://github.com/jenkinsci/helm-charts/pull/1039) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore(deps): update azure/setup-helm action to v4](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/9) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [chore(deps): update super-linter/super-linter action to v6.3.0](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/8) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
-- [chore(deps): update jenkins/jenkins](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate/pull/7) on [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.235.1`](https://github.com/renovatebot/renovate/releases/tag/37.235.1) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.235.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.235.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-57.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.1) - Prometheus community Helm charts
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.27.2`](https://github.com/runatlantis/atlantis/releases/tag/v0.27.2) - Terraform Pull Request Automation
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.31.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.31.0-helm) - OpenCost Helm chart 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.236.0`](https://github.com/renovatebot/renovate/releases/tag/37.236.0) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.1) - ArgoProj Helm Charts
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) [`v4.6.0`](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-stack-2.10.2`](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.10.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.235.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.235.5) - 
 
 ### ⭐ Recent Stars
 

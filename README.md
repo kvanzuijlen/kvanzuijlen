@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.236.0`](https://github.com/renovatebot/renovate/releases/tag/37.236.0) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.12.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.240.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.240.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.240.1`](https://github.com/renovatebot/renovate/releases/tag/37.240.1) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-crds-10.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-10.0.0) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.1) - ArgoProj Helm Charts
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) [`v4.6.0`](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-stack-2.10.2`](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.10.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.235.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.235.5) - 
 
 ### ⭐ Recent Stars
 

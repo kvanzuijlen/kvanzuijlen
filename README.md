@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.2) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.244.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.244.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.244.0`](https://github.com/renovatebot/renovate/releases/tag/37.244.0) - Universal dependency automation tool.
+- [denysdovhan/vacuum-card](https://github.com/denysdovhan/vacuum-card) [`v2.8.1`](https://github.com/denysdovhan/vacuum-card/releases/tag/v2.8.1) - Vacuum cleaner card for Home Assistant Lovelace UI
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.12.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.0) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.240.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.240.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.240.1`](https://github.com/renovatebot/renovate/releases/tag/37.240.1) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-crds-10.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-10.0.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.1) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

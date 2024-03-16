@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-57.0.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.3) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.246.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.246.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-operator-0.3.19`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.19) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.1`](https://github.com/home-assistant/core/releases/tag/2024.3.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.246.1`](https://github.com/renovatebot/renovate/releases/tag/37.246.1) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.249.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.249.3) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.1`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.1) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.249.3`](https://github.com/renovatebot/renovate/releases/tag/37.249.3) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.3`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.3) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-mysql-exporter-2.5.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

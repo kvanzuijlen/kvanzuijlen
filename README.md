@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.250.1`](https://github.com/renovatebot/renovate/releases/tag/37.250.1) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.252.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.252.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.252.0`](https://github.com/renovatebot/renovate/releases/tag/37.252.0) - Universal dependency automation tool.
 - [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) [`v2.0.0`](https://github.com/bschaatsbergen/cidr/releases/tag/v2.0.0) - CLI to perform various actions on CIDR ranges
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.250.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.250.0) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.1`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.1) - Jenkins helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.3`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.3) - 
 
@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
-- [**@Baranthir**](https://github.com/Baranthir)
 - [**@bschaatsbergen**](https://github.com/bschaatsbergen)
 - [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
 - [**@MarkDPierce**](https://github.com/MarkDPierce)
+- [**@kristina-head**](https://github.com/kristina-head)

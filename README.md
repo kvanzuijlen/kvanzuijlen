@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.252.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.252.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.252.0`](https://github.com/renovatebot/renovate/releases/tag/37.252.0) - Universal dependency automation tool.
-- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) [`v2.0.0`](https://github.com/bschaatsbergen/cidr/releases/tag/v2.0.0) - CLI to perform various actions on CIDR ranges
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.1`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.1) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.2.3`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.3) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.256.0`](https://github.com/renovatebot/renovate/releases/tag/37.256.0) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.12.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.255.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.255.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-adapter-4.9.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.3) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

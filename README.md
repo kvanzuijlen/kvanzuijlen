@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.261.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.261.0) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.2`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.2) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.261.0`](https://github.com/renovatebot/renovate/releases/tag/37.261.0) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.45.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.45.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-adapter-4.9.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.9.6`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.6) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.262.2`](https://github.com/renovatebot/renovate/releases/tag/37.262.2) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.12.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.262.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.262.1) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.3) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

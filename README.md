@@ -7,8 +7,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 ### 🛠️ Recent contributions
 
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.265.0`](https://github.com/renovatebot/renovate/releases/tag/37.265.0) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-admission-webhook-0.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.11.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.264.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.264.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.113`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.113) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.9.6`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.6) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.262.2`](https://github.com/renovatebot/renovate/releases/tag/37.262.2) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.12.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.262.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.262.1) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.3) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

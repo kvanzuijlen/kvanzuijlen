@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.265.0`](https://github.com/renovatebot/renovate/releases/tag/37.265.0) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-admission-webhook-0.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.11.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.264.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.264.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.113`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.113) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.9.6`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.6) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.266.0`](https://github.com/renovatebot/renovate/releases/tag/37.266.0) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.265.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.265.1) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.3`](https://github.com/home-assistant/core/releases/tag/2024.3.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.34.4`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.4) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.47.1`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.47.1) - 
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.266.0`](https://github.com/renovatebot/renovate/releases/tag/37.266.0) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.265.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.265.1) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.3.3`](https://github.com/home-assistant/core/releases/tag/2024.3.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.34.4`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.34.4) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-5.47.1`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.47.1) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.35.0`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.0) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.267.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.267.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-57.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.1.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.267.1`](https://github.com/renovatebot/renovate/releases/tag/37.267.1) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.12.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3) - 
 
 ### ⭐ Recent Stars
 

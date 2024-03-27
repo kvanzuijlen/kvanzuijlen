@@ -22,7 +22,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [feat: Added ProtonVPN feature selection](https://github.com/qdm12/gluetun/pull/2182) on [qdm12/gluetun](https://github.com/qdm12/gluetun)
+- [feat(protonvpn): Added ProtonVPN feature selection](https://github.com/qdm12/gluetun/pull/2182) on [qdm12/gluetun](https://github.com/qdm12/gluetun)
 - [Add renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate/pull/1) on [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate)
 - [chore: fixed renovate config](https://github.com/runatlantis/helm-charts/pull/367) on [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts)
 - [chore: Introduced Renovate (WIP)](https://github.com/grafana/helm-charts/pull/3015) on [grafana/helm-charts](https://github.com/grafana/helm-charts)
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.270.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.270.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.270.0`](https://github.com/renovatebot/renovate/releases/tag/37.270.0) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pgbouncer-exporter-0.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0) - Prometheus community Helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-4.23.6`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.23.6) - Atlantis Helm Chart
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.1.6`](https://github.com/renovatebot/github-action/releases/tag/v40.1.6) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.271.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.271.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.271.1`](https://github.com/renovatebot/renovate/releases/tag/37.271.1) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.3.0-weekly.283`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.283) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.35.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.1) - ArgoProj Helm Charts
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.33.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.33.0-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars
 

@@ -30,18 +30,18 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.271.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.271.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.271.1`](https://github.com/renovatebot/renovate/releases/tag/37.271.1) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.3.0-weekly.283`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.283) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.35.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.35.1) - ArgoProj Helm Charts
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.33.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.33.0-helm) - OpenCost Helm chart 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.273.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.273.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-kafka-exporter-2.10.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.10.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.273.0`](https://github.com/renovatebot/renovate/releases/tag/37.273.0) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.0b0`](https://github.com/home-assistant/core/releases/tag/2024.4.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.114`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.114) - 
 
 ### ⭐ Recent Stars
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [RolphR/gcp-networking](https://github.com/RolphR/gcp-networking) - 
 - [Ankermgmt/ankermake-m5-protocol](https://github.com/Ankermgmt/ankermake-m5-protocol) - Ankermake M5 protocol specifications and libraries *NOT AFFILIATED WITH ANKER*
-- [bschaatsbergen/terraform-gce-atlantis](https://github.com/bschaatsbergen/terraform-gce-atlantis) - A set of @hashicorp Terraform configurations for running Atlantis on @googlecloud Compute Engine
+- [runatlantis/terraform-gce-atlantis](https://github.com/runatlantis/terraform-gce-atlantis) - A set of  Terraform configurations for running Atlantis on @googlecloud Compute Engine
 
 ### 👀 Recent followers
 

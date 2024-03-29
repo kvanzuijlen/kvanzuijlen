@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.273.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.273.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-kafka-exporter-2.10.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.10.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.273.0`](https://github.com/renovatebot/renovate/releases/tag/37.273.0) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.0b0`](https://github.com/home-assistant/core/releases/tag/2024.4.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.114`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.114) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.274.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.274.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.274.0`](https://github.com/renovatebot/renovate/releases/tag/37.274.0) - Universal dependency automation tool.
+- [runatlantis/terraform-gce-atlantis](https://github.com/runatlantis/terraform-gce-atlantis) [`4.1.0`](https://github.com/runatlantis/terraform-gce-atlantis/releases/tag/4.1.0) - A set of  Terraform configurations for running Atlantis on @googlecloud Compute Engine
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.0b1`](https://github.com/home-assistant/core/releases/tag/2024.4.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-elasticsearch-exporter-5.7.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.7.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

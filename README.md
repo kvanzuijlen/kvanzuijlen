@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.279.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.279.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.279.0`](https://github.com/renovatebot/renovate/releases/tag/37.279.0) - Universal dependency automation tool.
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.33.1-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.33.1-helm) - OpenCost Helm chart 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.19.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.0) - Prometheus community Helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-4.24.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.24.0) - Atlantis Helm Chart
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.0b7`](https://github.com/home-assistant/core/releases/tag/2024.4.0b7) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.116`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.116) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.41.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.1) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-4.24.1`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.24.1) - Atlantis Helm Chart
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.5) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

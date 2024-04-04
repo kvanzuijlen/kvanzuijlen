@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.0b7`](https://github.com/home-assistant/core/releases/tag/2024.4.0b7) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.116`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.116) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.12.5`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.5) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.0`](https://github.com/home-assistant/core/releases/tag/2024.4.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.18.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.18.1) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.41.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.1) - ArgoProj Helm Charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-4.24.1`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.24.1) - Atlantis Helm Chart
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.5) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

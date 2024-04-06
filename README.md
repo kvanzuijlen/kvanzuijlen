@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.279.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.279.3) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.279.3`](https://github.com/renovatebot/renovate/releases/tag/37.279.3) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.13.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.0) - 
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.33.2-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.33.2-helm) - OpenCost Helm chart 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.9`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.9) - ArgoProj Helm Charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-4.25.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.25.0) - Atlantis Helm Chart
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.1`](https://github.com/home-assistant/core/releases/tag/2024.4.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.13.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.279.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.279.4) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.279.4`](https://github.com/renovatebot/renovate/releases/tag/37.279.4) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 

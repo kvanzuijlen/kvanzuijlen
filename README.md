@@ -6,8 +6,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 - [version-cli/version](https://github.com/version-cli/version) - 
+- [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
@@ -22,22 +22,23 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix: fix docs build workflow](https://github.com/version-cli/version/pull/60) on [version-cli/version](https://github.com/version-cli/version)
+- [fix(docs): fix docs deploy](https://github.com/version-cli/version/pull/59) on [version-cli/version](https://github.com/version-cli/version)
+- [chore: Added initial documentation website](https://github.com/version-cli/version/pull/57) on [version-cli/version](https://github.com/version-cli/version)
 - [fix: fix label glob exclusion](https://github.com/version-cli/version/pull/55) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: pr autolabeling improvements](https://github.com/version-cli/version/pull/53) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: pr autolabeling improvements](https://github.com/version-cli/version/pull/52) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: Better autolabels](https://github.com/version-cli/version/pull/51) on [version-cli/version](https://github.com/version-cli/version)
-- [feat(protonvpn): Added ProtonVPN feature selection](https://github.com/qdm12/gluetun/pull/2182) on [qdm12/gluetun](https://github.com/qdm12/gluetun)
 
 ### 🚀 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pushgateway-2.10.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.10.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.280.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.280.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.280.0`](https://github.com/renovatebot/renovate/releases/tag/37.280.0) - Universal dependency automation tool.
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-4.25.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-4.25.0) - Atlantis Helm Chart
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.1`](https://github.com/home-assistant/core/releases/tag/2024.4.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.13.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.1) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.279.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.279.4) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.279.4`](https://github.com/renovatebot/renovate/releases/tag/37.279.4) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 
+- [version-cli/version](https://github.com/version-cli/version) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [RolphR/gcp-networking](https://github.com/RolphR/gcp-networking) - 
 - [Ankermgmt/ankermake-m5-protocol](https://github.com/Ankermgmt/ankermake-m5-protocol) - Ankermake M5 protocol specifications and libraries *NOT AFFILIATED WITH ANKER*

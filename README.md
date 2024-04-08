@@ -22,11 +22,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore(deps): updated go.mod](https://github.com/oauth2-proxy/oauth2-proxy/pull/2599) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [chore(deps): update go-jose to v4](https://github.com/oauth2-proxy/oauth2-proxy/pull/2597) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [fix: updated the keycloak image repository for docker-compose](https://github.com/oauth2-proxy/oauth2-proxy/pull/2596) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [fix: fix docs build workflow](https://github.com/version-cli/version/pull/60) on [version-cli/version](https://github.com/version-cli/version)
 - [fix(docs): fix docs deploy](https://github.com/version-cli/version/pull/59) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: Added initial documentation website](https://github.com/version-cli/version/pull/57) on [version-cli/version](https://github.com/version-cli/version)
-- [fix: fix label glob exclusion](https://github.com/version-cli/version/pull/55) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: pr autolabeling improvements](https://github.com/version-cli/version/pull/53) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 

@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix: fix fetch depth](https://github.com/version-cli/version/pull/65) on [version-cli/version](https://github.com/version-cli/version)
+- [chore: pin gha runners](https://github.com/version-cli/version/pull/64) on [version-cli/version](https://github.com/version-cli/version)
+- [chore: removed explicit enabled managers to enable all](https://github.com/version-cli/version/pull/63) on [version-cli/version](https://github.com/version-cli/version)
+- [docs: several docs improvements](https://github.com/version-cli/version/pull/62) on [version-cli/version](https://github.com/version-cli/version)
 - [chore(deps): updated go.mod](https://github.com/oauth2-proxy/oauth2-proxy/pull/2599) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [chore(deps): update go-jose to v4](https://github.com/oauth2-proxy/oauth2-proxy/pull/2597) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [fix: updated the keycloak image repository for docker-compose](https://github.com/oauth2-proxy/oauth2-proxy/pull/2596) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [fix: fix docs build workflow](https://github.com/version-cli/version/pull/60) on [version-cli/version](https://github.com/version-cli/version)
-- [fix(docs): fix docs deploy](https://github.com/version-cli/version/pull/59) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.0.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.0.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.2`](https://github.com/home-assistant/core/releases/tag/2024.4.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.19.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1) - Prometheus community Helm charts
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.1.8`](https://github.com/renovatebot/github-action/releases/tag/v40.1.8) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.280.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.280.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.1.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.1.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`jiralert-1.7.1`](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.281.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.281.2) - 
+- [version-cli/version](https://github.com/version-cli/version) [`v0.1.4`](https://github.com/version-cli/version/releases/tag/v0.1.4) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.281.2`](https://github.com/renovatebot/renovate/releases/tag/37.281.2) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 

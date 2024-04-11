@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) - Atlantis Helm Chart
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: improved renovate config for detecting python updates](https://github.com/jenkinsci/helm-charts/pull/1068) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: fix fetch depth](https://github.com/version-cli/version/pull/65) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: pin gha runners](https://github.com/version-cli/version/pull/64) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: removed explicit enabled managers to enable all](https://github.com/version-cli/version/pull/63) on [version-cli/version](https://github.com/version-cli/version)
 - [docs: several docs improvements](https://github.com/version-cli/version/pull/62) on [version-cli/version](https://github.com/version-cli/version)
-- [chore(deps): updated go.mod](https://github.com/oauth2-proxy/oauth2-proxy/pull/2599) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.1.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.1.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`jiralert-1.7.1`](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.1) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.281.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.281.2) - 
-- [version-cli/version](https://github.com/version-cli/version) [`v0.1.4`](https://github.com/version-cli/version/releases/tag/v0.1.4) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.281.2`](https://github.com/renovatebot/renovate/releases/tag/37.281.2) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.284.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.284.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.284.0`](https://github.com/renovatebot/renovate/releases/tag/37.284.0) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.11`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.11) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.14.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.14.0) - Prometheus community Helm charts
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.33.3-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.33.3-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars
 

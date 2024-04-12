@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.284.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.284.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.284.0`](https://github.com/renovatebot/renovate/releases/tag/37.284.0) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.287.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.287.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.287.1`](https://github.com/renovatebot/renovate/releases/tag/37.287.1) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.15.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.3.118`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.118) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.11`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.11) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.14.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.14.0) - Prometheus community Helm charts
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.33.3-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.33.3-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars
 

@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.292.1`](https://github.com/renovatebot/renovate/releases/tag/37.292.1) - Universal dependency automation tool.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.292.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.292.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.295.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.295.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.295.0`](https://github.com/renovatebot/renovate/releases/tag/37.295.0) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-snmp-exporter-5.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.1.1) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.9.2`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.2) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.3`](https://github.com/home-assistant/core/releases/tag/2024.4.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 

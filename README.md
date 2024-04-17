@@ -30,19 +30,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.300.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.300.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.1.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.2) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.300.0`](https://github.com/renovatebot/renovate/releases/tag/37.300.0) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-0.13.4`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.4) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.301.6`](https://github.com/renovatebot/renovate/releases/tag/37.301.6) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.1.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.3) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.4.3`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.3) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.301.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.301.5) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.12`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.12) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [RolphR/gcp-networking](https://github.com/RolphR/gcp-networking) - 
 - [Ankermgmt/ankermake-m5-protocol](https://github.com/Ankermgmt/ankermake-m5-protocol) - Ankermake M5 protocol specifications and libraries *NOT AFFILIATED WITH ANKER*
-- [runatlantis/terraform-gce-atlantis](https://github.com/runatlantis/terraform-gce-atlantis) - A set of  Terraform configurations for running Atlantis on @googlecloud Compute Engine
 
 ### 👀 Recent followers
 

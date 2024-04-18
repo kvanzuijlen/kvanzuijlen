@@ -22,27 +22,27 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: added oci label to Dockerfile to reference the source](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/179) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 - [chore: improved renovate config for detecting python updates](https://github.com/jenkinsci/helm-charts/pull/1068) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: fix fetch depth](https://github.com/version-cli/version/pull/65) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: pin gha runners](https://github.com/version-cli/version/pull/64) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: removed explicit enabled managers to enable all](https://github.com/version-cli/version/pull/63) on [version-cli/version](https://github.com/version-cli/version)
-- [docs: several docs improvements](https://github.com/version-cli/version/pull/62) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.301.6`](https://github.com/renovatebot/renovate/releases/tag/37.301.6) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.1.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.3) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.4.3`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.3) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.301.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.301.5) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.12`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.12) - ArgoProj Helm Charts
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.34.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.34.0-helm) - OpenCost Helm chart 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-sampling-0.1.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-0.1.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-systemd-exporter-0.2.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.1) - Prometheus community Helm charts
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.1.10`](https://github.com/renovatebot/github-action/releases/tag/v40.1.10) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.6`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.6) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 
+- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [RolphR/gcp-networking](https://github.com/RolphR/gcp-networking) - 
-- [Ankermgmt/ankermake-m5-protocol](https://github.com/Ankermgmt/ankermake-m5-protocol) - Ankermake M5 protocol specifications and libraries *NOT AFFILIATED WITH ANKER*
 
 ### 👀 Recent followers
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.9.7`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.7) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.306.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.306.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.306.1`](https://github.com/renovatebot/renovate/releases/tag/37.306.1) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.1) - 
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.34.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.34.0-helm) - OpenCost Helm chart 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-sampling-0.1.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-0.1.1) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-systemd-exporter-0.2.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.1) - Prometheus community Helm charts
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.1.10`](https://github.com/renovatebot/github-action/releases/tag/v40.1.10) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.6`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.6) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

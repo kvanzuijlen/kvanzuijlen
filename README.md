@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: use go-version-file instead of specifying version](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/181) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 - [chore: added oci label to Dockerfile to reference the source](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/179) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 - [chore: improved renovate config for detecting python updates](https://github.com/jenkinsci/helm-charts/pull/1068) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: fix fetch depth](https://github.com/version-cli/version/pull/65) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: pin gha runners](https://github.com/version-cli/version/pull/64) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: removed explicit enabled managers to enable all](https://github.com/version-cli/version/pull/63) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.9.7`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.7) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.306.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.306.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.306.1`](https://github.com/renovatebot/renovate/releases/tag/37.306.1) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.1) - 
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.34.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.34.0-helm) - OpenCost Helm chart 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.310.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.310.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.310.1`](https://github.com/renovatebot/renovate/releases/tag/37.310.1) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.2.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.3.2`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.3.2) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.13`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.13) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

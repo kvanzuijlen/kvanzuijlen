@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.313.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.313.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.313.1`](https://github.com/renovatebot/renovate/releases/tag/37.313.1) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.315.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.315.1) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.14) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.315.1`](https://github.com/renovatebot/renovate/releases/tag/37.315.1) - Universal dependency automation tool.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.20.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.0) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.3.3`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.3.3) - 
-- [bschaatsbergen/dnsee](https://github.com/bschaatsbergen/dnsee) [`v0.5.0`](https://github.com/bschaatsbergen/dnsee/releases/tag/v0.5.0) - See DNS configurations quickly
 
 ### ⭐ Recent Stars
 

@@ -30,19 +30,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.315.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.315.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.318.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.318.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.318.1`](https://github.com/renovatebot/renovate/releases/tag/37.318.1) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.15.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.15.2) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.14) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.315.1`](https://github.com/renovatebot/renovate/releases/tag/37.315.1) - Universal dependency automation tool.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.20.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.3.3`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.3.3) - 
 
 ### ⭐ Recent Stars
 
+- [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
-- [RolphR/gcp-networking](https://github.com/RolphR/gcp-networking) - 
 
 ### 👀 Recent followers
 

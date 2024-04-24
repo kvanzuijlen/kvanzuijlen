@@ -6,8 +6,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [version-cli/version](https://github.com/version-cli/version) - 
 - [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.318.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.318.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.318.1`](https://github.com/renovatebot/renovate/releases/tag/37.318.1) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.2) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.15.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.15.2) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.14`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.14) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prom-label-proxy-0.7.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.2) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.319.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.319.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.319.2`](https://github.com/renovatebot/renovate/releases/tag/37.319.2) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.4`](https://github.com/home-assistant/core/releases/tag/2024.4.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.9.4`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.4) - 
 
 ### ⭐ Recent Stars
 

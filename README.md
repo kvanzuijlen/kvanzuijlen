@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prom-label-proxy-0.7.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.2) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.319.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.319.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.319.2`](https://github.com/renovatebot/renovate/releases/tag/37.319.2) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.4.4`](https://github.com/home-assistant/core/releases/tag/2024.4.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.9.4`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.4) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.3) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.321.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.321.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.321.1`](https://github.com/renovatebot/renovate/releases/tag/37.321.1) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0b0`](https://github.com/home-assistant/core/releases/tag/2024.5.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-8.16.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.16.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

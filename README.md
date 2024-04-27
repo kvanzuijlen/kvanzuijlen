@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.325.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.325.1) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.17`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.17) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.325.1`](https://github.com/renovatebot/renovate/releases/tag/37.325.1) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-snmp-exporter-5.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.2.0) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.4.4`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.4) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-systemd-exporter-0.2.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.2) - Prometheus community Helm charts
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.27.3`](https://github.com/runatlantis/atlantis/releases/tag/v0.27.3) - Terraform Pull Request Automation
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.323.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.323.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.323.1`](https://github.com/renovatebot/renovate/releases/tag/37.323.1) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 

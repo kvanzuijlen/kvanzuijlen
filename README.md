@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.326.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.326.3) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-mysql-exporter-2.5.3`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.3) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.326.3`](https://github.com/renovatebot/renovate/releases/tag/37.326.3) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0b1`](https://github.com/home-assistant/core/releases/tag/2024.5.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.17`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.17) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.7`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.7) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.41.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.3) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-elasticsearch-exporter-5.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.8.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.329.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.329.0) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0b3`](https://github.com/home-assistant/core/releases/tag/2024.5.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.7`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.7) - Jenkins helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.41.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.3) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-elasticsearch-exporter-5.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.8.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.329.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.329.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0b3`](https://github.com/home-assistant/core/releases/tag/2024.5.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.8`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.8) - Jenkins helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.0) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.18`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.18) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.4.2`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.4.2) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0b4`](https://github.com/home-assistant/core/releases/tag/2024.5.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

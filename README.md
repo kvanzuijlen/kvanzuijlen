@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.8`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.8) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.7.18`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.7.18) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.4.2`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.4.2) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0b4`](https://github.com/home-assistant/core/releases/tag/2024.5.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.35.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.35.0-helm) - OpenCost Helm chart 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.333.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.333.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.5`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.5) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.333.1`](https://github.com/renovatebot/renovate/releases/tag/37.333.1) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0`](https://github.com/home-assistant/core/releases/tag/2024.5.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

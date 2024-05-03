@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.336.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.336.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.336.0`](https://github.com/renovatebot/renovate/releases/tag/37.336.0) - Universal dependency automation tool.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.3.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.3) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.6`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.6) - 
 - [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.35.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.35.0-helm) - OpenCost Helm chart 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.333.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.333.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.5`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.5) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.333.1`](https://github.com/renovatebot/renovate/releases/tag/37.333.1) - Universal dependency automation tool.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.0`](https://github.com/home-assistant/core/releases/tag/2024.5.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

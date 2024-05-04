@@ -6,9 +6,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [version-cli/version](https://github.com/version-cli/version) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
-- [version-cli/version](https://github.com/version-cli/version) - 
 - [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: have renovate pin dependencies in pyproject.toml](https://github.com/version-cli/version/pull/85) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: use go-version-file instead of specifying version](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/181) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 - [chore: added oci label to Dockerfile to reference the source](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/179) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 - [chore: improved renovate config for detecting python updates](https://github.com/jenkinsci/helm-charts/pull/1068) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: fix fetch depth](https://github.com/version-cli/version/pull/65) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: pin gha runners](https://github.com/version-cli/version/pull/64) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.336.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.336.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.336.0`](https://github.com/renovatebot/renovate/releases/tag/37.336.0) - Universal dependency automation tool.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.340.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.340.5) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.340.5`](https://github.com/renovatebot/renovate/releases/tag/37.340.5) - Universal dependency automation tool.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.1`](https://github.com/home-assistant/core/releases/tag/2024.5.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.9.6`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.6) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.3.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.3) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.6`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.6) - 
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.35.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.35.0-helm) - OpenCost Helm chart 
 
 ### ⭐ Recent Stars
 

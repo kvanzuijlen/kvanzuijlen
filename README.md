@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.347.2`](https://github.com/renovatebot/renovate/releases/tag/37.347.2) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.7`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.7) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.347.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.347.0) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.9`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.9) - Jenkins helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.2`](https://github.com/home-assistant/core/releases/tag/2024.5.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.349.3`](https://github.com/renovatebot/renovate/releases/tag/37.349.3) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.3.10`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.10) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.11`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.11) - Jenkins helm charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.0.2`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.0.2) - Atlantis Helm Chart
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.349.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.349.2) - 
 
 ### ⭐ Recent Stars
 

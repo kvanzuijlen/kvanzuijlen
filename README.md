@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.349.3`](https://github.com/renovatebot/renovate/releases/tag/37.349.3) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-7.3.10`](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.10) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.11`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.11) - Jenkins helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.0.2`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.0.2) - Atlantis Helm Chart
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.349.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.349.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.351.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.351.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.351.2`](https://github.com/renovatebot/renovate/releases/tag/37.351.2) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.4.5`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.5) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`alertmanager-1.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.11.0) - Prometheus community Helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.12`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.12) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

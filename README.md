@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.351.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.351.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.351.2`](https://github.com/renovatebot/renovate/releases/tag/37.351.2) - Universal dependency automation tool.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.4.5`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.5) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`alertmanager-1.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.11.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.353.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.353.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.353.1`](https://github.com/renovatebot/renovate/releases/tag/37.353.1) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.8`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.8) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.5.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.0) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.12`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.12) - Jenkins helm charts
 
 ### ⭐ Recent Stars

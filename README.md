@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.356.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.356.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.356.1`](https://github.com/renovatebot/renovate/releases/tag/37.356.1) - Universal dependency automation tool.
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.37.0-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.37.0-helm) - OpenCost Helm chart 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.21.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.21.0) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.3`](https://github.com/home-assistant/core/releases/tag/2024.5.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.9.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.1) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-sql-exporter-0.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.1.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.4.7`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.7) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.358.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.358.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.358.0`](https://github.com/renovatebot/renovate/releases/tag/37.358.0) - Universal dependency automation tool.
 
 ### ⭐ Recent Stars
 

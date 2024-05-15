@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.9.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.1) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-sql-exporter-0.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.1.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.4.7`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.7) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.358.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.358.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.358.0`](https://github.com/renovatebot/renovate/releases/tag/37.358.0) - Universal dependency automation tool.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`alloy-0.3.0`](https://github.com/grafana/helm-charts/releases/tag/alloy-0.3.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.363.4`](https://github.com/renovatebot/renovate/releases/tag/37.363.4) - Universal dependency automation tool.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.13`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.13) - Jenkins helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.363.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.363.3) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.5.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.2) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

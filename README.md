@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: rename renovate goreleaser/goreleaser to goreleaser](https://github.com/version-cli/version/pull/95) on [version-cli/version](https://github.com/version-cli/version)
+- [chore: improved renovate configuration for goreleaser version](https://github.com/version-cli/version/pull/94) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: have renovate pin dependencies in pyproject.toml](https://github.com/version-cli/version/pull/85) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: use go-version-file instead of specifying version](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/181) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 - [chore: added oci label to Dockerfile to reference the source](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/179) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
-- [chore: improved renovate config for detecting python updates](https://github.com/jenkinsci/helm-charts/pull/1068) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [fix: fix fetch depth](https://github.com/version-cli/version/pull/65) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`alloy-0.3.0`](https://github.com/grafana/helm-charts/releases/tag/alloy-0.3.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.363.4`](https://github.com/renovatebot/renovate/releases/tag/37.363.4) - Universal dependency automation tool.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.13`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.13) - Jenkins helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.363.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.363.3) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.5.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.2) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.368.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.368.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.12`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.12) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.368.0`](https://github.com/renovatebot/renovate/releases/tag/37.368.0) - Universal dependency automation tool.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.17`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.17) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.10.0`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.10.0) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

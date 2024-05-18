@@ -26,15 +26,14 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [chore: improved renovate configuration for goreleaser version](https://github.com/version-cli/version/pull/94) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: have renovate pin dependencies in pyproject.toml](https://github.com/version-cli/version/pull/85) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: use go-version-file instead of specifying version](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/181) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
-- [chore: added oci label to Dockerfile to reference the source](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/179) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.368.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.368.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.0.12`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.12) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.368.0`](https://github.com/renovatebot/renovate/releases/tag/37.368.0) - Universal dependency automation tool.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.17`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.17) - Jenkins helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-image-updater-0.10.0`](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.10.0) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.368.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.368.5) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.368.5`](https://github.com/renovatebot/renovate/releases/tag/37.368.5) - Universal dependency automation tool.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.9.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.3) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.4`](https://github.com/home-assistant/core/releases/tag/2024.5.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.18`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.18) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

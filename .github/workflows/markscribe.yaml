@@ -20,10 +20,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@0ad4b8fadaa221de15dcec353f45205ec38ea70b # v4
 
+      - name: Create GitHub App Token
+        uses: actions/create-github-app-token@v1.8.1
+        id: app-token
+        with:
+          app-id: ${{ secrets.BOT_ID }}
+          private-key: ${{ secrets.BOT_PK }}
+
       - name: Generate README
         uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.MARKSCRIBE_PAT }}
+          GITHUB_TOKEN: ${{ steps.app-token.outputs.token }}
         with:
           template: 'README.gtpl'
           writeTo: 'README.md'

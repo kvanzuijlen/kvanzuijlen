@@ -6,9 +6,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [version-cli/version](https://github.com/version-cli/version) - 
+- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 
@@ -29,19 +29,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.368.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.368.5) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.368.5`](https://github.com/renovatebot/renovate/releases/tag/37.368.5) - Universal dependency automation tool.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-6.9.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-6.9.3) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.368.9`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.368.9) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.368.9`](https://github.com/renovatebot/renovate/releases/tag/37.368.9) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.6.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.6.0) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.41.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.6) - ArgoProj Helm Charts
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.4`](https://github.com/home-assistant/core/releases/tag/2024.5.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.1.18`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.1.18) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 
 - [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [version-cli/version](https://github.com/version-cli/version) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ### 👀 Recent followers
 

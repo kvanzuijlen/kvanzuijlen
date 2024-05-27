@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources 
 - [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) - Terraform Pull Request Automation
 
 ### 🌱 Recent projects
 
@@ -22,18 +22,18 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [docs: add values.yaml descriptions to README.md](https://github.com/yonahd/kor/pull/281) on [yonahd/kor](https://github.com/yonahd/kor)
+- [docs: add values.yaml descriptions to README.md](https://github.com/kvanzuijlen/kor/pull/1) on [kvanzuijlen/kor](https://github.com/kvanzuijlen/kor)
 - [chore: rename renovate goreleaser/goreleaser to goreleaser](https://github.com/version-cli/version/pull/95) on [version-cli/version](https://github.com/version-cli/version)
 - [chore: improved renovate configuration for goreleaser version](https://github.com/version-cli/version/pull/94) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: have renovate pin dependencies in pyproject.toml](https://github.com/version-cli/version/pull/85) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: use go-version-file instead of specifying version](https://github.com/vmware-tanzu/velero-plugin-for-gcp/pull/181) on [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.368.10`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.368.10) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.368.10`](https://github.com/renovatebot/renovate/releases/tag/37.368.10) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.6.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.6.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.41.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.41.6) - ArgoProj Helm Charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.4`](https://github.com/home-assistant/core/releases/tag/2024.5.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.377.7`](https://github.com/renovatebot/renovate/releases/tag/37.377.7) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.377.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.377.6) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.5`](https://github.com/home-assistant/core/releases/tag/2024.5.5) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.9.10`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.10) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.7.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.7.2) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

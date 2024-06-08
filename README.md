@@ -29,11 +29,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.377.7`](https://github.com/renovatebot/renovate/releases/tag/37.377.7) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.377.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.377.6) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.5.5`](https://github.com/home-assistant/core/releases/tag/2024.5.5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.9.10`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.10) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-58.7.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.7.2) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.399.5`](https://github.com/renovatebot/renovate/releases/tag/37.399.5) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.399.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.399.3) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`promtail-6.16.0`](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-json-exporter-0.11.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.11.1) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.6.1`](https://github.com/home-assistant/core/releases/tag/2024.6.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

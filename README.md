@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources 
 - [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 
 ### 🌱 Recent projects
 
@@ -22,18 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore(fluentd): update fluentd image version to 1.16.5](https://github.com/fluent/helm-charts/pull/518) on [fluent/helm-charts](https://github.com/fluent/helm-charts)
+- [feat: add sntasmedia smartctl device type](https://github.com/alexbelgium/hassio-addons/pull/1428) on [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons)
+- [chore: change version source to github-releases for codeclimate](https://github.com/oauth2-proxy/oauth2-proxy/pull/2665) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [docs: add values.yaml descriptions to README.md](https://github.com/yonahd/kor/pull/281) on [yonahd/kor](https://github.com/yonahd/kor)
 - [docs: add values.yaml descriptions to README.md](https://github.com/kvanzuijlen/kor/pull/1) on [kvanzuijlen/kor](https://github.com/kvanzuijlen/kor)
-- [chore: rename renovate goreleaser/goreleaser to goreleaser](https://github.com/version-cli/version/pull/95) on [version-cli/version](https://github.com/version-cli/version)
-- [chore: improved renovate configuration for goreleaser version](https://github.com/version-cli/version/pull/94) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.399.5`](https://github.com/renovatebot/renovate/releases/tag/37.399.5) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.399.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.399.3) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`promtail-6.16.0`](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-json-exporter-0.11.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.11.1) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.6.1`](https://github.com/home-assistant/core/releases/tag/2024.6.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.2.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.2.1) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.4.0-rc.0`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-rc.0) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.6.4`](https://github.com/home-assistant/core/releases/tag/2024.6.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.414.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.414.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.414.0`](https://github.com/renovatebot/renovate/releases/tag/37.414.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ### ⭐ Recent Stars
 

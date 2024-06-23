@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.2.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.2.1) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-fastly-exporter-0.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.4.0) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.36.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.36.1) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.414.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.414.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.414.1`](https://github.com/renovatebot/renovate/releases/tag/37.414.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.4.0-rc.0`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-rc.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.6.4`](https://github.com/home-assistant/core/releases/tag/2024.6.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.414.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.414.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.414.0`](https://github.com/renovatebot/renovate/releases/tag/37.414.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ### ⭐ Recent Stars
 

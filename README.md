@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) - 
 - [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources 
-- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [Bump justnimbus to 0.7.4](https://github.com/home-assistant/core/pull/120355) on [home-assistant/core](https://github.com/home-assistant/core)
 - [chore(fluentd): update fluentd image version to 1.16.5](https://github.com/fluent/helm-charts/pull/518) on [fluent/helm-charts](https://github.com/fluent/helm-charts)
 - [feat: add sntasmedia smartctl device type](https://github.com/alexbelgium/hassio-addons/pull/1428) on [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons)
 - [chore: change version source to github-releases for codeclimate](https://github.com/oauth2-proxy/oauth2-proxy/pull/2665) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [docs: add values.yaml descriptions to README.md](https://github.com/yonahd/kor/pull/281) on [yonahd/kor](https://github.com/yonahd/kor)
-- [docs: add values.yaml descriptions to README.md](https://github.com/kvanzuijlen/kor/pull/1) on [kvanzuijlen/kor](https://github.com/kvanzuijlen/kor)
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-fastly-exporter-0.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.4.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.36.1`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.36.1) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.414.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.414.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.414.1`](https://github.com/renovatebot/renovate/releases/tag/37.414.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.4.0-rc.0`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-rc.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.12.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.12.0) - 
+- [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) [`0.7.4`](https://github.com/kvanzuijlen/justnimbus/releases/tag/0.7.4) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.415.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.415.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.415.0`](https://github.com/renovatebot/renovate/releases/tag/37.415.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.20.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.20.1) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

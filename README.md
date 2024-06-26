@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.12.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.12.0) - 
-- [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) [`0.7.4`](https://github.com/kvanzuijlen/justnimbus/releases/tag/0.7.4) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.415.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.415.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.415.0`](https://github.com/renovatebot/renovate/releases/tag/37.415.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.20.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.20.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.417.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.417.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.417.1`](https://github.com/renovatebot/renovate/releases/tag/37.417.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.13.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.13.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-rabbitmq-exporter-1.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.12.0) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.36.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.36.2) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@joostlek**](https://github.com/joostlek)
 - [**@bschaatsbergen**](https://github.com/bschaatsbergen)
 - [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
 - [**@MarkDPierce**](https://github.com/MarkDPierce)
-- [**@kristina-head**](https://github.com/kristina-head)

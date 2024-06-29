@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.417.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.417.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.417.1`](https://github.com/renovatebot/renovate/releases/tag/37.417.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.13.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.13.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-rabbitmq-exporter-1.12.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.12.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.36.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.36.2) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-61.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.1.0) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.3.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.3) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.4.0-weekly.296`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.296) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.7.0b4`](https://github.com/home-assistant/core/releases/tag/2024.7.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.3.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.3.3) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

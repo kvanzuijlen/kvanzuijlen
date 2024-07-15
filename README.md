@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
+- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) - 
-- [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons) - My homeassistant addons
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [yonahd/kor](https://github.com/yonahd/kor) - A Golang Tool to discover unused Kubernetes Resources 
 
 ### 🌱 Recent projects
 
@@ -22,27 +22,27 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: update keycloak](https://github.com/oauth2-proxy/oauth2-proxy/pull/2706) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
+- [chore: run renovate hourly and on push](https://github.com/jenkinsci/helm-charts/pull/1146) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [chore(deps): update super-linter to v6.7.0](https://github.com/jenkinsci/helm-charts/pull/1145) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [chore: further specify version number for golang image](https://github.com/version-cli/version/pull/112) on [version-cli/version](https://github.com/version-cli/version)
 - [Bump justnimbus to 0.7.4](https://github.com/home-assistant/core/pull/120355) on [home-assistant/core](https://github.com/home-assistant/core)
-- [chore(fluentd): update fluentd image version to 1.16.5](https://github.com/fluent/helm-charts/pull/518) on [fluent/helm-charts](https://github.com/fluent/helm-charts)
-- [feat: add sntasmedia smartctl device type](https://github.com/alexbelgium/hassio-addons/pull/1428) on [alexbelgium/hassio-addons](https://github.com/alexbelgium/hassio-addons)
-- [chore: change version source to github-releases for codeclimate](https://github.com/oauth2-proxy/oauth2-proxy/pull/2665) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [docs: add values.yaml descriptions to README.md](https://github.com/yonahd/kor/pull/281) on [yonahd/kor](https://github.com/yonahd/kor)
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-61.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.1.0) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.3.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.3) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.4.0-weekly.296`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.296) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.7.0b4`](https://github.com/home-assistant/core/releases/tag/2024.7.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.3.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.3.3) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.4.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-memcached-exporter-0.3.3`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.3) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.431.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.431.4) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.431.4`](https://github.com/renovatebot/renovate/releases/tag/37.431.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.4.2`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.4.2) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 
+- [bschaatsbergen/terraform-provider-assert](https://github.com/bschaatsbergen/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
+- [galagaking/espaxa](https://github.com/galagaking/espaxa) - ESP Module for controlling AXA Remote2.0
 - [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
-- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ### 👀 Recent followers
 

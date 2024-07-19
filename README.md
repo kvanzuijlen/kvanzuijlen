@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.4.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.2) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-memcached-exporter-0.3.3`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.3) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.431.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.431.4) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.431.4`](https://github.com/renovatebot/renovate/releases/tag/37.431.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.4.2`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.4.2) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.434.0`](https://github.com/renovatebot/renovate/releases/tag/37.434.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.4.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.4.3) - Jenkins helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.3.9`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.9) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.433.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.433.2) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-postgres-exporter-6.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.1.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

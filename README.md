@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.437.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.437.3) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.437.3`](https://github.com/renovatebot/renovate/releases/tag/37.437.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.438.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.438.2) - 
+- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) [`v2.2.0`](https://github.com/bschaatsbergen/cidr/releases/tag/v2.2.0) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.438.2`](https://github.com/renovatebot/renovate/releases/tag/37.438.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-memcached-exporter-0.3.4`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.4) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.3.6`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.6) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.7.3`](https://github.com/home-assistant/core/releases/tag/2024.7.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.4.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.4.3) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

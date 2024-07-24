@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.438.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.438.2) - 
-- [bschaatsbergen/cidr](https://github.com/bschaatsbergen/cidr) [`v2.2.0`](https://github.com/bschaatsbergen/cidr/releases/tag/v2.2.0) - Simplifies IPv4/IPv6 CIDR network prefix management with counting, overlap checking, explanation, and subdivision.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.438.2`](https://github.com/renovatebot/renovate/releases/tag/37.438.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-memcached-exporter-0.3.4`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.4) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.3.6`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.6) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.440.5`](https://github.com/renovatebot/renovate/releases/tag/37.440.5) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.7.2`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.440.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.440.4) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.3.10`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.10) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.22.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.22.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

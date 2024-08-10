@@ -6,19 +6,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [kvanzuijlen/justnimbus](https://github.com/kvanzuijlen/justnimbus) - 
+- [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - 
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
 - [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
 - [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
-- [kvanzuijlen/renovate-reproduction-helm-values-bump-chart](https://github.com/kvanzuijlen/renovate-reproduction-helm-values-bump-chart) - 
 
 ### 🚧 My recent Pull Requests
 
@@ -30,15 +30,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`37.440.5`](https://github.com/renovatebot/renovate/releases/tag/37.440.5) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.7.2`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.2) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-37.440.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-37.440.4) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.3.10`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.3.10) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.22.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.22.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.23.3`](https://github.com/renovatebot/renovate/releases/tag/38.23.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.8.10`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.10) - 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) [`v3.38.1`](https://github.com/qdm12/gluetun/releases/tag/v3.38.1) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.5.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.5.5) - Jenkins helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.23.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.23.2) - 
 
 ### ⭐ Recent Stars
 
-- [bschaatsbergen/terraform-provider-assert](https://github.com/bschaatsbergen/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations effectively.
+- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations with.
 - [galagaking/espaxa](https://github.com/galagaking/espaxa) - ESP Module for controlling AXA Remote2.0
 - [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@eust-w**](https://github.com/eust-w)
 - [**@joostlek**](https://github.com/joostlek)
 - [**@bschaatsbergen**](https://github.com/bschaatsbergen)
 - [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
-- [**@MarkDPierce**](https://github.com/MarkDPierce)

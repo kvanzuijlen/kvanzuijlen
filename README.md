@@ -30,15 +30,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.23.3`](https://github.com/renovatebot/renovate/releases/tag/38.23.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.8.10`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.10) - 
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) [`v3.38.1`](https://github.com/qdm12/gluetun/releases/tag/v3.38.1) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.5.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.5.5) - Jenkins helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.23.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.23.2) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.52.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.52.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.52.1`](https://github.com/renovatebot/renovate/releases/tag/38.52.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.5.9`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.5.9) - Jenkins helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.4.8`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.8) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-62.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.3.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 
-- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Utility provider that contains functions to assert values and validate your Terraform configurations with.
+- [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Offers functions to validate and assert values within Terraform configurations, simplifying variable validation and custom conditions.
 - [galagaking/espaxa](https://github.com/galagaking/espaxa) - ESP Module for controlling AXA Remote2.0
 - [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
-- [**@eust-w**](https://github.com/eust-w)
 - [**@joostlek**](https://github.com/joostlek)
 - [**@bschaatsbergen**](https://github.com/bschaatsbergen)
 - [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
+- [**@MarkDPierce**](https://github.com/MarkDPierce)

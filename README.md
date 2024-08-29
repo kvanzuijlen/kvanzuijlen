@@ -6,7 +6,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - 
+- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - confluent apache sink connector for Google Cloud Storage
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
@@ -14,7 +14,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🌱 Recent projects
 
-- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - 
+- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - confluent apache sink connector for Google Cloud Storage
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
 - [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.52.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.52.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.52.1`](https://github.com/renovatebot/renovate/releases/tag/38.52.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.5.9`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.5.9) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.4.8`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.8) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-62.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.3.0) - Prometheus community Helm charts
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.29.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.29.0) - Terraform Pull Request Automation
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.57.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.57.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.9.17`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.17) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.57.0`](https://github.com/renovatebot/renovate/releases/tag/38.57.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.9.0b0`](https://github.com/home-assistant/core/releases/tag/2024.9.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

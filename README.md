@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.29.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.29.0) - Terraform Pull Request Automation
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.57.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.57.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.9.17`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.17) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.57.0`](https://github.com/renovatebot/renovate/releases/tag/38.57.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.9.0b0`](https://github.com/home-assistant/core/releases/tag/2024.9.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.59.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.59.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.59.2`](https://github.com/renovatebot/renovate/releases/tag/38.59.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-rollouts-2.37.6`](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.37.6) - ArgoProj Helm Charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.5.13`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.5.13) - Jenkins helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.9.0b2`](https://github.com/home-assistant/core/releases/tag/2024.9.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

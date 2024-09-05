@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.5.0-weekly.306`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.306) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.9.0b4`](https://github.com/home-assistant/core/releases/tag/2024.9.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.66.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.66.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.66.1`](https://github.com/renovatebot/renovate/releases/tag/38.66.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.5.2`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.5.2) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.67.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.67.4) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.67.4`](https://github.com/renovatebot/renovate/releases/tag/38.67.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-62.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-62.4.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.9.22`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.9.22) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.9.0`](https://github.com/home-assistant/core/releases/tag/2024.9.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

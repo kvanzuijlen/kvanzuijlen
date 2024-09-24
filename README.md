@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.93.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.93.5) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.93.5`](https://github.com/renovatebot/renovate/releases/tag/38.93.5) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-redis-exporter-6.6.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.6.0) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.6.4`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.6.4) - Jenkins helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.42.3`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.3) - ArgoProj Helm Charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.9.3`](https://github.com/home-assistant/core/releases/tag/2024.9.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.6.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.6.5) - Jenkins helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.94.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.94.3) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.18.1`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.18.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.94.3`](https://github.com/renovatebot/renovate/releases/tag/38.94.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ### ⭐ Recent Stars
 

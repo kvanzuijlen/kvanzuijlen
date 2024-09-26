@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.5.4`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.4) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-conntrack-stats-exporter-0.5.11`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.11) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.9.3`](https://github.com/home-assistant/core/releases/tag/2024.9.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.6.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.6.5) - Jenkins helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.94.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.94.3) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.6.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.5) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.96.0`](https://github.com/renovatebot/renovate/releases/tag/38.96.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.95.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.95.4) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b0`](https://github.com/home-assistant/core/releases/tag/2024.10.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`alloy-0.8.0`](https://github.com/grafana/helm-charts/releases/tag/alloy-0.8.0) - 
 
 ### ⭐ Recent Stars
 

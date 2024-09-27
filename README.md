@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.6.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.5) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.96.0`](https://github.com/renovatebot/renovate/releases/tag/38.96.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.95.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.95.4) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b0`](https://github.com/home-assistant/core/releases/tag/2024.10.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`alloy-0.8.0`](https://github.com/grafana/helm-charts/releases/tag/alloy-0.8.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-63.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-63.1.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.98.0`](https://github.com/renovatebot/renovate/releases/tag/38.98.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.97.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.97.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.15.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.15.0) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b1`](https://github.com/home-assistant/core/releases/tag/2024.10.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

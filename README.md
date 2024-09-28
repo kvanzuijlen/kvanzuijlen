@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-63.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-63.1.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.98.0`](https://github.com/renovatebot/renovate/releases/tag/38.98.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.97.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.97.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.15.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.15.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b1`](https://github.com/home-assistant/core/releases/tag/2024.10.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b4`](https://github.com/home-assistant/core/releases/tag/2024.10.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-snmp-exporter-5.5.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.5.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.100.1`](https://github.com/renovatebot/renovate/releases/tag/38.100.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.100.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.100.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.79.4`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.79.4) - 
 
 ### ⭐ Recent Stars
 

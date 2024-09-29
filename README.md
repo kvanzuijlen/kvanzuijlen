@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.5.2`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.5.2) - Atlantis Helm Chart
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.101.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.101.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.101.0`](https://github.com/renovatebot/renovate/releases/tag/38.101.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b4`](https://github.com/home-assistant/core/releases/tag/2024.10.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-snmp-exporter-5.5.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.5.1) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.100.1`](https://github.com/renovatebot/renovate/releases/tag/38.100.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.100.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.100.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.79.4`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.79.4) - 
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.2.11`](https://github.com/renovatebot/github-action/releases/tag/v40.2.11) - 
-- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.30.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.30.0) - Terraform Pull Request Automation
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.1`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.1) - Jenkins helm charts
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) [`v3.39.1`](https://github.com/qdm12/gluetun/releases/tag/v3.39.1) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.101.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.101.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.106.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.106.0) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-apps-2.0.2`](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.2) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.106.0`](https://github.com/renovatebot/renovate/releases/tag/38.106.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b6`](https://github.com/home-assistant/core/releases/tag/2024.10.0b6) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.3.1`](https://github.com/renovatebot/github-action/releases/tag/v40.3.1) - 
 
 ### ⭐ Recent Stars
 

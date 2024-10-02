@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.106.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.106.0) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argocd-apps-2.0.2`](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-2.0.2) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.106.0`](https://github.com/renovatebot/renovate/releases/tag/38.106.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0b6`](https://github.com/home-assistant/core/releases/tag/2024.10.0b6) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.5.2`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.2) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-workflows-0.42.5`](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.42.5) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.106.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.106.3) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.106.3`](https://github.com/renovatebot/renovate/releases/tag/38.106.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.3.1`](https://github.com/renovatebot/github-action/releases/tag/v40.3.1) - 
 
 ### ⭐ Recent Stars

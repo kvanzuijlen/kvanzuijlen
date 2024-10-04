@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-cloudwatch-exporter-0.26.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.26.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.107.0`](https://github.com/renovatebot/renovate/releases/tag/38.107.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.2`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.2) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.10.0`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.0`](https://github.com/home-assistant/core/releases/tag/2024.10.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.109.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.109.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.109.0`](https://github.com/renovatebot/renovate/releases/tag/38.109.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.10.1`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.1) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.6.8`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.8) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-operator-crds-15.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-15.0.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-windows-exporter-0.7.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.7.0) - Prometheus community Helm charts
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.3) - Jenkins helm charts
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.110.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.110.2) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.110.2`](https://github.com/renovatebot/renovate/releases/tag/38.110.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.5.5`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.5) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.1`](https://github.com/home-assistant/core/releases/tag/2024.10.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 
@@ -47,7 +47,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 ### 👀 Recent followers
 
 - [**@joostlek**](https://github.com/joostlek)
-- [**@bschaatsbergen**](https://github.com/bschaatsbergen)
 - [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
 - [**@MarkDPierce**](https://github.com/MarkDPierce)
+- [**@kristina-head**](https://github.com/kristina-head)

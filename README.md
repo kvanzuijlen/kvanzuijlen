@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.112.0`](https://github.com/renovatebot/renovate/releases/tag/38.112.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-65.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.1.1) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.111.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.111.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`beyla-1.4.3`](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.3) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.3) - Jenkins helm charts
+- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.6.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.6.0) - Atlantis Helm Chart
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.10.3`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.3) - 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.7.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.7.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-9.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.114.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.114.0) - 
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.117.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.117.1) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.4`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.4) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.117.1`](https://github.com/renovatebot/renovate/releases/tag/38.117.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.11.0`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.6.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-65.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.2.0) - Prometheus community Helm charts
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.3.3`](https://github.com/renovatebot/github-action/releases/tag/v40.3.3) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.5) - Jenkins helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.2`](https://github.com/home-assistant/core/releases/tag/2024.10.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.0`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.0) - 
 
 ### ⭐ Recent Stars
 

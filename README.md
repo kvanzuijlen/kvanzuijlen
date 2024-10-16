@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.123.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.123.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.123.0`](https://github.com/renovatebot/renovate/releases/tag/38.123.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.5.5`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.5) - 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) [`v4.6.2`](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.7.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.7.0) - Atlantis Helm Chart
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.3.4`](https://github.com/renovatebot/github-action/releases/tag/v40.3.4) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.6.9`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.9) - ArgoProj Helm Charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.124.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.124.1) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.11.1`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.124.1`](https://github.com/renovatebot/renovate/releases/tag/38.124.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 
 ### ⭐ Recent Stars
 

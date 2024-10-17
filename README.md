@@ -14,11 +14,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/terraform-google-service-agents](https://github.com/kvanzuijlen/terraform-google-service-agents) - Terraform module for outputting default role bindings for service agents for activated services
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
 - [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
-- [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 
 ### 🚧 My recent Pull Requests
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.3.4`](https://github.com/renovatebot/github-action/releases/tag/v40.3.4) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.6.9`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.9) - ArgoProj Helm Charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.124.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.124.1) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.11.1`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.124.1`](https://github.com/renovatebot/renovate/releases/tag/38.124.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-65.3.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.124.4`](https://github.com/renovatebot/renovate/releases/tag/38.124.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.124.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.124.3) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.18.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.18.0) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) [`argo-cd-7.6.10`](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-7.6.10) - ArgoProj Helm Charts
 
 ### ⭐ Recent Stars
 

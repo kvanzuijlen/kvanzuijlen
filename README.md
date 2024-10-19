@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.127.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.127.0) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.11.3`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.3) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.127.0`](https://github.com/renovatebot/renovate/releases/tag/38.127.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.7`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.7) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-65.3.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.127.3`](https://github.com/renovatebot/renovate/releases/tag/38.127.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.127.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.127.2) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.5.8`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.8) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.3`](https://github.com/home-assistant/core/releases/tag/2024.10.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`alertmanager-snmp-notifier-0.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

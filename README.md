@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/terraform-google-service-agents](https://github.com/kvanzuijlen/terraform-google-service-agents) - Terraform module for outputting default role bindings for service agents for activated services
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### 🌱 Recent projects
 
@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.127.3`](https://github.com/renovatebot/renovate/releases/tag/38.127.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.127.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.127.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.128.3`](https://github.com/renovatebot/renovate/releases/tag/38.128.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.128.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.128.1) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.5.8`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.8) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.3`](https://github.com/home-assistant/core/releases/tag/2024.10.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`alertmanager-snmp-notifier-0.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0) - Prometheus community Helm charts

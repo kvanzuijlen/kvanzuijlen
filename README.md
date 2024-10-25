@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.130.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.130.4) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.130.4`](https://github.com/renovatebot/renovate/releases/tag/38.130.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.11.5`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.5) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-65.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.4.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.130.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.130.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.130.2`](https://github.com/renovatebot/renovate/releases/tag/38.130.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.6.0-weekly.313`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.313) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.8`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.8) - Jenkins helm charts
 
 ### ⭐ Recent Stars

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.130.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.130.4) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.130.4`](https://github.com/renovatebot/renovate/releases/tag/38.130.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.11.5`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.5) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-65.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.4.0) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.8`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.8) - Jenkins helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.131.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.131.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.131.2`](https://github.com/renovatebot/renovate/releases/tag/38.131.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`meta-monitoring-1.3.0`](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.10.4`](https://github.com/home-assistant/core/releases/tag/2024.10.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-windows-exporter-0.7.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.7.1) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

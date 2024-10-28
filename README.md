@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.132.2`](https://github.com/renovatebot/renovate/releases/tag/38.132.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.132.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.132.1) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-statsd-exporter-0.15.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.15.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.133.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.133.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.133.0`](https://github.com/renovatebot/renovate/releases/tag/38.133.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-postgres-exporter-6.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.4.0) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.8.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.8.0) - Atlantis Helm Chart
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`meta-monitoring-1.3.0`](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0) - 
 

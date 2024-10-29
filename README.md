@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.133.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.133.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.133.0`](https://github.com/renovatebot/renovate/releases/tag/38.133.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-postgres-exporter-6.4.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.4.0) - Prometheus community Helm charts
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.8.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.8.0) - Atlantis Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`meta-monitoring-1.3.0`](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.9`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.9) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.134.0`](https://github.com/renovatebot/renovate/releases/tag/38.134.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.133.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.133.4) - 
+- [yonahd/kor](https://github.com/yonahd/kor) [`v0.5.6`](https://github.com/yonahd/kor/releases/tag/v0.5.6) - A Golang Tool to discover unused Kubernetes Resources 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.6.0-weekly.314`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314) - 
 
 ### ⭐ Recent Stars
 

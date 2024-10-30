@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.135.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.135.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.135.2`](https://github.com/renovatebot/renovate/releases/tag/38.135.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.9`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.9) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.134.0`](https://github.com/renovatebot/renovate/releases/tag/38.134.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.133.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.133.4) - 
 - [yonahd/kor](https://github.com/yonahd/kor) [`v0.5.6`](https://github.com/yonahd/kor/releases/tag/v0.5.6) - A Golang Tool to discover unused Kubernetes Resources 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.6.0-weekly.314`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314) - 
 

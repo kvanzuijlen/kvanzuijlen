@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.135.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.135.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.135.2`](https://github.com/renovatebot/renovate/releases/tag/38.135.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.9`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.9) - Jenkins helm charts
-- [yonahd/kor](https://github.com/yonahd/kor) [`v0.5.6`](https://github.com/yonahd/kor/releases/tag/v0.5.6) - A Golang Tool to discover unused Kubernetes Resources 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.6.0-weekly.314`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.139.1`](https://github.com/renovatebot/renovate/releases/tag/38.139.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.138.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.138.6) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.3`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.3) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0b0`](https://github.com/home-assistant/core/releases/tag/2024.11.0b0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-sql-exporter-0.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.2.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

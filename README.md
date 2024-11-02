@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins GitHub Integration Plugin
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### 🌱 Recent projects
 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix: fix nullpointerexception when body is null](https://github.com/KostyaSha/github-integration-plugin/pull/390) on [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin)
 - [chore: update keycloak](https://github.com/oauth2-proxy/oauth2-proxy/pull/2706) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
 - [chore: run renovate hourly and on push](https://github.com/jenkinsci/helm-charts/pull/1146) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore(deps): update super-linter to v6.7.0](https://github.com/jenkinsci/helm-charts/pull/1145) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: further specify version number for golang image](https://github.com/version-cli/version/pull/112) on [version-cli/version](https://github.com/version-cli/version)
-- [Bump justnimbus to 0.7.4](https://github.com/home-assistant/core/pull/120355) on [home-assistant/core](https://github.com/home-assistant/core)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.142.1`](https://github.com/renovatebot/renovate/releases/tag/38.142.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.142.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.142.0) - 
-- [opencost/opencost-helm-chart](https://github.com/opencost/opencost-helm-chart) [`1.42.1-helm`](https://github.com/opencost/opencost-helm-chart/releases/tag/1.42.1-helm) - OpenCost Helm chart 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-2.0.0-rc.1`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.1) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.142.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.142.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.142.2`](https://github.com/renovatebot/renovate/releases/tag/38.142.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.4`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.4) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0b1`](https://github.com/home-assistant/core/releases/tag/2024.11.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.41.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.41.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

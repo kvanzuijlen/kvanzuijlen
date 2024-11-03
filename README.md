@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.142.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.142.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.142.2`](https://github.com/renovatebot/renovate/releases/tag/38.142.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.4`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.4) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0b1`](https://github.com/home-assistant/core/releases/tag/2024.11.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.41.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.41.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.142.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.142.4) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`38.142.4`](https://github.com/renovatebot/renovate/releases/tag/38.142.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-agent-operator-0.5.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.5.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-redis-exporter-6.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.8.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0b2`](https://github.com/home-assistant/core/releases/tag/2024.11.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

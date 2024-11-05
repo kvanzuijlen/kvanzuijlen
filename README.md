@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0b3`](https://github.com/home-assistant/core/releases/tag/2024.11.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`beyla-1.4.5`](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.5) - 
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v40.3.5`](https://github.com/renovatebot/github-action/releases/tag/v40.3.5) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.9.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.9.0) - Atlantis Helm Chart
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-38.142.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-38.142.5) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.0.3`](https://github.com/renovatebot/renovate/releases/tag/39.0.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.42.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.42.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0b5`](https://github.com/home-assistant/core/releases/tag/2024.11.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.5.12`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.12) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.0.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.0.1) - 
 
 ### ⭐ Recent Stars
 

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.0.3`](https://github.com/renovatebot/renovate/releases/tag/39.0.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-node-exporter-4.42.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.42.0) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0b5`](https://github.com/home-assistant/core/releases/tag/2024.11.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.5.12`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.12) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.0.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.0.1) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-65.8.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.8.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.4.0`](https://github.com/renovatebot/renovate/releases/tag/39.4.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.3.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.3.0) - 
+- [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp) [`v1.11.0`](https://github.com/vmware-tanzu/velero-plugin-for-gcp/releases/tag/v1.11.0) - Plugins to support Velero on Google Cloud Platform (GCP)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.5`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.5) - 
 
 ### ⭐ Recent Stars
 
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@isahio**](https://github.com/isahio)
 - [**@joostlek**](https://github.com/joostlek)
 - [**@OrenZiv**](https://github.com/OrenZiv)
 - [**@cassimahmedattia**](https://github.com/cassimahmedattia)
 - [**@MarkDPierce**](https://github.com/MarkDPierce)
-- [**@kristina-head**](https://github.com/kristina-head)

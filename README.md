@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.7.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.7.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.7.1`](https://github.com/renovatebot/renovate/releases/tag/39.7.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-2.0.0-rc.2`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.7.6`](https://github.com/renovatebot/renovate/releases/tag/39.7.6) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.6.0-weekly.315`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.315) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.7.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.7.5) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.0`](https://github.com/home-assistant/core/releases/tag/2024.11.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-blackbox-exporter-9.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.1.0) - Prometheus community Helm charts
 

@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-1.13.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-1.13.0) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-vulture-0.7.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.7.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-66.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.0) - Prometheus community Helm charts
 - [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.1`](https://github.com/home-assistant/core/releases/tag/2024.11.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-66.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.0.0) - Prometheus community Helm charts
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.2`](https://github.com/renovatebot/github-action/releases/tag/v41.0.2) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.8.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.8.0) - 
 

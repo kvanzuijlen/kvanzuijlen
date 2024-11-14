@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.11.7`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.11.7) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.11.7`](https://github.com/renovatebot/renovate/releases/tag/39.11.7) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.14.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.14.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.14.1`](https://github.com/renovatebot/renovate/releases/tag/39.14.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`rollout-operator-0.19.1`](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.19.1) - 
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.10.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.10.0) - Atlantis Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`synthetic-monitoring-agent-0.6.0`](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-0.6.0) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-66.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.1) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars

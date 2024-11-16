@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.15.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.15.4) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.15.4`](https://github.com/renovatebot/renovate/releases/tag/39.15.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.22.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.0) - 
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.10.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.10.0) - Atlantis Helm Chart
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-66.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.1) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.18.0`](https://github.com/renovatebot/renovate/releases/tag/39.18.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-66.2.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.2.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.17.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.17.1) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.11.2`](https://github.com/home-assistant/core/releases/tag/2024.11.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.80.0`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.0) - 
 
 ### ⭐ Recent Stars
 

@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.18.4`](https://github.com/renovatebot/renovate/releases/tag/39.18.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.18.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.18.3) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.19.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.19.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.19.1`](https://github.com/renovatebot/renovate/releases/tag/39.19.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.3`](https://github.com/renovatebot/github-action/releases/tag/v41.0.3) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.30.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.22.1`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.1) - 

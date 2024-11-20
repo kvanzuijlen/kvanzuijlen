@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`beyla-1.4.13`](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.13) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.20.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.20.3) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.20.3`](https://github.com/renovatebot/renovate/releases/tag/39.20.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.21.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.21.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.21.0`](https://github.com/renovatebot/renovate/releases/tag/39.21.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.8`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.8) - 
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.3`](https://github.com/renovatebot/github-action/releases/tag/v41.0.3) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-25.30.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1) - Prometheus community Helm charts
 

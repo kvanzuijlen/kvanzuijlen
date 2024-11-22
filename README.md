@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.13.2`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.23.1`](https://github.com/renovatebot/renovate/releases/tag/39.23.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.23.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.23.0) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.26.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.26.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.26.1`](https://github.com/renovatebot/renovate/releases/tag/39.26.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.10`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.10) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.14`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.14) - Jenkins helm charts
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.3`](https://github.com/renovatebot/github-action/releases/tag/v41.0.3) - 
 

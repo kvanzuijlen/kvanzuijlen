@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.26.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.26.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.26.1`](https://github.com/renovatebot/renovate/releases/tag/39.26.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.10`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.10) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.14`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.14) - Jenkins helm charts
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.3`](https://github.com/renovatebot/github-action/releases/tag/v41.0.3) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-66.2.2`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.2.2) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.26.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.26.3) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`rollout-operator-0.20.0`](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.20.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.26.3`](https://github.com/renovatebot/renovate/releases/tag/39.26.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.31.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.31.0) - Terraform Pull Request Automation
 
 ### ⭐ Recent Stars
 

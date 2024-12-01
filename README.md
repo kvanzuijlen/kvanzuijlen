@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.41.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.41.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.41.0`](https://github.com/renovatebot/renovate/releases/tag/39.41.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.12.0b3`](https://github.com/home-assistant/core/releases/tag/2024.12.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.42.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.42.2) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.17`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.17) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.42.2`](https://github.com/renovatebot/renovate/releases/tag/39.42.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.5`](https://github.com/renovatebot/github-action/releases/tag/v41.0.5) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.6.4`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.4) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.16`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.16) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

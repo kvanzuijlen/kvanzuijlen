@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.46.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.46.1) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.18`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.18) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.46.1`](https://github.com/renovatebot/renovate/releases/tag/39.46.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`oncall-1.13.6`](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.6) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.12.0b4`](https://github.com/home-assistant/core/releases/tag/2024.12.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.49.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.49.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.49.0`](https://github.com/renovatebot/renovate/releases/tag/39.49.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`alloy-0.10.1`](https://github.com/grafana/helm-charts/releases/tag/alloy-0.10.1) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2024.12.0b5`](https://github.com/home-assistant/core/releases/tag/2024.12.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.19`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.19) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

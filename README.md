@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.7.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.7.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.64.0`](https://github.com/renovatebot/renovate/releases/tag/39.64.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-2.0.0-rc.9`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.9) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.63.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.63.1) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.12.2`](https://github.com/home-assistant/core/releases/tag/2024.12.2) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.68.0`](https://github.com/renovatebot/renovate/releases/tag/39.68.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.66.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.66.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-26.0.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-26.0.1) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.26.1`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1) - 
+- [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin
 
 ### ⭐ Recent Stars
 

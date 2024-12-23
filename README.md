@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.80.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.80.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.80.0`](https://github.com/renovatebot/renovate/releases/tag/39.80.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.12.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.12.0) - Atlantis Helm Chart
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.28.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.28.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2024.12.5`](https://github.com/home-assistant/core/releases/tag/2024.12.5) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.7`](https://github.com/renovatebot/github-action/releases/tag/v41.0.7) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.82.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.82.1) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.26`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.26) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.82.1`](https://github.com/renovatebot/renovate/releases/tag/39.82.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-2.0.0-rc.11`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.11) - 
 
 ### ⭐ Recent Stars
 

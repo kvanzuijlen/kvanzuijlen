@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.82.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.82.6) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b1`](https://github.com/home-assistant/core/releases/tag/2025.1.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pingmesh-exporter-0.4.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingmesh-exporter-0.4.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.82.7`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.82.7) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.82.7`](https://github.com/renovatebot/renovate/releases/tag/39.82.7) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b2`](https://github.com/home-assistant/core/releases/tag/2025.1.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp) [`v1.11.1-rc.1`](https://github.com/vmware-tanzu/velero-plugin-for-gcp/releases/tag/v1.11.1-rc.1) - Plugins to support Velero on Google Cloud Platform (GCP)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.82.6`](https://github.com/renovatebot/renovate/releases/tag/39.82.6) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-mongodb-exporter-3.11.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

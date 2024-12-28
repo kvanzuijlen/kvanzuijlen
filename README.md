@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.84.0`](https://github.com/renovatebot/renovate/releases/tag/39.84.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.83.6`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.83.6) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-rabbitmq-exporter-1.13.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.13.0) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-2.0.0-rc.12`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.12) - 
 - [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp) [`v1.11.1`](https://github.com/vmware-tanzu/velero-plugin-for-gcp/releases/tag/v1.11.1) - Plugins to support Velero on Google Cloud Platform (GCP)
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.83.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.83.3) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.83.3`](https://github.com/renovatebot/renovate/releases/tag/39.83.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [qdm12/gluetun](https://github.com/qdm12/gluetun) [`v3.40.0`](https://github.com/qdm12/gluetun/releases/tag/v3.40.0) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-smartctl-exporter-0.13.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.13.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

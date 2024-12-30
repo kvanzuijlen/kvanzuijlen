@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.84.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.84.1) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.85.0`](https://github.com/renovatebot/renovate/releases/tag/39.85.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-rabbitmq-exporter-1.13.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.13.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.86.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.86.0) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b3`](https://github.com/home-assistant/core/releases/tag/2025.1.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.86.0`](https://github.com/renovatebot/renovate/releases/tag/39.86.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-json-exporter-0.14.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.1) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-2.0.0-rc.12`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.12) - 
-- [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp) [`v1.11.1`](https://github.com/vmware-tanzu/velero-plugin-for-gcp/releases/tag/v1.11.1) - Plugins to support Velero on Google Cloud Platform (GCP)
 
 ### ⭐ Recent Stars
 

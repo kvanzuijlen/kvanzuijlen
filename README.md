@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.86.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.86.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b3`](https://github.com/home-assistant/core/releases/tag/2025.1.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.86.0`](https://github.com/renovatebot/renovate/releases/tag/39.86.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-json-exporter-0.14.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.1) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-2.0.0-rc.12`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.12) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b4`](https://github.com/home-assistant/core/releases/tag/2025.1.0b4) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.28.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.28.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.86.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.86.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.86.1`](https://github.com/renovatebot/renovate/releases/tag/39.86.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`pyroscope-1.11.0`](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.11.0) - 
 
 ### ⭐ Recent Stars
 

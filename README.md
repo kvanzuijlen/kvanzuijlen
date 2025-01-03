@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.88.0`](https://github.com/renovatebot/renovate/releases/tag/39.88.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.87.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.87.0) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b5`](https://github.com/home-assistant/core/releases/tag/2025.1.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pushgateway-2.16.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.16.0) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.6.0-weekly.323`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.323) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.27`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.27) - Jenkins helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-67.6.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.6.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.90.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.90.2) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.90.2`](https://github.com/renovatebot/renovate/releases/tag/39.90.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b7`](https://github.com/home-assistant/core/releases/tag/2025.1.0b7) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
-- [**@tan7bot**](https://github.com/tan7bot)
 - [**@v-shechenkov**](https://github.com/v-shechenkov)
 - [**@isahio**](https://github.com/isahio)
 - [**@joostlek**](https://github.com/joostlek)
 - [**@OrenZiv**](https://github.com/OrenZiv)
+- [**@cassimahmedattia**](https://github.com/cassimahmedattia)

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.7.27`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.7.27) - Jenkins helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-67.6.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.6.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.90.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.90.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.90.2`](https://github.com/renovatebot/renovate/releases/tag/39.90.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0b7`](https://github.com/home-assistant/core/releases/tag/2025.1.0b7) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.90.4`](https://github.com/renovatebot/renovate/releases/tag/39.90.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.17`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.17) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.90.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.90.3) - 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.0`](https://github.com/home-assistant/core/releases/tag/2025.1.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-26.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-26.1.0) - Prometheus community Helm charts
 
 ### ⭐ Recent Stars
 

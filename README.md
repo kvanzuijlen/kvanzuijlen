@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.106.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.106.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-68.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.1.0) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.107.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.107.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.107.0`](https://github.com/renovatebot/renovate/releases/tag/39.107.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.19`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.19) - 
 - [yonahd/kor](https://github.com/yonahd/kor) [`v0.5.8`](https://github.com/yonahd/kor/releases/tag/v0.5.8) - A Golang Tool to discover unused Kubernetes Resources 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.106.0`](https://github.com/renovatebot/renovate/releases/tag/39.106.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-67.10.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.10.0) - Prometheus community Helm charts
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.3) - Jenkins helm charts
 
 ### ⭐ Recent Stars
 

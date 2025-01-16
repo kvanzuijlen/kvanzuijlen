@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.29.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.29.0) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-yet-another-cloudwatch-exporter-0.39.2`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.2) - Prometheus community Helm charts
-- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.107.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.107.0) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.107.0`](https://github.com/renovatebot/renovate/releases/tag/39.107.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.107.3`](https://github.com/renovatebot/renovate/releases/tag/39.107.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.30.0`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.30.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-68.1.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.1.1) - Prometheus community Helm charts
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.9`](https://github.com/renovatebot/github-action/releases/tag/v41.0.9) - 
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.1`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.1) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### ⭐ Recent Stars
 

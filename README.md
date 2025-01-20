@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-1.18.1`](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-27.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.1.0) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.116.0`](https://github.com/renovatebot/renovate/releases/tag/39.116.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.7.0-weekly.325`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.325) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.117.3`](https://github.com/renovatebot/renovate/releases/tag/39.117.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.8.0) - Prometheus community Helm charts
+- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.10`](https://github.com/renovatebot/github-action/releases/tag/v41.0.10) - 
 - [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.115.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.115.4) - 
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.9`](https://github.com/renovatebot/github-action/releases/tag/v41.0.9) - 
 
 ### ⭐ Recent Stars
 

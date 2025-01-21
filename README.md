@@ -6,10 +6,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins GitHub Integration Plugin
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
 
 ### 🌱 Recent projects
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: add concurrency to renovate action](https://github.com/jenkinsci/helm-charts/pull/1288) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [fix: add missing backslashes](https://github.com/jenkinsci/helm-charts/pull/1287) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [fix: fix jenkins-agent renovate version regex](https://github.com/jenkinsci/helm-charts/pull/1285) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: fix nullpointerexception when body is null](https://github.com/KostyaSha/github-integration-plugin/pull/390) on [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin)
 - [chore: update keycloak](https://github.com/oauth2-proxy/oauth2-proxy/pull/2706) on [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy)
-- [chore: run renovate hourly and on push](https://github.com/jenkinsci/helm-charts/pull/1146) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore(deps): update super-linter to v6.7.0](https://github.com/jenkinsci/helm-charts/pull/1145) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore: further specify version number for golang image](https://github.com/version-cli/version/pull/112) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.7.0-weekly.325`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.325) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.117.3`](https://github.com/renovatebot/renovate/releases/tag/39.117.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-stackdriver-exporter-4.8.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.8.0) - Prometheus community Helm charts
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.10`](https://github.com/renovatebot/github-action/releases/tag/v41.0.10) - 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.115.4`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.115.4) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-68.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.0) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.119.0`](https://github.com/renovatebot/renovate/releases/tag/39.119.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.118.5`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.118.5) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.5`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.5) - Jenkins helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.1.3`](https://github.com/home-assistant/core/releases/tag/2025.1.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

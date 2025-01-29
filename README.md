@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.137.2`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.137.2) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.137.2`](https://github.com/renovatebot/renovate/releases/tag/39.137.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.6`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.6) - Jenkins helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.22`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.22) - 
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.11`](https://github.com/renovatebot/github-action/releases/tag/v41.0.11) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.7`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.7) - Jenkins helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.140.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.140.1) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.140.1`](https://github.com/renovatebot/renovate/releases/tag/39.140.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-68.3.3`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.3) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`mimir-distributed-5.7.0-weekly.327`](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.327) - 
 
 ### ⭐ Recent Stars
 

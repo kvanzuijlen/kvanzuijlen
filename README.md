@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/github-action](https://github.com/renovatebot/github-action) [`v41.0.12`](https://github.com/renovatebot/github-action/releases/tag/v41.0.12) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.0b7`](https://github.com/home-assistant/core/releases/tag/2025.2.0b7) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.156.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.156.1) - 
-- [yonahd/kor](https://github.com/yonahd/kor) [`v0.5.9`](https://github.com/yonahd/kor/releases/tag/v0.5.9) - A Golang Tool to discover unused Kubernetes Resources 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.156.1`](https://github.com/renovatebot/renovate/releases/tag/39.156.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.158.2`](https://github.com/renovatebot/renovate/releases/tag/39.158.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-68.4.5`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.5) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.9.0`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.9.0) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.8`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.8) - Jenkins helm charts
+- [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.33.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.33.0) - Terraform Pull Request Automation
 
 ### ⭐ Recent Stars
 

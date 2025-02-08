@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.163.0`](https://github.com/renovatebot/renovate/releases/tag/39.163.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-69.2.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.0) - Prometheus community Helm charts
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.162.3`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.162.3) - 
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.164.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.164.0) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.164.0`](https://github.com/renovatebot/renovate/releases/tag/39.164.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.1`](https://github.com/home-assistant/core/releases/tag/2025.2.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-pushgateway-3.0.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.0.0) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`loki-distributed-0.80.1`](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.1) - 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.0`](https://github.com/home-assistant/core/releases/tag/2025.2.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars
 

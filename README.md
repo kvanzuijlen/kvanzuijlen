@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-69.2.1`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.1) - Prometheus community Helm charts
+- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.164.1`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.164.1) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.164.1`](https://github.com/renovatebot/renovate/releases/tag/39.164.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-state-metrics-5.30.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.30.0) - Prometheus community Helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.14.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.14.0) - Atlantis Helm Chart
-- [renovatebot/helm-charts](https://github.com/renovatebot/helm-charts) [`renovate-39.164.0`](https://github.com/renovatebot/helm-charts/releases/tag/renovate-39.164.0) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.1`](https://github.com/home-assistant/core/releases/tag/2025.2.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ### ⭐ Recent Stars

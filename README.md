@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.170.1`](https://github.com/renovatebot/renovate/releases/tag/39.170.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.25`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.25) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-69.2.4`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.4) - Prometheus community Helm charts
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.3`](https://github.com/home-assistant/core/releases/tag/2025.2.3) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.170.2`](https://github.com/renovatebot/renovate/releases/tag/39.170.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) [`helm-loki-6.27.0`](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.27.0) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`kube-prometheus-stack-69.3.0`](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.3.0) - Prometheus community Helm charts
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.4`](https://github.com/home-assistant/core/releases/tag/2025.2.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.11`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.11) - Jenkins helm charts
 
 ### ⭐ Recent Stars

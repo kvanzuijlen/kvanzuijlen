@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.175.2`](https://github.com/renovatebot/renovate/releases/tag/39.175.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.14`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.14) - Jenkins helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.15`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.15) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.176.3`](https://github.com/renovatebot/renovate/releases/tag/39.176.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`rollout-operator-0.24.0`](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.24.0) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-rabbitmq-exporter-2.1.0`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-2.1.0) - Prometheus community Helm charts
 - [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.4`](https://github.com/home-assistant/core/releases/tag/2025.2.4) - :house_with_garden: Open source home automation that puts local control and privacy first.

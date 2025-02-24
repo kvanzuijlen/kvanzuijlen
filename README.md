@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.177.1`](https://github.com/renovatebot/renovate/releases/tag/39.177.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`40.0.0-next.6`](https://github.com/renovatebot/renovate/releases/tag/40.0.0-next.6) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) [`prometheus-mongodb-exporter-3.11.1`](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.1) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`grafana-8.10.1`](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.1) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2025.2.5`](https://github.com/home-assistant/core/releases/tag/2025.2.5) - :house_with_garden: Open source home automation that puts local control and privacy first.

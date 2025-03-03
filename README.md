@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.3.0b3`](https://github.com/home-assistant/core/releases/tag/2025.3.0b3) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.185.0`](https://github.com/renovatebot/renovate/releases/tag/39.185.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.3.0b2`](https://github.com/home-assistant/core/releases/tag/2025.3.0b2) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`k8s-monitoring-1.6.27`](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.27) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.17`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.17) - Jenkins helm charts
 - [runatlantis/helm-charts](https://github.com/runatlantis/helm-charts) [`atlantis-5.16.0`](https://github.com/runatlantis/helm-charts/releases/tag/atlantis-5.16.0) - Atlantis Helm Chart

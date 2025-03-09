@@ -6,31 +6,31 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
+- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins GitHub Integration Plugin
-- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
 - [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
 - [kvanzuijlen/jenkins-helm-charts-renovate](https://github.com/kvanzuijlen/jenkins-helm-charts-renovate) - 
-- [kvanzuijlen/version-private](https://github.com/kvanzuijlen/version-private) - 
 
 ### 🚧 My recent Pull Requests
 
+- [chore: remove renovate pr limits](https://github.com/kvanzuijlen/scrutiny-collector/pull/4) on [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector)
 - [fix: fix renovate jenkins/inbound-agent versioning regex](https://github.com/jenkinsci/helm-charts/pull/1306) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: add concurrency to renovate action](https://github.com/jenkinsci/helm-charts/pull/1288) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: add missing backslashes](https://github.com/jenkinsci/helm-charts/pull/1287) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: fix jenkins-agent renovate version regex](https://github.com/jenkinsci/helm-charts/pull/1285) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [fix: fix nullpointerexception when body is null](https://github.com/KostyaSha/github-integration-plugin/pull/390) on [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.191.1`](https://github.com/renovatebot/renovate/releases/tag/39.191.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.191.2`](https://github.com/renovatebot/renovate/releases/tag/39.191.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) [`tempo-distributed-1.32.3`](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3) - 
 - [home-assistant/core](https://github.com/home-assistant/core) [`2025.3.1`](https://github.com/home-assistant/core/releases/tag/2025.3.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.17`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.17) - Jenkins helm charts

@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.213.6`](https://github.com/renovatebot/renovate/releases/tag/39.213.6) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.216.1`](https://github.com/renovatebot/renovate/releases/tag/39.216.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.25`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.25) - Jenkins helm charts
+- [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.2`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.2) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [home-assistant/core](https://github.com/home-assistant/core) [`2025.3.4`](https://github.com/home-assistant/core/releases/tag/2025.3.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.24`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.24) - Jenkins helm charts
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.33.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.33.0) - Terraform Pull Request Automation
-- [yonahd/kor](https://github.com/yonahd/kor) [`v0.5.9`](https://github.com/yonahd/kor/releases/tag/v0.5.9) - A Golang Tool to discover unused Kubernetes Resources 
 
 ### ⭐ Recent Stars
 

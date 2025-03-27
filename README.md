@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.216.1`](https://github.com/renovatebot/renovate/releases/tag/39.216.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.25`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.25) - Jenkins helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.27`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.27) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.219.0`](https://github.com/renovatebot/renovate/releases/tag/39.219.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.4.0b1`](https://github.com/home-assistant/core/releases/tag/2025.4.0b1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.2`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.2) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.3.4`](https://github.com/home-assistant/core/releases/tag/2025.3.4) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [runatlantis/atlantis](https://github.com/runatlantis/atlantis) [`v0.33.0`](https://github.com/runatlantis/atlantis/releases/tag/v0.33.0) - Terraform Pull Request Automation
 
 ### ⭐ Recent Stars

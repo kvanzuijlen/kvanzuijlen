@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.4.0b5`](https://github.com/home-assistant/core/releases/tag/2025.4.0b5) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.219.2`](https://github.com/renovatebot/renovate/releases/tag/39.219.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.29`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.29) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.220.3`](https://github.com/renovatebot/renovate/releases/tag/39.220.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.4.0b8`](https://github.com/home-assistant/core/releases/tag/2025.4.0b8) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [yonahd/kor](https://github.com/yonahd/kor) [`v0.6.0`](https://github.com/yonahd/kor/releases/tag/v0.6.0) - A Golang Tool to discover unused Kubernetes Resources 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.27`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.27) - Jenkins helm charts
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.8.2`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.8.2) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 
 ### ⭐ Recent Stars

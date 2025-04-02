@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [ci: update kindest/node versions to currently supported releases](https://github.com/jenkinsci/helm-charts/pull/1339) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
+- [fix: update jenkins/jenkins to 2.492.2-jdk21](https://github.com/jenkinsci/helm-charts/pull/1338) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: remove renovate pr limits](https://github.com/kvanzuijlen/scrutiny-collector/pull/4) on [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector)
 - [fix: fix renovate jenkins/inbound-agent versioning regex](https://github.com/jenkinsci/helm-charts/pull/1306) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: add concurrency to renovate action](https://github.com/jenkinsci/helm-charts/pull/1288) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [fix: add missing backslashes](https://github.com/jenkinsci/helm-charts/pull/1287) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [fix: fix jenkins-agent renovate version regex](https://github.com/jenkinsci/helm-charts/pull/1285) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.228.1`](https://github.com/renovatebot/renovate/releases/tag/39.228.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.230.2`](https://github.com/renovatebot/renovate/releases/tag/39.230.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.30`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.30) - Jenkins helm charts
 - [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp) [`v1.12.0-rc.1`](https://github.com/vmware-tanzu/velero-plugin-for-gcp/releases/tag/v1.12.0-rc.1) - Plugins to support Velero on Google Cloud Platform (GCP)
 - [yonahd/kor](https://github.com/yonahd/kor) [`v0.6.0`](https://github.com/yonahd/kor/releases/tag/v0.6.0) - A Golang Tool to discover unused Kubernetes Resources 

@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.232.2`](https://github.com/renovatebot/renovate/releases/tag/39.232.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`39.233.2`](https://github.com/renovatebot/renovate/releases/tag/39.233.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [home-assistant/core](https://github.com/home-assistant/core) [`2025.4.0`](https://github.com/home-assistant/core/releases/tag/2025.4.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.32`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.32) - Jenkins helm charts
 - [vmware-tanzu/velero-plugin-for-gcp](https://github.com/vmware-tanzu/velero-plugin-for-gcp) [`v1.12.0-rc.1`](https://github.com/vmware-tanzu/velero-plugin-for-gcp/releases/tag/v1.12.0-rc.1) - Plugins to support Velero on Google Cloud Platform (GCP)

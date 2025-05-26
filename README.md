@@ -8,8 +8,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
-- [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
+- [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins GitHub Integration Plugin
 
 ### 🌱 Recent projects

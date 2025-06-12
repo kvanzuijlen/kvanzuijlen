@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) [`2025.6.0b6`](https://github.com/home-assistant/core/releases/tag/2025.6.0b6) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) [`2025.6.0`](https://github.com/home-assistant/core/releases/tag/2025.6.0) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.56`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.56) - Jenkins helm charts
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.9.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.9.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) [`v3.40.0`](https://github.com/qdm12/gluetun/releases/tag/v3.40.0) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.

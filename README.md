@@ -22,11 +22,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat(lock): add config option to show open door button when locked](https://github.com/piitaya/lovelace-mushroom/pull/1726) on [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 - [fix: upgrade to super-linter v7](https://github.com/jenkinsci/helm-charts/pull/1376) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [ci: update kindest/node versions to currently supported releases](https://github.com/jenkinsci/helm-charts/pull/1339) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [fix: update jenkins/jenkins to 2.492.3-jdk21](https://github.com/jenkinsci/helm-charts/pull/1338) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: remove renovate pr limits](https://github.com/kvanzuijlen/scrutiny-collector/pull/4) on [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector)
-- [fix: fix renovate jenkins/inbound-agent versioning regex](https://github.com/jenkinsci/helm-charts/pull/1306) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 
 ### 🚀 Latest releases I've contributed to
 

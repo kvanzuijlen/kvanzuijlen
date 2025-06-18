@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
-- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
-- [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) - Jenkins GitHub Integration Plugin
+- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 
 ### 🌱 Recent projects
 
@@ -33,8 +33,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.58`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.58) - Jenkins helm charts
 - [home-assistant/core](https://github.com/home-assistant/core) [`2025.6.1`](https://github.com/home-assistant/core/releases/tag/2025.6.1) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) [`v7.9.0`](https://github.com/oauth2-proxy/oauth2-proxy/releases/tag/v7.9.0) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v4.4.0`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v4.4.0) - Build a beautiful Home Assistant dashboard easily
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) [`v3.40.0`](https://github.com/qdm12/gluetun/releases/tag/v3.40.0) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin
 
 ### ⭐ Recent Stars
 

@@ -6,27 +6,27 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons) - 
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
 - [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
-- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons) - 
 - [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
 - [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 - [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
-- [kvanzuijlen/version-docs-temp](https://github.com/kvanzuijlen/version-docs-temp) - 
 
 ### 🚧 My recent Pull Requests
 
+- [refactor: refactor to a home assistant addon repo](https://github.com/kvanzuijlen/hassio-addons/pull/2) on [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons)
+- [docs: add license badge](https://github.com/kvanzuijlen/hassio-addons/pull/1) on [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons)
 - [feat(lock): add config option to show open door button when locked](https://github.com/piitaya/lovelace-mushroom/pull/1726) on [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 - [fix: upgrade to super-linter v7](https://github.com/jenkinsci/helm-charts/pull/1376) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [ci: update kindest/node versions to currently supported releases](https://github.com/jenkinsci/helm-charts/pull/1339) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [fix: update jenkins/jenkins to 2.492.3-jdk21](https://github.com/jenkinsci/helm-charts/pull/1338) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [chore: remove renovate pr limits](https://github.com/kvanzuijlen/scrutiny-collector/pull/4) on [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector)
 
 ### 🚀 Latest releases I've contributed to
 

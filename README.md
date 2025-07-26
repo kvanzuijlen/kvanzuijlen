@@ -34,7 +34,6 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v4.5.0`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v4.5.0) - Build a beautiful Home Assistant dashboard easily
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) [`v3.40.0`](https://github.com/qdm12/gluetun/releases/tag/v3.40.0) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin
-- [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) [`0.3.2`](https://github.com/kvanzuijlen/zeversolar/releases/tag/0.3.2) - 
 
 ### ⭐ Recent Stars
 

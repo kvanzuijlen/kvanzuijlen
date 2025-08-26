@@ -22,11 +22,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [[stable/redis-ha]: fix: use https for homepage](https://github.com/DandyDeveloper/charts/pull/340) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
+- [[stable/redis-ha] fix: replace deprecated gitversion with version](https://github.com/DandyDeveloper/charts/pull/339) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 - [refactor: refactor to a home assistant addon repo](https://github.com/kvanzuijlen/hassio-addons/pull/2) on [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons)
 - [docs: add license badge](https://github.com/kvanzuijlen/hassio-addons/pull/1) on [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons)
 - [feat(lock): add config option to show open door button when locked](https://github.com/piitaya/lovelace-mushroom/pull/1726) on [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
-- [fix: upgrade to super-linter v7](https://github.com/jenkinsci/helm-charts/pull/1376) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
-- [ci: update kindest/node versions to currently supported releases](https://github.com/jenkinsci/helm-charts/pull/1339) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 
 ### 🚀 Latest releases I've contributed to
 

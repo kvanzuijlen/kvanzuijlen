@@ -40,7 +40,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 - [galagaking/espaxa](https://github.com/galagaking/espaxa) - ESP Module for controlling AXA Remote2.0
 - [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 
 ### 👀 Recent followers
 

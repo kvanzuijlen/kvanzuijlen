@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons) - 
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
 - [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
-- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 
 ### 🌱 Recent projects
 
@@ -30,7 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.4`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.4) - Build a beautiful Home Assistant dashboard easily
+- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.34.3`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.34.3) - Various helm charts migrated from [helm/stable] due to deprecation
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.5`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.5) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.86`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.86) - Jenkins helm charts
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin
 

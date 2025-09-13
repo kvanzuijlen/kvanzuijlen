@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [[stable/redis-ha]: fix: replace deprecated gitversion](https://github.com/DandyDeveloper/charts/pull/348) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
+- [fix: use supported version of kindest/node](https://github.com/DandyDeveloper/charts/pull/347) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 - [[stable/redis-ha]: fix: use https for homepage](https://github.com/DandyDeveloper/charts/pull/340) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 - [[stable/redis-ha] fix: replace deprecated gitversion with version](https://github.com/DandyDeveloper/charts/pull/339) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 - [refactor: refactor to a home assistant addon repo](https://github.com/kvanzuijlen/hassio-addons/pull/2) on [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons)
-- [docs: add license badge](https://github.com/kvanzuijlen/hassio-addons/pull/1) on [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons)
-- [feat(lock): add config option to show open door button when locked](https://github.com/piitaya/lovelace-mushroom/pull/1726) on [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom)
 
 ### 🚀 Latest releases I've contributed to
 
-- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.34.3`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.34.3) - Various helm charts migrated from [helm/stable] due to deprecation
+- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.34.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.34.10) - Various helm charts migrated from [helm/stable] due to deprecation
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.5`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.5) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.86`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.86) - Jenkins helm charts
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin

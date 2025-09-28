@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@Iankulani**](https://github.com/Iankulani)
 - [**@dkapt**](https://github.com/dkapt)
 - [**@v-shechenkov**](https://github.com/v-shechenkov)
 - [**@isahio**](https://github.com/isahio)
 - [**@joostlek**](https://github.com/joostlek)
-- [**@OrenZiv**](https://github.com/OrenZiv)

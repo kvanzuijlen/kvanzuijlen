@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.95`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.95) - Jenkins helm charts
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.97`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.97) - Jenkins helm charts
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.7`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.7) - Build a beautiful Home Assistant dashboard easily
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.34.13`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.34.13) - Various helm charts migrated from [helm/stable] due to deprecation
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin

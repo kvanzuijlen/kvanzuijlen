@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.8`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.8) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.101`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.101) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.0) - Various helm charts migrated from [helm/stable] due to deprecation
-- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.7`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.7) - Build a beautiful Home Assistant dashboard easily
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin
 
 ### ⭐ Recent Stars
@@ -45,8 +45,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@wintun-devop**](https://github.com/wintun-devop)
 - [**@Iankulani**](https://github.com/Iankulani)
 - [**@dkapt**](https://github.com/dkapt)
 - [**@v-shechenkov**](https://github.com/v-shechenkov)
 - [**@isahio**](https://github.com/isahio)
-- [**@joostlek**](https://github.com/joostlek)

@@ -6,30 +6,31 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) - 
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons) - 
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) - Jenkins helm charts
-- [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) - 
 - [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons) - 
 - [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
 - [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
-- [kvanzuijlen/grafana-helm-charts-renovate](https://github.com/kvanzuijlen/grafana-helm-charts-renovate) - 
 
 ### 🚧 My recent Pull Requests
 
+- [chore: enable all renovate managers](https://github.com/kvanzuijlen/octoprint-bambu/pull/5) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
+- [feat: build multi-platform image](https://github.com/kvanzuijlen/octoprint-bambu/pull/4) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
+- [feat: added octoprint &#43; bambu plugin dockerfile](https://github.com/kvanzuijlen/octoprint-bambu/pull/1) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
 - [[stable/redis-ha]: fix: replace deprecated gitversion](https://github.com/DandyDeveloper/charts/pull/348) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 - [fix: use supported version of kindest/node](https://github.com/DandyDeveloper/charts/pull/347) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
-- [[stable/redis-ha]: fix: use https for homepage](https://github.com/DandyDeveloper/charts/pull/340) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
-- [[stable/redis-ha] fix: replace deprecated gitversion with version](https://github.com/DandyDeveloper/charts/pull/339) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
-- [refactor: refactor to a home assistant addon repo](https://github.com/kvanzuijlen/hassio-addons/pull/2) on [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons)
 
 ### 🚀 Latest releases I've contributed to
 
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.3-15`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.3-15) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.104`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104) - Jenkins helm charts
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.8`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.8) - Build a beautiful Home Assistant dashboard easily
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.0) - Various helm charts migrated from [helm/stable] due to deprecation

@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.2`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.2) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.3-15`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.3-15) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.104`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.104) - Jenkins helm charts
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.8`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.8) - Build a beautiful Home Assistant dashboard easily
-- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.0) - Various helm charts migrated from [helm/stable] due to deprecation
 - [KostyaSha/github-integration-plugin](https://github.com/KostyaSha/github-integration-plugin) [`0.7.1`](https://github.com/KostyaSha/github-integration-plugin/releases/tag/0.7.1) - Jenkins GitHub Integration Plugin
 
 ### ⭐ Recent Stars

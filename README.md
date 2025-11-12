@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.108`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.108) - Jenkins helm charts
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.4-21`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.4-21) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.107`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.107) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.2`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.2) - Various helm charts migrated from [helm/stable] due to deprecation
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.8`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.8) - Build a beautiful Home Assistant dashboard easily
 

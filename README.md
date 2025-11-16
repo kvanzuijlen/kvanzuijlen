@@ -22,11 +22,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: update pull request template](https://github.com/renovatebot/renovate/pull/39323) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
+- [docs: update ocb documentation](https://github.com/renovatebot/renovate/pull/39322) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [chore: enable all renovate managers](https://github.com/kvanzuijlen/octoprint-bambu/pull/5) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
 - [feat: build multi-platform image](https://github.com/kvanzuijlen/octoprint-bambu/pull/4) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
 - [feat: added octoprint &#43; bambu plugin dockerfile](https://github.com/kvanzuijlen/octoprint-bambu/pull/1) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
-- [[stable/redis-ha]: fix: replace deprecated gitversion](https://github.com/DandyDeveloper/charts/pull/348) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
-- [fix: use supported version of kindest/node](https://github.com/DandyDeveloper/charts/pull/347) on [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts)
 
 ### 🚀 Latest releases I've contributed to
 

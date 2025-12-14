@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.52.2`](https://github.com/renovatebot/renovate/releases/tag/42.52.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.52.4`](https://github.com/renovatebot/renovate/releases/tag/42.52.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.114`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.5-31`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.5-31) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.110`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.110) - Jenkins helm charts
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.8`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.8) - Build a beautiful Home Assistant dashboard easily
 
 ### ⭐ Recent Stars

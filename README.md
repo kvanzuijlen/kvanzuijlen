@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat: add skip_push input option](https://github.com/stefanzweifel/git-auto-commit-action/pull/401) on [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
 - [docs(manager/ocb): add example for otel&#39;s dual versioning](https://github.com/renovatebot/renovate/pull/39343) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [chore: update pull request template](https://github.com/renovatebot/renovate/pull/39323) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [docs(manager/ocb): update ocb documentation](https://github.com/renovatebot/renovate/pull/39322) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [chore: enable all renovate managers](https://github.com/kvanzuijlen/octoprint-bambu/pull/5) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
-- [feat: build multi-platform image](https://github.com/kvanzuijlen/octoprint-bambu/pull/4) on [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.53.0`](https://github.com/renovatebot/renovate/releases/tag/42.53.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.57.1`](https://github.com/renovatebot/renovate/releases/tag/42.57.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.114`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.5-31`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.5-31) - 

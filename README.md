@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) - 
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons) - 
-- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
 
 ### 🌱 Recent projects
 
@@ -22,7 +22,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
-- [feat: add skip_push input option](https://github.com/stefanzweifel/git-auto-commit-action/pull/401) on [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
+- [ Add skip_push input option](https://github.com/stefanzweifel/git-auto-commit-action/pull/401) on [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
 - [docs(manager/ocb): add example for otel&#39;s dual versioning](https://github.com/renovatebot/renovate/pull/39343) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [chore: update pull request template](https://github.com/renovatebot/renovate/pull/39323) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
 - [docs(manager/ocb): update ocb documentation](https://github.com/renovatebot/renovate/pull/39322) on [renovatebot/renovate](https://github.com/renovatebot/renovate)
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.59.0`](https://github.com/renovatebot/renovate/releases/tag/42.59.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.60.0`](https://github.com/renovatebot/renovate/releases/tag/42.60.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.1.0`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.1.0) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.114`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.5-31`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.5-31) - 
-- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.8`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.8) - Build a beautiful Home Assistant dashboard easily
 
 ### ⭐ Recent Stars
 

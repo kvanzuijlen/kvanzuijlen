@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.60.0`](https://github.com/renovatebot/renovate/releases/tag/42.60.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.64.1`](https://github.com/renovatebot/renovate/releases/tag/42.64.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.1.0`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.1.0) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.114`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.114) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.5`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.5) - Various helm charts migrated from [helm/stable] due to deprecation

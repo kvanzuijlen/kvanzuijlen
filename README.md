@@ -38,11 +38,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### ⭐ Recent Stars
 
+- [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Offers functions to validate and assert values within Terraform configurations, simplifying variable validation and custom conditions.
 - [galagaking/espaxa](https://github.com/galagaking/espaxa) - ESP Module for controlling AXA Remote2.0
 - [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
 
 ### 👀 Recent followers
 

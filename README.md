@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.83.2`](https://github.com/renovatebot/renovate/releases/tag/42.83.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.120`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.120) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.84.2`](https://github.com/renovatebot/renovate/releases/tag/42.84.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.122`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.122) - Jenkins helm charts
 - [version-cli/version](https://github.com/version-cli/version) [`v0.2.0`](https://github.com/version-cli/version/releases/tag/v0.2.0) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.9`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.9) - Build a beautiful Home Assistant dashboard easily
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.5-33`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.5-33) - 

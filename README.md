@@ -6,8 +6,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
-- [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
+- [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) - 
@@ -22,19 +22,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix: allow the output of the action to be multiline](https://github.com/version-cli/version/pull/146) on [version-cli/version](https://github.com/version-cli/version)
 - [feat(logging): Add Cloud Logging Saved Query resource](https://github.com/GoogleCloudPlatform/magic-modules/pull/16182) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules)
 - [fix: card_mod compatibility and localize empty state message](https://github.com/weedpump/timeline-card/pull/27) on [weedpump/timeline-card](https://github.com/weedpump/timeline-card)
 - [fix: build smartmontools by embedding libraries in executable](https://github.com/kvanzuijlen/scrutiny-collector/pull/43) on [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector)
 - [feat: github-action &#43; github-tags datasource &#43; overhaul cicd](https://github.com/version-cli/version/pull/136) on [version-cli/version](https://github.com/version-cli/version)
-- [ Add skip_push input option](https://github.com/stefanzweifel/git-auto-commit-action/pull/401) on [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action)
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.92.3`](https://github.com/renovatebot/renovate/releases/tag/42.92.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.130`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.130) - Jenkins helm charts
+- [version-cli/version](https://github.com/version-cli/version) [`v0.2.1`](https://github.com/version-cli/version/releases/tag/v0.2.1) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.6`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.6) - Various helm charts migrated from [helm/stable] due to deprecation
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.129`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.129) - Jenkins helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.90.1`](https://github.com/renovatebot/renovate/releases/tag/42.90.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.5-35`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.5-35) - 
-- [version-cli/version](https://github.com/version-cli/version) [`v0.2.0`](https://github.com/version-cli/version/releases/tag/v0.2.0) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 
 ### ⭐ Recent Stars
 

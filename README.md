@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.92.12`](https://github.com/renovatebot/renovate/releases/tag/42.92.12) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.93.1`](https://github.com/renovatebot/renovate/releases/tag/42.93.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.6-37`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.6-37) - 
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.133`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.133) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.7`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.7) - Various helm charts migrated from [helm/stable] due to deprecation
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.130`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.130) - Jenkins helm charts
 - [version-cli/version](https://github.com/version-cli/version) [`v0.2.1`](https://github.com/version-cli/version/releases/tag/v0.2.1) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
-- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.5-35`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.5-35) - 
 
 ### ⭐ Recent Stars
 

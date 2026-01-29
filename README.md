@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) - 
 
 ### 🌱 Recent projects
 
@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.93.1`](https://github.com/renovatebot/renovate/releases/tag/42.93.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.6-37`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.6-37) - 
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.133`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.133) - Jenkins helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`42.94.7`](https://github.com/renovatebot/renovate/releases/tag/42.94.7) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.134`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134) - Jenkins helm charts
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.6-39`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.6-39) - 
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.7`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.7) - Various helm charts migrated from [helm/stable] due to deprecation
 - [version-cli/version](https://github.com/version-cli/version) [`v0.2.1`](https://github.com/version-cli/version/releases/tag/v0.2.1) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 

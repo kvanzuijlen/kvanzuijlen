@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.0.5`](https://github.com/renovatebot/renovate/releases/tag/43.0.5) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.0.6`](https://github.com/renovatebot/renovate/releases/tag/43.0.6) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.10`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.10) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.134`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134) - Jenkins helm charts
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.6-39`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.6-39) - 
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.7`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.7) - Various helm charts migrated from [helm/stable] due to deprecation
-- [version-cli/version](https://github.com/version-cli/version) [`v0.2.1`](https://github.com/version-cli/version/releases/tag/v0.2.1) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 
 ### ⭐ Recent Stars
 

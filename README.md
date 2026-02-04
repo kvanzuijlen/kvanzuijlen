@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.2.7`](https://github.com/renovatebot/renovate/releases/tag/43.2.7) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.3.0`](https://github.com/renovatebot/renovate/releases/tag/43.3.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.0.10`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.0.10) - Build a beautiful Home Assistant dashboard easily
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.134`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.134) - Jenkins helm charts
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.6-39`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.6-39) - 

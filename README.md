@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.31.9`](https://github.com/renovatebot/renovate/releases/tag/43.31.9) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.36.1`](https://github.com/renovatebot/renovate/releases/tag/43.36.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-47`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-47) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.8.142`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.8.142) - Jenkins helm charts
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation

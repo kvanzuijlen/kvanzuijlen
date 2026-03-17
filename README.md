@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [kminion: bump chart version to 0.15.1](https://github.com/redpanda-data/helm-charts/pull/1730) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts)
 - [fix: allow the output of the action to be multiline](https://github.com/version-cli/version/pull/146) on [version-cli/version](https://github.com/version-cli/version)
 - [feat(logging): Add Cloud Logging Saved Query resource](https://github.com/GoogleCloudPlatform/magic-modules/pull/16182) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules)
 - [fix: card_mod compatibility and localize empty state message](https://github.com/weedpump/timeline-card/pull/27) on [weedpump/timeline-card](https://github.com/weedpump/timeline-card)
 - [fix: build smartmontools by embedding libraries in executable](https://github.com/kvanzuijlen/scrutiny-collector/pull/43) on [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector)
-- [feat: github-action &#43; github-tags datasource &#43; overhaul cicd](https://github.com/version-cli/version/pull/136) on [version-cli/version](https://github.com/version-cli/version)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.76.3`](https://github.com/renovatebot/renovate/releases/tag/43.76.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.77.2`](https://github.com/renovatebot/renovate/releases/tag/43.77.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-63`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-63) - 
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.9.8`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.8) - Jenkins helm charts
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.1.1`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.1.1) - Build a beautiful Home Assistant dashboard easily

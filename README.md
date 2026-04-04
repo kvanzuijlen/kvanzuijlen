@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat(collector-zfs): add arm64 support for scrutiny collector zfs](https://github.com/Starosdev/scrutiny/pull/422) on [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny)
 - [kminion: bump chart version to 0.15.1](https://github.com/redpanda-data/helm-charts/pull/1730) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts)
 - [fix: allow the output of the action to be multiline](https://github.com/version-cli/version/pull/146) on [version-cli/version](https://github.com/version-cli/version)
 - [feat(logging): Add Cloud Logging Saved Query resource](https://github.com/GoogleCloudPlatform/magic-modules/pull/16182) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules)
 - [fix: card_mod compatibility and localize empty state message](https://github.com/weedpump/timeline-card/pull/27) on [weedpump/timeline-card](https://github.com/weedpump/timeline-card)
-- [fix: build smartmontools by embedding libraries in executable](https://github.com/kvanzuijlen/scrutiny-collector/pull/43) on [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.104.1`](https://github.com/renovatebot/renovate/releases/tag/43.104.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.104.2`](https://github.com/renovatebot/renovate/releases/tag/43.104.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-65`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-65) - 
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`kminion-0.15.1`](https://github.com/redpanda-data/helm-charts/releases/tag/kminion-0.15.1) - Redpanda Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.9.12`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.12) - Jenkins helm charts

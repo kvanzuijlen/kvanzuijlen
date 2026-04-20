@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [feat: add optional smooth_gradients configuration](https://github.com/iljanev/ha-horizontal-gauge-card/pull/3) on [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card)
+- [feat: add segment_value_decimals to config](https://github.com/iljanev/ha-horizontal-gauge-card/pull/2) on [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card)
 - [feat(collector-zfs): add arm64 support for scrutiny collector zfs](https://github.com/Starosdev/scrutiny/pull/422) on [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny)
 - [kminion: bump chart version to 0.15.1](https://github.com/redpanda-data/helm-charts/pull/1730) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts)
 - [fix: allow the output of the action to be multiline](https://github.com/version-cli/version/pull/146) on [version-cli/version](https://github.com/version-cli/version)
-- [feat(logging): Add Cloud Logging Saved Query resource](https://github.com/GoogleCloudPlatform/magic-modules/pull/16182) on [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules)
-- [fix: card_mod compatibility and localize empty state message](https://github.com/weedpump/timeline-card/pull/27) on [weedpump/timeline-card](https://github.com/weedpump/timeline-card)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.130.0`](https://github.com/renovatebot/renovate/releases/tag/43.130.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.132.2`](https://github.com/renovatebot/renovate/releases/tag/43.132.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.2`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.2) - Redpanda Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.9.18`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18) - Jenkins helm charts
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-70`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-70) - 

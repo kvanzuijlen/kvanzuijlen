@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.139.6`](https://github.com/renovatebot/renovate/releases/tag/43.139.6) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.2`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.2) - Redpanda Helm Chart
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.141.0`](https://github.com/renovatebot/renovate/releases/tag/43.141.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.3`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.3) - Redpanda Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.9.18`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18) - Jenkins helm charts
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-70`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-70) - 
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.1.1`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.1.1) - Build a beautiful Home Assistant dashboard easily
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@veetmoradiya3628**](https://github.com/veetmoradiya3628)
 - [**@xtalkme**](https://github.com/xtalkme)
 - [**@wintun-devop**](https://github.com/wintun-devop)
 - [**@Iankulani**](https://github.com/Iankulani)
 - [**@dkapt**](https://github.com/dkapt)
-- [**@v-shechenkov**](https://github.com/v-shechenkov)

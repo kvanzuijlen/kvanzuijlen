@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 - [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 
 ### 🌱 Recent projects
 
@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [cleanup: disable dependabot in favor of renovate](https://github.com/kvanzuijlen/zeversolar/pull/51) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 - [feat: add autoconfig support for power](https://github.com/MindFreeze/ha-sankey-chart/pull/348) on [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)
 - [feat: add optional smooth_gradients configuration](https://github.com/iljanev/ha-horizontal-gauge-card/pull/3) on [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card)
 - [feat: add segment_value_decimals to config](https://github.com/iljanev/ha-horizontal-gauge-card/pull/2) on [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card)
 - [feat(collector-zfs): add arm64 support for scrutiny collector zfs](https://github.com/Starosdev/scrutiny/pull/422) on [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny)
-- [kminion: bump chart version to 0.15.1](https://github.com/redpanda-data/helm-charts/pull/1730) on [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.170.0`](https://github.com/renovatebot/renovate/releases/tag/43.170.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.170.14`](https://github.com/renovatebot/renovate/releases/tag/43.170.14) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.6`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.6) - Redpanda Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.9.18`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.18) - Jenkins helm charts
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-70`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-70) - 

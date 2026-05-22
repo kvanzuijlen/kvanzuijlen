@@ -22,18 +22,18 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix: refactor workflows](https://github.com/kvanzuijlen/zeversolar/pull/71) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
+- [fix: update sonarqube actions](https://github.com/kvanzuijlen/zeversolar/pull/70) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 - [cleanup: disable dependabot in favor of renovate](https://github.com/kvanzuijlen/zeversolar/pull/51) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 - [feat: add autoconfig support for power](https://github.com/MindFreeze/ha-sankey-chart/pull/348) on [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)
 - [feat: add optional smooth_gradients configuration](https://github.com/iljanev/ha-horizontal-gauge-card/pull/3) on [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card)
-- [feat: add segment_value_decimals to config](https://github.com/iljanev/ha-horizontal-gauge-card/pull/2) on [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card)
-- [feat(collector-zfs): add arm64 support for scrutiny collector zfs](https://github.com/Starosdev/scrutiny/pull/422) on [Starosdev/scrutiny](https://github.com/Starosdev/scrutiny)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.191.1`](https://github.com/renovatebot/renovate/releases/tag/43.191.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.192.0`](https://github.com/renovatebot/renovate/releases/tag/43.192.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-72`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-72) - 
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.7`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.7) - Redpanda Helm Chart
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.2.0`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.2.0) - Build a beautiful Home Assistant dashboard easily
-- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-70`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-70) - 
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation
 
 ### ⭐ Recent Stars

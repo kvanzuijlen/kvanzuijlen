@@ -22,16 +22,16 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [fix(antigravity): fix support for antigravity ide (v2)](https://github.com/robinebers/openusage/pull/508) on [robinebers/openusage](https://github.com/robinebers/openusage)
 - [fix: refactor workflows](https://github.com/kvanzuijlen/zeversolar/pull/71) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 - [fix: update sonarqube actions](https://github.com/kvanzuijlen/zeversolar/pull/70) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 - [cleanup: disable dependabot in favor of renovate](https://github.com/kvanzuijlen/zeversolar/pull/51) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 - [feat: add autoconfig support for power](https://github.com/MindFreeze/ha-sankey-chart/pull/348) on [MindFreeze/ha-sankey-chart](https://github.com/MindFreeze/ha-sankey-chart)
-- [feat: add optional smooth_gradients configuration](https://github.com/iljanev/ha-horizontal-gauge-card/pull/3) on [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card)
 
 ### 🚀 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.195.4`](https://github.com/renovatebot/renovate/releases/tag/43.195.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-76`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-76) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.195.0`](https://github.com/renovatebot/renovate/releases/tag/43.195.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.8`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.8) - Redpanda Helm Chart
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.2.0`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.2.0) - Build a beautiful Home Assistant dashboard easily
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.35.10`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.35.10) - Various helm charts migrated from [helm/stable] due to deprecation

@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.195.4`](https://github.com/renovatebot/renovate/releases/tag/43.195.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.195.8`](https://github.com/renovatebot/renovate/releases/tag/43.195.8) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-76`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-76) - 
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.8`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.8) - Redpanda Helm Chart
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) [`v5.2.0`](https://github.com/piitaya/lovelace-mushroom/releases/tag/v5.2.0) - Build a beautiful Home Assistant dashboard easily
@@ -38,11 +38,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### ⭐ Recent Stars
 
+- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [hashicorp/terraform-provider-assert](https://github.com/hashicorp/terraform-provider-assert) - Offers functions to validate and assert values within Terraform configurations, simplifying variable validation and custom conditions.
 - [galagaking/espaxa](https://github.com/galagaking/espaxa) - ESP Module for controlling AXA Remote2.0
 - [bschaatsbergen/keyless-auth-gcp-hcp-terraform](https://github.com/bschaatsbergen/keyless-auth-gcp-hcp-terraform) - Keyless Google Cloud Access from HCP Terraform
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 
 ### 👀 Recent followers
 

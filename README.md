@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.209.4`](https://github.com/renovatebot/renovate/releases/tag/43.209.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.212.0`](https://github.com/renovatebot/renovate/releases/tag/43.212.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.6.26`](https://github.com/robinebers/openusage/releases/tag/v0.6.26) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-80`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-80) - 
-- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.6.25`](https://github.com/robinebers/openusage/releases/tag/v0.6.25) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.10`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.10) - Redpanda Helm Chart
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) [`0.4.0`](https://github.com/kvanzuijlen/zeversolar/releases/tag/0.4.0) - 
 
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
+- [**@sapoola**](https://github.com/sapoola)
 - [**@veetmoradiya3628**](https://github.com/veetmoradiya3628)
 - [**@xtalkme**](https://github.com/xtalkme)
 - [**@wintun-devop**](https://github.com/wintun-devop)
 - [**@Iankulani**](https://github.com/Iankulani)
-- [**@dkapt**](https://github.com/dkapt)

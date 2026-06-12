@@ -6,19 +6,19 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [kvanzuijlen/esphome-mcp](https://github.com/kvanzuijlen/esphome-mcp) - 
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
-- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 
 ### 🌱 Recent projects
 
+- [kvanzuijlen/esphome-mcp](https://github.com/kvanzuijlen/esphome-mcp) - 
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) - 
 - [kvanzuijlen/hassio-addons](https://github.com/kvanzuijlen/hassio-addons) - 
 - [kvanzuijlen/terraform-time-conversion](https://github.com/kvanzuijlen/terraform-time-conversion) - 
 - [kvanzuijlen/scrutiny-collector](https://github.com/kvanzuijlen/scrutiny-collector) - Scrutiny collector with latest smartmontools
-- [kvanzuijlen/confluent-gcs-sink-connector](https://github.com/kvanzuijlen/confluent-gcs-sink-connector) - Official confluent apache sink connector for Google Cloud Storage packaged in an Docker image
 
 ### 🚧 My recent Pull Requests
 
@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.12`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.12) - Redpanda Helm Chart
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.220.0`](https://github.com/renovatebot/renovate/releases/tag/43.220.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.6.27`](https://github.com/robinebers/openusage/releases/tag/v0.6.27) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.11`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.11) - Redpanda Helm Chart
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-80`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-80) - 
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) [`0.4.0`](https://github.com/kvanzuijlen/zeversolar/releases/tag/0.4.0) - 
 

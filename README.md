@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.7.0-beta.2`](https://github.com/robinebers/openusage/releases/tag/v0.7.0-beta.2) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.224.0`](https://github.com/renovatebot/renovate/releases/tag/43.224.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.38.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.38.0) - Various helm charts migrated from [helm/stable] due to deprecation
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.13`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.13) - Redpanda Helm Chart
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.220.0`](https://github.com/renovatebot/renovate/releases/tag/43.220.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.6.27`](https://github.com/robinebers/openusage/releases/tag/v0.6.27) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-80`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-80) - 
-- [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) [`0.4.0`](https://github.com/kvanzuijlen/zeversolar/releases/tag/0.4.0) - 
 
 ### ⭐ Recent Stars
 

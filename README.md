@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.7.0-beta.2`](https://github.com/robinebers/openusage/releases/tag/v0.7.0-beta.2) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.224.0`](https://github.com/renovatebot/renovate/releases/tag/43.224.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.38.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.38.0) - Various helm charts migrated from [helm/stable] due to deprecation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.226.1`](https://github.com/renovatebot/renovate/releases/tag/43.226.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.7.0-beta.6`](https://github.com/robinebers/openusage/releases/tag/v0.7.0-beta.6) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+- [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.39.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.39.0) - Various helm charts migrated from [helm/stable] due to deprecation
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.13`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.13) - Redpanda Helm Chart
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-80`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-80) - 
 
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
-- [**@yumiaura**](https://github.com/yumiaura)
 - [**@sapoola**](https://github.com/sapoola)
 - [**@veetmoradiya3628**](https://github.com/veetmoradiya3628)
 - [**@xtalkme**](https://github.com/xtalkme)
 - [**@wintun-devop**](https://github.com/wintun-devop)
+- [**@Iankulani**](https://github.com/Iankulani)

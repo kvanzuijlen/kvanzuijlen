@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.231.0`](https://github.com/renovatebot/renovate/releases/tag/43.231.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.15`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.15) - Redpanda Helm Chart
-- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.7.0-beta.7`](https://github.com/robinebers/openusage/releases/tag/v0.7.0-beta.7) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.16`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.16) - Redpanda Helm Chart
+- [robinebers/openusage](https://github.com/robinebers/openusage) [`v0.7.0-beta.9`](https://github.com/robinebers/openusage/releases/tag/v0.7.0-beta.9) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.232.0`](https://github.com/renovatebot/renovate/releases/tag/43.232.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-82`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-82) - 
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.39.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.39.0) - Various helm charts migrated from [helm/stable] due to deprecation
-- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.7-80`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.7-80) - 
 
 ### ⭐ Recent Stars
 

@@ -7,10 +7,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 ### 🛠️ Recent contributions
 
 - [kvanzuijlen/esphome-mcp](https://github.com/kvanzuijlen/esphome-mcp) - 
-- [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart
 - [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
+- [version-cli/version](https://github.com/version-cli/version) - version is a small cli tool that bumps your version number for you and retrieves the latest version of a specified datasource.
 
 ### 🌱 Recent projects
 
@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.242.2`](https://github.com/renovatebot/renovate/releases/tag/43.242.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.243.2`](https://github.com/renovatebot/renovate/releases/tag/43.243.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`kminion-0.15.2`](https://github.com/redpanda-data/helm-charts/releases/tag/kminion-0.15.2) - Redpanda Helm Chart
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-86`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-86) - 
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.16`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.16) - Redpanda Helm Chart
 - [DandyDeveloper/charts](https://github.com/DandyDeveloper/charts) [`redis-ha-4.39.0`](https://github.com/DandyDeveloper/charts/releases/tag/redis-ha-4.39.0) - Various helm charts migrated from [helm/stable] due to deprecation
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) [`0.4.0`](https://github.com/kvanzuijlen/zeversolar/releases/tag/0.4.0) - 
 

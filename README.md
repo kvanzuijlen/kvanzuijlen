@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.263.0`](https://github.com/renovatebot/renovate/releases/tag/43.263.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.263.9`](https://github.com/renovatebot/renovate/releases/tag/43.263.9) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-98`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-98) - 
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.19`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.19) - Redpanda Helm Chart
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.0`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.0) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.

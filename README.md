@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.278.5`](https://github.com/renovatebot/renovate/releases/tag/43.278.5) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-100`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-100) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`43.280.0`](https://github.com/renovatebot/renovate/releases/tag/43.280.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-102`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-102) - 
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.2`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.2) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.19`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.19) - Redpanda Helm Chart
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.0`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.0) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.

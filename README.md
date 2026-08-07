@@ -30,8 +30,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.14.1`](https://github.com/renovatebot/renovate/releases/tag/44.14.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.22`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.22) - Redpanda Helm Chart
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.14.4`](https://github.com/renovatebot/renovate/releases/tag/44.14.4) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.24`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.24) - Redpanda Helm Chart
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-108`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-108) - 
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.2`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.2) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.0`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.0) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.

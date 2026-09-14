@@ -22,15 +22,15 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [overlay: support relative pathnames in mount options](https://github.com/google/gvisor/pull/14732) on [google/gvisor](https://github.com/google/gvisor)
 - [feat: lock all projects before planning any of them](https://github.com/runatlantis/atlantis/pull/6876) on [runatlantis/atlantis](https://github.com/runatlantis/atlantis)
 - [fix(antigravity): fix support for antigravity ide (v2)](https://github.com/robinebers/openusage/pull/508) on [robinebers/openusage](https://github.com/robinebers/openusage)
 - [fix: refactor workflows](https://github.com/kvanzuijlen/zeversolar/pull/71) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 - [fix: update sonarqube actions](https://github.com/kvanzuijlen/zeversolar/pull/70) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
-- [cleanup: disable dependabot in favor of renovate](https://github.com/kvanzuijlen/zeversolar/pull/51) on [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.83.0`](https://github.com/renovatebot/renovate/releases/tag/44.83.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.88.0`](https://github.com/renovatebot/renovate/releases/tag/44.88.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.29`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.29) - Redpanda Helm Chart
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-114`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-114) - 
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.2`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.2) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards

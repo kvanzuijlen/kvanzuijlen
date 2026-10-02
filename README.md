@@ -6,11 +6,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🛠️ Recent contributions
 
+- [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [kvanzuijlen/esphome-mcp](https://github.com/kvanzuijlen/esphome-mcp) - 
 - [kvanzuijlen/zeversolar](https://github.com/kvanzuijlen/zeversolar) - 
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) - Redpanda Helm Chart
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 
 ### 🌱 Recent projects
 
@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.129.0`](https://github.com/renovatebot/renovate/releases/tag/44.129.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.132.2`](https://github.com/renovatebot/renovate/releases/tag/44.132.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [google/gvisor](https://github.com/google/gvisor) [`release-20260928.0`](https://github.com/google/gvisor/releases/tag/release-20260928.0) - Application Kernel for Containers
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.32`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.32) - Redpanda Helm Chart
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-124`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-124) - 
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.2`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.2) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.0`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.0) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 
 ### ⭐ Recent Stars
 

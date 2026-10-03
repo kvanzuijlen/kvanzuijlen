@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.33`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.33) - Redpanda Helm Chart
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.132.2`](https://github.com/renovatebot/renovate/releases/tag/44.132.2) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [google/gvisor](https://github.com/google/gvisor) [`release-20260928.0`](https://github.com/google/gvisor/releases/tag/release-20260928.0) - Application Kernel for Containers
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.32`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.32) - Redpanda Helm Chart
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-124`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-124) - 
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.2`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.2) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
 

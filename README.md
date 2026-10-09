@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.147.0`](https://github.com/renovatebot/renovate/releases/tag/44.147.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.33`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.33) - Redpanda Helm Chart
-- [google/gvisor](https://github.com/google/gvisor) [`release-20260928.0`](https://github.com/google/gvisor/releases/tag/release-20260928.0) - Application Kernel for Containers
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.149.0`](https://github.com/renovatebot/renovate/releases/tag/44.149.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.34`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.34) - Redpanda Helm Chart
+- [google/gvisor](https://github.com/google/gvisor) [`release-20261005.0`](https://github.com/google/gvisor/releases/tag/release-20261005.0) - Application Kernel for Containers
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-124`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-124) - 
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.2`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.2) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
 

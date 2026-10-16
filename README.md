@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.164.3`](https://github.com/renovatebot/renovate/releases/tag/44.164.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.164.10`](https://github.com/renovatebot/renovate/releases/tag/44.164.10) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`kminion-0.15.4`](https://github.com/redpanda-data/helm-charts/releases/tag/kminion-0.15.4) - Redpanda Helm Chart
 - [google/gvisor](https://github.com/google/gvisor) [`release-20261005.0`](https://github.com/google/gvisor/releases/tag/release-20261005.0) - Application Kernel for Containers
 - [kvanzuijlen/octoprint-bambu](https://github.com/kvanzuijlen/octoprint-bambu) [`v1.11.8-124`](https://github.com/kvanzuijlen/octoprint-bambu/releases/tag/v1.11.8-124) - 

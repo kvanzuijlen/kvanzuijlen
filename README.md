@@ -22,17 +22,17 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚧 My recent Pull Requests
 
+- [chore: unblock renovate updates for inbound-agent](https://github.com/jenkinsci/helm-charts/pull/1791) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [chore: fix renovate config for inbound-agent versioning](https://github.com/jenkinsci/helm-charts/pull/1790) on [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts)
 - [devpts: apply mode and gid to replicas, not the root directory](https://github.com/google/gvisor/pull/14762) on [google/gvisor](https://github.com/google/gvisor)
 - [Allow builds in environments where a PTY is unavailable](https://github.com/paketo-buildpacks/libpak/pull/469) on [paketo-buildpacks/libpak](https://github.com/paketo-buildpacks/libpak)
 - [overlay: support relative pathnames in mount options](https://github.com/google/gvisor/pull/14732) on [google/gvisor](https://github.com/google/gvisor)
-- [feat: lock all projects before planning any of them](https://github.com/runatlantis/atlantis/pull/6876) on [runatlantis/atlantis](https://github.com/runatlantis/atlantis)
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.177.0`](https://github.com/renovatebot/renovate/releases/tag/44.177.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.178.0`](https://github.com/renovatebot/renovate/releases/tag/44.178.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.9.73`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.73) - Jenkins helm charts
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.1`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.1) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
-- [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.9.72`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.9.72) - Jenkins helm charts
 - [google/gvisor](https://github.com/google/gvisor) [`release-20261012.0`](https://github.com/google/gvisor/releases/tag/release-20261012.0) - Application Kernel for Containers
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`kminion-0.15.4`](https://github.com/redpanda-data/helm-charts/releases/tag/kminion-0.15.4) - Redpanda Helm Chart
 

@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.206.0`](https://github.com/renovatebot/renovate/releases/tag/44.206.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.209.0`](https://github.com/renovatebot/renovate/releases/tag/44.209.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [google/gvisor](https://github.com/google/gvisor) [`release-20261102.0`](https://github.com/google/gvisor/releases/tag/release-20261102.0) - Application Kernel for Containers
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.10.10`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.10.10) - Jenkins helm charts
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`kminion-0.16.1`](https://github.com/redpanda-data/helm-charts/releases/tag/kminion-0.16.1) - Redpanda Helm Chart
-- [google/gvisor](https://github.com/google/gvisor) [`release-20261026.0`](https://github.com/google/gvisor/releases/tag/release-20261026.0) - Application Kernel for Containers
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.1`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.1) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 
 ### ⭐ Recent Stars

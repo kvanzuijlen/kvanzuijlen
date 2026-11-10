@@ -30,7 +30,7 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.224.1`](https://github.com/renovatebot/renovate/releases/tag/44.224.1) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.226.3`](https://github.com/renovatebot/renovate/releases/tag/44.226.3) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.11.0`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.11.0) - Jenkins helm charts
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`kminion-0.17.0`](https://github.com/redpanda-data/helm-charts/releases/tag/kminion-0.17.0) - Redpanda Helm Chart
 - [google/gvisor](https://github.com/google/gvisor) [`release-20261102.0`](https://github.com/google/gvisor/releases/tag/release-20261102.0) - Application Kernel for Containers

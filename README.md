@@ -30,10 +30,10 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.234.0`](https://github.com/renovatebot/renovate/releases/tag/44.234.0) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`kminion-0.18.0`](https://github.com/redpanda-data/helm-charts/releases/tag/kminion-0.18.0) - Redpanda Helm Chart
+- [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`charts/redpanda/v5.9.25`](https://github.com/redpanda-data/helm-charts/releases/tag/charts/redpanda/v5.9.25) - Redpanda Helm Chart
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.236.2`](https://github.com/renovatebot/renovate/releases/tag/44.236.2) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [google/gvisor](https://github.com/google/gvisor) [`release-20261109.0`](https://github.com/google/gvisor/releases/tag/release-20261109.0) - Application Kernel for Containers
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.12.0`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.12.0) - Jenkins helm charts
-- [google/gvisor](https://github.com/google/gvisor) [`release-20261102.0`](https://github.com/google/gvisor/releases/tag/release-20261102.0) - Application Kernel for Containers
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.1`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.1) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 
 ### ⭐ Recent Stars
@@ -46,8 +46,8 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 👀 Recent followers
 
-- [**@MatthewMacri**](https://github.com/MatthewMacri)
 - [**@Dvurechensky**](https://github.com/Dvurechensky)
 - [**@sapoola**](https://github.com/sapoola)
 - [**@veetmoradiya3628**](https://github.com/veetmoradiya3628)
 - [**@xtalkme**](https://github.com/xtalkme)
+- [**@wintun-devop**](https://github.com/wintun-devop)

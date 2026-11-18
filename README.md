@@ -30,11 +30,11 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) [`44.251.0`](https://github.com/renovatebot/renovate/releases/tag/44.251.0) - Home of the Mend Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [gvisor/gvisor](https://github.com/gvisor/gvisor) [`release-20261116.0`](https://github.com/gvisor/gvisor/releases/tag/release-20261116.0) - Application Kernel for Containers
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`connect-3.2.37`](https://github.com/redpanda-data/helm-charts/releases/tag/connect-3.2.37) - Redpanda Helm Chart
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.13.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3) - Jenkins helm charts
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.1`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.1) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+- [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.2`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.2) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
 
 ### ⭐ Recent Stars
 

@@ -30,9 +30,9 @@ Senior Site Reliability Engineer @ de Bijenkorf, The Netherlands
 
 ### 🚀 Latest releases I've contributed to
 
+- [gvisor/gvisor](https://github.com/gvisor/gvisor) [`release-20261123.0`](https://github.com/gvisor/gvisor/releases/tag/release-20261123.0) - Application Kernel for Containers
 - [iljanev/ha-horizontal-gauge-card](https://github.com/iljanev/ha-horizontal-gauge-card) [`v1.0.9`](https://github.com/iljanev/ha-horizontal-gauge-card/releases/tag/v1.0.9) - Horizontal gauge card for Home Assistant. Inspired by tile card and A little bit of Mushroom Cards
 - [redpanda-data/helm-charts](https://github.com/redpanda-data/helm-charts) [`operator/v26.2.7`](https://github.com/redpanda-data/helm-charts/releases/tag/operator/v26.2.7) - Redpanda Helm Chart
-- [gvisor/gvisor](https://github.com/gvisor/gvisor) [`release-20261116.0`](https://github.com/gvisor/gvisor/releases/tag/release-20261116.0) - Application Kernel for Containers
 - [jenkinsci/helm-charts](https://github.com/jenkinsci/helm-charts) [`jenkins-5.13.3`](https://github.com/jenkinsci/helm-charts/releases/tag/jenkins-5.13.3) - Jenkins helm charts
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) [`v7.2.1`](https://github.com/stefanzweifel/git-auto-commit-action/releases/tag/v7.2.1) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 
